@@ -1,0 +1,630 @@
+,accuracy,formatted_address,google_place_id,input_string,latitude,longitude,number_of_results,postcode,status,type
+0,ROOFTOP,"1 Service St, Hampton VIC 3188, Australia",ChIJ_6FSnR9v1moRtqkC10RWahM,"1 Service St, Hampton VIC 3188, Australia",-37.9386488,145.0027125,1,3188,OK,street_address
+1,APPROXIMATE,"Boroondara, VIC, Australia",ChIJo0uOpoFB1moR_Jg9IVgcPfo,"Boroondara, VIC, Australia",-37.8119024,145.0713904,1,,OK,"administrative_area_level_2,political"
+2,ROOFTOP,"301 Hampshire Rd, Sunshine VIC 3020, Australia",ChIJsYLMoSte1moRPD0FvucGDac,"301 Hampshire Rd, Sunshine VIC 3020, Australia",-37.783319,144.832142,1,3020,OK,street_address
+3,ROOFTOP,"310 Hare St, Echuca VIC 3564, Australia",ChIJFXF8_-QC2WoRXgnbtCw0V4c,"310 Hare St, Echuca VIC 3564, Australia",-36.1235291,144.7488894,1,3564,OK,street_address
+4,ROOFTOP,"400A Belgrave-Gembrook Rd, Emerald VIC 3782, Australia",ChIJ_Uu2Bigh1moRVL4qyfCe9R4,"400A Belgrave-Gembrook Rd, Emerald VIC 3782, Australia",-37.929103,145.445716,1,3782,OK,street_address
+5,RANGE_INTERPOLATED,"178 Doveton St N, Ballarat Central VIC 3350, Australia",EjYxNzggRG92ZXRvbiBTdCBOLCBCYWxsYXJhdCBDZW50cmFsIFZJQyAzMzUwLCBBdXN0cmFsaWE,"178 Doveton St N, Ballarat VIC 3353, Australia",-37.5581345,143.8554904,1,3350,OK,street_address
+6,ROOFTOP,"55 Victoria St, Cobden VIC 3266, Australia",ChIJYxuxlO3q0moRi59MGw7C4Vo,"55 Victoria St, Cobden VIC 3266, Australia",-38.327015,143.077078,1,3266,OK,street_address
+7,ROOFTOP,"32-38 Separation St, Northcote VIC 3070, Australia",ChIJzRZxGX5D1moRWjVdhwYgd4E,"32-38 Separation St, Northcote VIC 3070, Australia",-37.769722,145.00083,1,3070,OK,street_address
+8,ROOFTOP,"22 Service St, Bairnsdale VIC 3875, Australia",ChIJWf54JHZ_L2sRmqZES-NqiUA,"22 Service St, Bairnsdale VIC 3875, Australia",-37.8254878,147.6286582,1,3875,OK,street_address
+9,ROOFTOP,"1350 Ferntree Gully Rd, Scoresby VIC 3179, Australia",ChIJzcdCoN491moRGktOHw8S_q0,"1350 Ferntree Gully Rd, Scoresby VIC 3179, Australia",-37.8996427,145.2313154,1,3179,OK,premise
+10,ROOFTOP,"60 Playne St, Frankston VIC 3199, Australia",ChIJX2PZiNh01moRlmKYuCkxCC4,"60 Playne St, Frankston VIC 3199, Australia",-38.1457511,145.1236502,1,3199,OK,street_address
+11,APPROXIMATE,"Gannawarra, VIC, Australia",ChIJ08tOB2nE22oRJcJ9ydhY0lY,"Gannawarra, VIC, Australia",-35.7052801,143.8237385,1,,OK,"administrative_area_level_2,political"
+12,ROOFTOP,"51 Little Malop St, Geelong VIC 3220, Australia",ChIJMas9SQMU1GoRYV9_eB3dtJ4,"51 Little Malop St, Geelong VIC 3220, Australia",-38.146838,144.356968,1,3220,OK,street_address
+13,ROOFTOP,"161 Jasper Rd, Bentleigh VIC 3204, Australia",ChIJ00JAdVtp1moRSODdnuIMVyU,"161 Jasper Rd, Bentleigh VIC 3204, Australia",-37.9195358,145.0413381,1,3204,OK,street_address
+14,ROOFTOP,"56 Percy St, Portland VIC 3305, Australia",ChIJ30W0vTGYnaoR_-OL6pfUxBg,"56 Percy St, Portland VIC 3305, Australia",-38.3475034,141.6039378,1,3305,OK,street_address
+15,ROOFTOP,"98 Main St, Romsey VIC 3434, Australia",ChIJG195LQIH12oR6gBN4g-uiUc,"98 Main St, Romsey VIC 3434, Australia",-37.3499812,144.7433221,1,3434,OK,street_address
+16,ROOFTOP,"79 Benalla Rd, Shepparton VIC 3630, Australia",ChIJIco8FumD2GoRsTnhH2Q_mD0,"79 Benalla Rd, Shepparton VIC 3630, Australia",-36.3847052,145.4209027,1,3630,OK,street_address
+17,ROOFTOP,"225 Lonsdale St, Dandenong VIC 3175, Australia",ChIJ4SysYA8U1moR3eQVuUTC3N8,"225 Lonsdale St, Dandenong VIC 3175, Australia",-37.9852308,145.2144852,1,3175,OK,premise
+18,RANGE_INTERPOLATED,"21 Docker St, Wangaratta VIC 3677, Australia",EiwyMSBEb2NrZXIgU3QsIFdhbmdhcmF0dGEgVklDIDM2NzcsIEF1c3RyYWxpYQ,"21 Docker St, Wangaratta VIC 3677, Australia",-36.3546102,146.3194022,1,3677,OK,street_address
+19,APPROXIMATE,"Hobsons Bay, VIC, Australia",ChIJrQet5Xth1moRoNNpoMfBvFM,"Hobsons Bay, VIC, Australia",-37.8360799,144.8401227,1,,OK,"administrative_area_level_2,political"
+20,ROOFTOP,"1093 Pascoe Vale Rd, Broadmeadows VIC 3047, Australia",ChIJsfZzXYpa1moRhfRiW6Ef57g,"1093 Pascoe Vale Rd, Broadmeadows VIC 3047, Australia",-37.6825174,144.9184312,1,3047,OK,street_address
+21,ROOFTOP,"34 High St, Yackandandah VIC 3749, Australia",ChIJ62YTrKxUIWsRKViitlMCVE8,"34 High St, Yackandandah VIC 3749, Australia",-36.3131959,146.8371729,1,3749,OK,street_address
+22,ROOFTOP,"63/65 Elgin St, Morwell VIC 3840, Australia",Eis2My82NSBFbGdpbiBTdCwgTW9yd2VsbCBWSUMgMzg0MCwgQXVzdHJhbGlh,"63-65 Elgin St, Morwell VIC 3840, Australia",-38.2400256,146.3991223,2,3840,OK,subpremise
+23,ROOFTOP,"539 Barkly St, West Footscray VIC 3012, Australia",ChIJkZZlqP5d1moRKOghdi9RxSo,"539 Barkly St, West Footscray VIC 3012, Australia",-37.797639,144.878139,1,3012,OK,street_address
+24,ROOFTOP,"328 Swanston St, Melbourne VIC 3000, Australia",ChIJlepBkstC1moRekAIp6Sx0Ao,"328 Swanston St, Melbourne VIC 3000, Australia",-37.8100565,144.9643151,1,3000,OK,street_address
+25,ROOFTOP,"31 McKenzie St, Melton VIC 3337, Australia",ChIJxWEmgT7t1moR5lrABhoxgvE,"31 McKenzie St, Melton VIC 3337, Australia",-37.6848171,144.5820376,1,3337,OK,street_address
+26,ROOFTOP,"190 Deakin Ave, Mildura VIC 3500, Australia",ChIJf1IWeHoDw2oRIO9vY5_pyVQ,"The Alfred Deakin Centre, 180 - 190 Deakin Ave, Mildura VIC 3500, Australia",-34.1911195,142.156883,2,3500,OK,"establishment,point_of_interest"
+27,ROOFTOP,"113 High St, Broadford VIC 3658, Australia",ChIJj-mYDqCW12oRgg2txAbw5aU,"113 High St, Broadford VIC 3658, Australia",-37.2030048,145.0489732,1,3658,OK,street_address
+28,ROOFTOP,"148 Drummond St, Oakleigh VIC 3166, Australia",ChIJ77Jq115q1moRZUke_U2y8nE,"148 Drummond St, Oakleigh VIC 3166, Australia",-37.8973941,145.0902478,1,3166,OK,street_address
+29,ROOFTOP,"762 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",ChIJnf-fqPNc1moRodlds-wJ3O4,"762 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",-37.7647126,144.9245803,1,3039,OK,street_address
+30,ROOFTOP,"737 Pascoe Vale Rd, Glenroy VIC 3046, Australia",ChIJw56dFapb1moR0aQnIZRGoMI,"737 Pascoe Vale Rd, Glenroy VIC 3046, Australia",-37.706755,144.916,1,3046,OK,street_address
+31,GEOMETRIC_CENTER,"Vancouver St, Mornington VIC 3931, Australia",,"Vancouver St, Mornington VIC 3931, Australia",-38.2174443,145.03567,1,3931,OK,route
+32,ROOFTOP,"49 Grant St, Alexandra VIC 3714, Australia",ChIJ_SAckzMIKGsRj_ANkj6ogCE,"49 Grant St, Alexandra VIC 3714, Australia",-37.1907018,145.7092892,1,3714,OK,street_address
+33,ROOFTOP,"319 Montague St, Albert Park VIC 3206, Australia",ChIJx743kONn1moRQIjQLxS4eVc,"319 Montague St, Albert Park VIC 3206, Australia",-37.8413345,144.9563223,1,3206,OK,street_address
+34,ROOFTOP,"1 Winter St, Malvern VIC 3144, Australia",ChIJS8nMGedp1moRY9pfAytTcjI,"1 Winter St, Malvern VIC 3144, Australia",-37.859755,145.029415,1,3144,OK,street_address
+35,ROOFTOP,"53-67 Campbell St, Swan Hill VIC 3585, Australia",ChIJEWP3xYiF22oR19N0Wrhmzac,"53-67 Campbell St, Swan Hill VIC 3585, Australia",-35.3356181,143.5588428,1,3585,OK,street_address
+36,APPROXIMATE,"Corryong VIC 3707, Australia",ChIJv88X1t8ZI2sRoE6gMKR5BQQ,"Corryong VIC 3707, Australia",-36.1966523,147.9023498,1,3707,OK,"locality,political"
+37,ROOFTOP,"Wellington Shire Council, 70 Foster St, Sale VIC 3850, Australia",ChIJNbmlWAQvL2sRuPwWYz0lRCs,"Wellington Shire Council, 70 Foster St, Sale VIC 3850, Australia",-38.1118103,147.0639369,2,3850,OK,premise
+38,ROOFTOP,"Regional Support Centre Unit, 2/65 Victoria St, Warragul VIC 3820, Australia",ChIJG9D9lfuVKWsRcRWl1nsk2hY,"Regional Support Centre Unit, 2/65 Victoria St, Warragul VIC 3820, Australia",-38.160077,145.929458,1,3820,OK,"establishment,point_of_interest"
+39,ROOFTOP,"687 Doncaster Rd, Doncaster VIC 3108, Australia",ChIJx_RGkGRH1moRD_ojXw8eqwk,"687 Doncaster Rd, Doncaster VIC 3108, Australia",-37.7870472,145.1312894,1,3108,OK,premise
+40,ROOFTOP,"28 McLachlan St, Horsham VIC 3400, Australia",ChIJC4RUb09FzmoRSGKBvAJ_9sI,"28 McLachlan St, Horsham VIC 3400, Australia",-36.7128902,142.2009944,1,3400,OK,street_address
+41,ROOFTOP,"126 Hovell St, Wodonga VIC 3690, Australia",ChIJ-Skfou9YIWsRTWdwXynE5XE,"126 Hovell St, Wodonga VIC 3690, Australia",-36.1241467,146.8888274,1,3690,OK,street_address
+42,GEOMETRIC_CENTER,"Pacific Werribee Shopping Centre, Level 1 MM11 Derrimut Road, Werribee VIC 3030, Australia",ChIJ58j3CFuP1moRfeCFM9CVBDs,"Pacific Werribee Shopping Centre, Level 1 MM11 Derrimut Road, Werribee VIC 3030, Australia",-37.8753489,144.6820197,2,3030,OK,"establishment,library,point_of_interest"
+43,ROOFTOP,"340 Toorak Rd, South Yarra VIC 3141, Australia",ChIJreME3oNC1moRtcQgVnSNxyQ,"340 Toorak Rd, South Yarra VIC 3141, Australia",-37.840126,144.999431,1,3141,OK,street_address
+44,GEOMETRIC_CENTER,"Bag 65, Bundoora VIC 3083, Australia",ChIJayHXl7dI1moRrcTS8tghy0s,"Bag 65, Bundoora VIC 3083, Australia",-37.69706,145.0590021,1,3083,OK,"establishment,library,point_of_interest"
+45,ROOFTOP,"328 Swanston St, Melbourne VIC 3000, Australia",ChIJlepBkstC1moRekAIp6Sx0Ao,"328 Swanston St, Melbourne VIC 3000, Australia",-37.8100565,144.9643151,1,3000,OK,street_address
+46,ROOFTOP,"328 Swanston St, Melbourne VIC 3000, Australia",ChIJlepBkstC1moRekAIp6Sx0Ao,"328 Swanston St, Melbourne VIC 3000, Australia",-37.8100565,144.9643151,1,3000,OK,street_address
+47,ROOFTOP,"454 Glenferrie Rd, Kooyong VIC 3144, Australia",ChIJn7bEgBZC1moRVmMo_1h-oYY,"454 Glenferrie Rd, Kooyong VIC 3144, Australia",-37.838668,145.0328878,1,3144,OK,premise
+48,ROOFTOP,"1 Service St, Hampton VIC 3188, Australia",ChIJ_6FSnR9v1moRtqkC10RWahM,"1 Service St, Hampton VIC 3188, Australia",-37.9386488,145.0027125,1,3188,OK,street_address
+49,APPROXIMATE,"Boroondara, VIC, Australia",ChIJo0uOpoFB1moR_Jg9IVgcPfo,"Boroondara, VIC, Australia",-37.8119024,145.0713904,1,,OK,"administrative_area_level_2,political"
+50,ROOFTOP,"301 Hampshire Rd, Sunshine VIC 3020, Australia",ChIJsYLMoSte1moRPD0FvucGDac,"301 Hampshire Rd, Sunshine VIC 3020, Australia",-37.783319,144.832142,1,3020,OK,street_address
+51,ROOFTOP,"310 Hare St, Echuca VIC 3564, Australia",ChIJFXF8_-QC2WoRXgnbtCw0V4c,"310 Hare St, Echuca VIC 3564, Australia",-36.1235291,144.7488894,1,3564,OK,street_address
+52,ROOFTOP,"400A Belgrave-Gembrook Rd, Emerald VIC 3782, Australia",ChIJ_Uu2Bigh1moRVL4qyfCe9R4,"400A Belgrave-Gembrook Rd, Emerald VIC 3782, Australia",-37.929103,145.445716,1,3782,OK,street_address
+53,RANGE_INTERPOLATED,"178 Doveton St N, Ballarat Central VIC 3350, Australia",EjYxNzggRG92ZXRvbiBTdCBOLCBCYWxsYXJhdCBDZW50cmFsIFZJQyAzMzUwLCBBdXN0cmFsaWE,"178 Doveton St N, Ballarat VIC 3353, Australia",-37.5581345,143.8554904,1,3350,OK,street_address
+54,ROOFTOP,"55 Victoria St, Cobden VIC 3266, Australia",ChIJYxuxlO3q0moRi59MGw7C4Vo,"55 Victoria St, Cobden VIC 3266, Australia",-38.327015,143.077078,1,3266,OK,street_address
+55,ROOFTOP,"32-38 Separation St, Northcote VIC 3070, Australia",ChIJzRZxGX5D1moRWjVdhwYgd4E,"32-38 Separation St, Northcote VIC 3070, Australia",-37.769722,145.00083,1,3070,OK,street_address
+56,ROOFTOP,"22 Service St, Bairnsdale VIC 3875, Australia",ChIJWf54JHZ_L2sRmqZES-NqiUA,"22 Service St, Bairnsdale VIC 3875, Australia",-37.8254878,147.6286582,1,3875,OK,street_address
+57,ROOFTOP,"1350 Ferntree Gully Rd, Scoresby VIC 3179, Australia",ChIJzcdCoN491moRGktOHw8S_q0,"1350 Ferntree Gully Rd, Scoresby VIC 3179, Australia",-37.8996427,145.2313154,1,3179,OK,premise
+58,ROOFTOP,"60 Playne St, Frankston VIC 3199, Australia",ChIJX2PZiNh01moRlmKYuCkxCC4,"60 Playne St, Frankston VIC 3199, Australia",-38.1457511,145.1236502,1,3199,OK,street_address
+59,APPROXIMATE,"Gannawarra, VIC, Australia",ChIJ08tOB2nE22oRJcJ9ydhY0lY,"Gannawarra, VIC, Australia",-35.7052801,143.8237385,1,,OK,"administrative_area_level_2,political"
+60,ROOFTOP,"51 Little Malop St, Geelong VIC 3220, Australia",ChIJMas9SQMU1GoRYV9_eB3dtJ4,"51 Little Malop St, Geelong VIC 3220, Australia",-38.146838,144.356968,1,3220,OK,street_address
+61,ROOFTOP,"161 Jasper Rd, Bentleigh VIC 3204, Australia",ChIJ00JAdVtp1moRSODdnuIMVyU,"161 Jasper Rd, Bentleigh VIC 3204, Australia",-37.9195358,145.0413381,1,3204,OK,street_address
+62,ROOFTOP,"56 Percy St, Portland VIC 3305, Australia",ChIJ30W0vTGYnaoR_-OL6pfUxBg,"56 Percy St, Portland VIC 3305, Australia",-38.3475034,141.6039378,1,3305,OK,street_address
+63,ROOFTOP,"98 Main St, Romsey VIC 3434, Australia",ChIJG195LQIH12oR6gBN4g-uiUc,"98 Main St, Romsey VIC 3434, Australia",-37.3499812,144.7433221,1,3434,OK,street_address
+64,ROOFTOP,"79 Benalla Rd, Shepparton VIC 3630, Australia",ChIJIco8FumD2GoRsTnhH2Q_mD0,"79 Benalla Rd, Shepparton VIC 3630, Australia",-36.3847052,145.4209027,1,3630,OK,street_address
+65,ROOFTOP,"225 Lonsdale St, Dandenong VIC 3175, Australia",ChIJ4SysYA8U1moR3eQVuUTC3N8,"225 Lonsdale St, Dandenong VIC 3175, Australia",-37.9852308,145.2144852,1,3175,OK,premise
+66,RANGE_INTERPOLATED,"21 Docker St, Wangaratta VIC 3677, Australia",EiwyMSBEb2NrZXIgU3QsIFdhbmdhcmF0dGEgVklDIDM2NzcsIEF1c3RyYWxpYQ,"21 Docker St, Wangaratta VIC 3677, Australia",-36.3546102,146.3194022,1,3677,OK,street_address
+67,APPROXIMATE,"Hobsons Bay, VIC, Australia",ChIJrQet5Xth1moRoNNpoMfBvFM,"Hobsons Bay, VIC, Australia",-37.8360799,144.8401227,1,,OK,"administrative_area_level_2,political"
+68,ROOFTOP,"1093 Pascoe Vale Rd, Broadmeadows VIC 3047, Australia",ChIJsfZzXYpa1moRhfRiW6Ef57g,"1093 Pascoe Vale Rd, Broadmeadows VIC 3047, Australia",-37.6825174,144.9184312,1,3047,OK,street_address
+69,ROOFTOP,"34 High St, Yackandandah VIC 3749, Australia",ChIJ62YTrKxUIWsRKViitlMCVE8,"34 High St, Yackandandah VIC 3749, Australia",-36.3131959,146.8371729,1,3749,OK,street_address
+70,ROOFTOP,"63/65 Elgin St, Morwell VIC 3840, Australia",Eis2My82NSBFbGdpbiBTdCwgTW9yd2VsbCBWSUMgMzg0MCwgQXVzdHJhbGlh,"63-65 Elgin St, Morwell VIC 3840, Australia",-38.2400256,146.3991223,2,3840,OK,subpremise
+71,ROOFTOP,"539 Barkly St, West Footscray VIC 3012, Australia",ChIJkZZlqP5d1moRKOghdi9RxSo,"539 Barkly St, West Footscray VIC 3012, Australia",-37.797639,144.878139,1,3012,OK,street_address
+72,ROOFTOP,"328 Swanston St, Melbourne VIC 3000, Australia",ChIJlepBkstC1moRekAIp6Sx0Ao,"328 Swanston St, Melbourne VIC 3000, Australia",-37.8100565,144.9643151,1,3000,OK,street_address
+73,ROOFTOP,"31 McKenzie St, Melton VIC 3337, Australia",ChIJxWEmgT7t1moR5lrABhoxgvE,"31 McKenzie St, Melton VIC 3337, Australia",-37.6848171,144.5820376,1,3337,OK,street_address
+74,ROOFTOP,"190 Deakin Ave, Mildura VIC 3500, Australia",ChIJf1IWeHoDw2oRIO9vY5_pyVQ,"The Alfred Deakin Centre, 180 - 190 Deakin Ave, Mildura VIC 3500, Australia",-34.1911195,142.156883,2,3500,OK,"establishment,point_of_interest"
+75,ROOFTOP,"113 High St, Broadford VIC 3658, Australia",ChIJj-mYDqCW12oRgg2txAbw5aU,"113 High St, Broadford VIC 3658, Australia",-37.2030048,145.0489732,1,3658,OK,street_address
+76,ROOFTOP,"148 Drummond St, Oakleigh VIC 3166, Australia",ChIJ77Jq115q1moRZUke_U2y8nE,"148 Drummond St, Oakleigh VIC 3166, Australia",-37.8973941,145.0902478,1,3166,OK,street_address
+77,ROOFTOP,"762 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",ChIJnf-fqPNc1moRodlds-wJ3O4,"762 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",-37.7647126,144.9245803,1,3039,OK,street_address
+78,ROOFTOP,"737 Pascoe Vale Rd, Glenroy VIC 3046, Australia",ChIJw56dFapb1moR0aQnIZRGoMI,"737 Pascoe Vale Rd, Glenroy VIC 3046, Australia",-37.706755,144.916,1,3046,OK,street_address
+79,GEOMETRIC_CENTER,"Vancouver St, Mornington VIC 3931, Australia",,"Vancouver St, Mornington VIC 3931, Australia",-38.2174443,145.03567,1,3931,OK,route
+80,ROOFTOP,"49 Grant St, Alexandra VIC 3714, Australia",ChIJ_SAckzMIKGsRj_ANkj6ogCE,"49 Grant St, Alexandra VIC 3714, Australia",-37.1907018,145.7092892,1,3714,OK,street_address
+81,ROOFTOP,"319 Montague St, Albert Park VIC 3206, Australia",ChIJx743kONn1moRQIjQLxS4eVc,"319 Montague St, Albert Park VIC 3206, Australia",-37.8413345,144.9563223,1,3206,OK,street_address
+82,ROOFTOP,"1 Winter St, Malvern VIC 3144, Australia",ChIJS8nMGedp1moRY9pfAytTcjI,"1 Winter St, Malvern VIC 3144, Australia",-37.859755,145.029415,1,3144,OK,street_address
+83,ROOFTOP,"53-67 Campbell St, Swan Hill VIC 3585, Australia",ChIJEWP3xYiF22oR19N0Wrhmzac,"53-67 Campbell St, Swan Hill VIC 3585, Australia",-35.3356181,143.5588428,1,3585,OK,street_address
+84,APPROXIMATE,"Corryong VIC 3707, Australia",ChIJv88X1t8ZI2sRoE6gMKR5BQQ,"Corryong VIC 3707, Australia",-36.1966523,147.9023498,1,3707,OK,"locality,political"
+85,ROOFTOP,"Wellington Shire Council, 70 Foster St, Sale VIC 3850, Australia",ChIJNbmlWAQvL2sRuPwWYz0lRCs,"Wellington Shire Council, 70 Foster St, Sale VIC 3850, Australia",-38.1118103,147.0639369,2,3850,OK,premise
+86,ROOFTOP,"Regional Support Centre Unit, 2/65 Victoria St, Warragul VIC 3820, Australia",ChIJG9D9lfuVKWsRcRWl1nsk2hY,"Regional Support Centre Unit, 2/65 Victoria St, Warragul VIC 3820, Australia",-38.160077,145.929458,1,3820,OK,"establishment,point_of_interest"
+87,ROOFTOP,"687 Doncaster Rd, Doncaster VIC 3108, Australia",ChIJx_RGkGRH1moRD_ojXw8eqwk,"687 Doncaster Rd, Doncaster VIC 3108, Australia",-37.7870472,145.1312894,1,3108,OK,premise
+88,ROOFTOP,"28 McLachlan St, Horsham VIC 3400, Australia",ChIJC4RUb09FzmoRSGKBvAJ_9sI,"28 McLachlan St, Horsham VIC 3400, Australia",-36.7128902,142.2009944,1,3400,OK,street_address
+89,ROOFTOP,"126 Hovell St, Wodonga VIC 3690, Australia",ChIJ-Skfou9YIWsRTWdwXynE5XE,"126 Hovell St, Wodonga VIC 3690, Australia",-36.1241467,146.8888274,1,3690,OK,street_address
+90,GEOMETRIC_CENTER,"Pacific Werribee Shopping Centre, Level 1 MM11 Derrimut Road, Werribee VIC 3030, Australia",ChIJ58j3CFuP1moRfeCFM9CVBDs,"Pacific Werribee Shopping Centre, Level 1 MM11 Derrimut Road, Werribee VIC 3030, Australia",-37.8753489,144.6820197,2,3030,OK,"establishment,library,point_of_interest"
+91,ROOFTOP,"340 Toorak Rd, South Yarra VIC 3141, Australia",ChIJreME3oNC1moRtcQgVnSNxyQ,"340 Toorak Rd, South Yarra VIC 3141, Australia",-37.840126,144.999431,1,3141,OK,street_address
+92,GEOMETRIC_CENTER,"Bag 65, Bundoora VIC 3083, Australia",ChIJayHXl7dI1moRrcTS8tghy0s,"Bag 65, Bundoora VIC 3083, Australia",-37.69706,145.0590021,1,3083,OK,"establishment,library,point_of_interest"
+93,ROOFTOP,"328 Swanston St, Melbourne VIC 3000, Australia",ChIJlepBkstC1moRekAIp6Sx0Ao,"328 Swanston St, Melbourne VIC 3000, Australia",-37.8100565,144.9643151,1,3000,OK,street_address
+94,ROOFTOP,"328 Swanston St, Melbourne VIC 3000, Australia",ChIJlepBkstC1moRekAIp6Sx0Ao,"328 Swanston St, Melbourne VIC 3000, Australia",-37.8100565,144.9643151,1,3000,OK,street_address
+95,ROOFTOP,"454 Glenferrie Rd, Kooyong VIC 3144, Australia",ChIJn7bEgBZC1moRVmMo_1h-oYY,"454 Glenferrie Rd, Kooyong VIC 3144, Australia",-37.838668,145.0328878,1,3144,OK,premise
+96,ROOFTOP,"1 Service St, Hampton VIC 3188, Australia",ChIJ_6FSnR9v1moRtqkC10RWahM,"1 Service St, Hampton VIC 3188, Australia",-37.9386488,145.0027125,1,3188,OK,street_address
+97,APPROXIMATE,"Boroondara, VIC, Australia",ChIJo0uOpoFB1moR_Jg9IVgcPfo,"Boroondara, VIC, Australia",-37.8119024,145.0713904,1,,OK,"administrative_area_level_2,political"
+98,ROOFTOP,"301 Hampshire Rd, Sunshine VIC 3020, Australia",ChIJsYLMoSte1moRPD0FvucGDac,"301 Hampshire Rd, Sunshine VIC 3020, Australia",-37.783319,144.832142,1,3020,OK,street_address
+99,ROOFTOP,"310 Hare St, Echuca VIC 3564, Australia",ChIJFXF8_-QC2WoRXgnbtCw0V4c,"310 Hare St, Echuca VIC 3564, Australia",-36.1235291,144.7488894,1,3564,OK,street_address
+100,ROOFTOP,"400A Belgrave-Gembrook Rd, Emerald VIC 3782, Australia",ChIJ_Uu2Bigh1moRVL4qyfCe9R4,"400A Belgrave-Gembrook Rd, Emerald VIC 3782, Australia",-37.929103,145.445716,1,3782,OK,street_address
+101,RANGE_INTERPOLATED,"178 Doveton St N, Ballarat Central VIC 3350, Australia",EjYxNzggRG92ZXRvbiBTdCBOLCBCYWxsYXJhdCBDZW50cmFsIFZJQyAzMzUwLCBBdXN0cmFsaWE,"178 Doveton St N, Ballarat VIC 3353, Australia",-37.5581345,143.8554904,1,3350,OK,street_address
+102,ROOFTOP,"55 Victoria St, Cobden VIC 3266, Australia",ChIJYxuxlO3q0moRi59MGw7C4Vo,"55 Victoria St, Cobden VIC 3266, Australia",-38.327015,143.077078,1,3266,OK,street_address
+103,ROOFTOP,"32-38 Separation St, Northcote VIC 3070, Australia",ChIJzRZxGX5D1moRWjVdhwYgd4E,"32-38 Separation St, Northcote VIC 3070, Australia",-37.769722,145.00083,1,3070,OK,street_address
+104,ROOFTOP,"22 Service St, Bairnsdale VIC 3875, Australia",ChIJWf54JHZ_L2sRmqZES-NqiUA,"22 Service St, Bairnsdale VIC 3875, Australia",-37.8254878,147.6286582,1,3875,OK,street_address
+105,ROOFTOP,"1350 Ferntree Gully Rd, Scoresby VIC 3179, Australia",ChIJzcdCoN491moRGktOHw8S_q0,"1350 Ferntree Gully Rd, Scoresby VIC 3179, Australia",-37.8996427,145.2313154,1,3179,OK,premise
+106,ROOFTOP,"60 Playne St, Frankston VIC 3199, Australia",ChIJX2PZiNh01moRlmKYuCkxCC4,"60 Playne St, Frankston VIC 3199, Australia",-38.1457511,145.1236502,1,3199,OK,street_address
+107,APPROXIMATE,"Gannawarra, VIC, Australia",ChIJ08tOB2nE22oRJcJ9ydhY0lY,"Gannawarra, VIC, Australia",-35.7052801,143.8237385,1,,OK,"administrative_area_level_2,political"
+108,ROOFTOP,"51 Little Malop St, Geelong VIC 3220, Australia",ChIJMas9SQMU1GoRYV9_eB3dtJ4,"51 Little Malop St, Geelong VIC 3220, Australia",-38.146838,144.356968,1,3220,OK,street_address
+109,ROOFTOP,"161 Jasper Rd, Bentleigh VIC 3204, Australia",ChIJ00JAdVtp1moRSODdnuIMVyU,"161 Jasper Rd, Bentleigh VIC 3204, Australia",-37.9195358,145.0413381,1,3204,OK,street_address
+110,ROOFTOP,"56 Percy St, Portland VIC 3305, Australia",ChIJ30W0vTGYnaoR_-OL6pfUxBg,"56 Percy St, Portland VIC 3305, Australia",-38.3475034,141.6039378,1,3305,OK,street_address
+111,ROOFTOP,"98 Main St, Romsey VIC 3434, Australia",ChIJG195LQIH12oR6gBN4g-uiUc,"98 Main St, Romsey VIC 3434, Australia",-37.3499812,144.7433221,1,3434,OK,street_address
+112,ROOFTOP,"79 Benalla Rd, Shepparton VIC 3630, Australia",ChIJIco8FumD2GoRsTnhH2Q_mD0,"79 Benalla Rd, Shepparton VIC 3630, Australia",-36.3847052,145.4209027,1,3630,OK,street_address
+113,ROOFTOP,"225 Lonsdale St, Dandenong VIC 3175, Australia",ChIJ4SysYA8U1moR3eQVuUTC3N8,"225 Lonsdale St, Dandenong VIC 3175, Australia",-37.9852308,145.2144852,1,3175,OK,premise
+114,RANGE_INTERPOLATED,"21 Docker St, Wangaratta VIC 3677, Australia",EiwyMSBEb2NrZXIgU3QsIFdhbmdhcmF0dGEgVklDIDM2NzcsIEF1c3RyYWxpYQ,"21 Docker St, Wangaratta VIC 3677, Australia",-36.3546102,146.3194022,1,3677,OK,street_address
+115,APPROXIMATE,"Hobsons Bay, VIC, Australia",ChIJrQet5Xth1moRoNNpoMfBvFM,"Hobsons Bay, VIC, Australia",-37.8360799,144.8401227,1,,OK,"administrative_area_level_2,political"
+116,ROOFTOP,"1093 Pascoe Vale Rd, Broadmeadows VIC 3047, Australia",ChIJsfZzXYpa1moRhfRiW6Ef57g,"1093 Pascoe Vale Rd, Broadmeadows VIC 3047, Australia",-37.6825174,144.9184312,1,3047,OK,street_address
+117,ROOFTOP,"34 High St, Yackandandah VIC 3749, Australia",ChIJ62YTrKxUIWsRKViitlMCVE8,"34 High St, Yackandandah VIC 3749, Australia",-36.3131959,146.8371729,1,3749,OK,street_address
+118,ROOFTOP,"63/65 Elgin St, Morwell VIC 3840, Australia",Eis2My82NSBFbGdpbiBTdCwgTW9yd2VsbCBWSUMgMzg0MCwgQXVzdHJhbGlh,"63-65 Elgin St, Morwell VIC 3840, Australia",-38.2400256,146.3991223,2,3840,OK,subpremise
+119,ROOFTOP,"539 Barkly St, West Footscray VIC 3012, Australia",ChIJkZZlqP5d1moRKOghdi9RxSo,"539 Barkly St, West Footscray VIC 3012, Australia",-37.797639,144.878139,1,3012,OK,street_address
+120,ROOFTOP,"328 Swanston St, Melbourne VIC 3000, Australia",ChIJlepBkstC1moRekAIp6Sx0Ao,"328 Swanston St, Melbourne VIC 3000, Australia",-37.8100565,144.9643151,1,3000,OK,street_address
+121,ROOFTOP,"31 McKenzie St, Melton VIC 3337, Australia",ChIJxWEmgT7t1moR5lrABhoxgvE,"31 McKenzie St, Melton VIC 3337, Australia",-37.6848171,144.5820376,1,3337,OK,street_address
+122,ROOFTOP,"190 Deakin Ave, Mildura VIC 3500, Australia",ChIJf1IWeHoDw2oRIO9vY5_pyVQ,"The Alfred Deakin Centre, 180 - 190 Deakin Ave, Mildura VIC 3500, Australia",-34.1911195,142.156883,2,3500,OK,"establishment,point_of_interest"
+123,ROOFTOP,"113 High St, Broadford VIC 3658, Australia",ChIJj-mYDqCW12oRgg2txAbw5aU,"113 High St, Broadford VIC 3658, Australia",-37.2030048,145.0489732,1,3658,OK,street_address
+124,ROOFTOP,"148 Drummond St, Oakleigh VIC 3166, Australia",ChIJ77Jq115q1moRZUke_U2y8nE,"148 Drummond St, Oakleigh VIC 3166, Australia",-37.8973941,145.0902478,1,3166,OK,street_address
+125,ROOFTOP,"762 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",ChIJnf-fqPNc1moRodlds-wJ3O4,"762 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",-37.7647126,144.9245803,1,3039,OK,street_address
+126,ROOFTOP,"737 Pascoe Vale Rd, Glenroy VIC 3046, Australia",ChIJw56dFapb1moR0aQnIZRGoMI,"737 Pascoe Vale Rd, Glenroy VIC 3046, Australia",-37.706755,144.916,1,3046,OK,street_address
+127,GEOMETRIC_CENTER,"Vancouver St, Mornington VIC 3931, Australia",,"Vancouver St, Mornington VIC 3931, Australia",-38.2174443,145.03567,1,3931,OK,route
+128,ROOFTOP,"49 Grant St, Alexandra VIC 3714, Australia",ChIJ_SAckzMIKGsRj_ANkj6ogCE,"49 Grant St, Alexandra VIC 3714, Australia",-37.1907018,145.7092892,1,3714,OK,street_address
+129,ROOFTOP,"319 Montague St, Albert Park VIC 3206, Australia",ChIJx743kONn1moRQIjQLxS4eVc,"319 Montague St, Albert Park VIC 3206, Australia",-37.8413345,144.9563223,1,3206,OK,street_address
+130,ROOFTOP,"1 Winter St, Malvern VIC 3144, Australia",ChIJS8nMGedp1moRY9pfAytTcjI,"1 Winter St, Malvern VIC 3144, Australia",-37.859755,145.029415,1,3144,OK,street_address
+131,ROOFTOP,"53-67 Campbell St, Swan Hill VIC 3585, Australia",ChIJEWP3xYiF22oR19N0Wrhmzac,"53-67 Campbell St, Swan Hill VIC 3585, Australia",-35.3356181,143.5588428,1,3585,OK,street_address
+132,APPROXIMATE,"Corryong VIC 3707, Australia",ChIJv88X1t8ZI2sRoE6gMKR5BQQ,"Corryong VIC 3707, Australia",-36.1966523,147.9023498,1,3707,OK,"locality,political"
+133,ROOFTOP,"Wellington Shire Council, 70 Foster St, Sale VIC 3850, Australia",ChIJNbmlWAQvL2sRuPwWYz0lRCs,"Wellington Shire Council, 70 Foster St, Sale VIC 3850, Australia",-38.1118103,147.0639369,2,3850,OK,premise
+134,ROOFTOP,"Regional Support Centre Unit, 2/65 Victoria St, Warragul VIC 3820, Australia",ChIJG9D9lfuVKWsRcRWl1nsk2hY,"Regional Support Centre Unit, 2/65 Victoria St, Warragul VIC 3820, Australia",-38.160077,145.929458,1,3820,OK,"establishment,point_of_interest"
+135,ROOFTOP,"687 Doncaster Rd, Doncaster VIC 3108, Australia",ChIJx_RGkGRH1moRD_ojXw8eqwk,"687 Doncaster Rd, Doncaster VIC 3108, Australia",-37.7870472,145.1312894,1,3108,OK,premise
+136,ROOFTOP,"28 McLachlan St, Horsham VIC 3400, Australia",ChIJC4RUb09FzmoRSGKBvAJ_9sI,"28 McLachlan St, Horsham VIC 3400, Australia",-36.7128902,142.2009944,1,3400,OK,street_address
+137,ROOFTOP,"126 Hovell St, Wodonga VIC 3690, Australia",ChIJ-Skfou9YIWsRTWdwXynE5XE,"126 Hovell St, Wodonga VIC 3690, Australia",-36.1241467,146.8888274,1,3690,OK,street_address
+138,GEOMETRIC_CENTER,"Pacific Werribee Shopping Centre, Level 1 MM11 Derrimut Road, Werribee VIC 3030, Australia",ChIJ58j3CFuP1moRfeCFM9CVBDs,"Pacific Werribee Shopping Centre, Level 1 MM11 Derrimut Road, Werribee VIC 3030, Australia",-37.8753489,144.6820197,2,3030,OK,"establishment,library,point_of_interest"
+139,ROOFTOP,"340 Toorak Rd, South Yarra VIC 3141, Australia",ChIJreME3oNC1moRtcQgVnSNxyQ,"340 Toorak Rd, South Yarra VIC 3141, Australia",-37.840126,144.999431,1,3141,OK,street_address
+140,GEOMETRIC_CENTER,"Bag 65, Bundoora VIC 3083, Australia",ChIJayHXl7dI1moRrcTS8tghy0s,"Bag 65, Bundoora VIC 3083, Australia",-37.69706,145.0590021,1,3083,OK,"establishment,library,point_of_interest"
+141,ROOFTOP,"328 Swanston St, Melbourne VIC 3000, Australia",ChIJlepBkstC1moRekAIp6Sx0Ao,"328 Swanston St, Melbourne VIC 3000, Australia",-37.8100565,144.9643151,1,3000,OK,street_address
+142,ROOFTOP,"328 Swanston St, Melbourne VIC 3000, Australia",ChIJlepBkstC1moRekAIp6Sx0Ao,"328 Swanston St, Melbourne VIC 3000, Australia",-37.8100565,144.9643151,1,3000,OK,street_address
+143,ROOFTOP,"454 Glenferrie Rd, Kooyong VIC 3144, Australia",ChIJn7bEgBZC1moRVmMo_1h-oYY,"454 Glenferrie Rd, Kooyong VIC 3144, Australia",-37.838668,145.0328878,1,3144,OK,premise
+144,ROOFTOP,"170 Rindge Ave, Cambridge, MA 02140, USA",ChIJg7vanBp344kRSSVflkEFDes,"170 Rindge Ave, Cambridge, MA 02140, USA",42.3933524,-71.1312708,1,2140,OK,street_address
+145,ROOFTOP,"209 Flinders Ln, Melbourne VIC 3000, Australia",ChIJ9Z4kiLZC1moRbuh0Ew968RY,"209 Flinders Ln, Melbourne VIC 3000, Australia",-37.8164151,144.9674887,1,3000,OK,street_address
+146,ROOFTOP,"262 Queen St, Melbourne VIC 3000, Australia",ChIJ5VRBvEpd1moRpXeJ1l74DhM,"Ground Floor 262 Queen Street, Melbourne VIC 3000, Australia",-37.8124205,144.9597974,1,3000,OK,street_address
+147,ROOFTOP,"174 Collins St, Melbourne VIC 3000, Australia",ChIJ3Va1FrZC1moR48hR2pPRsH4,"174 Collins St, Melbourne VIC 3000, Australia",-37.814945,144.967725,1,3000,OK,street_address
+148,ROOFTOP,"333 Swanston St, Melbourne VIC 3000, Australia",ChIJs7-QqstC1moRqGxAI-oUmqQ,"333 Swanston St, Melbourne VIC 3000, Australia",-37.8103502,144.9637642,1,3000,OK,street_address
+149,ROOFTOP,"156 Collins St, Melbourne VIC 3000, Australia",ChIJMfAoIrZC1moRfBCNhYDENZo,"156 Collins St, Melbourne VIC 3000, Australia",-37.8146457,144.9681964,1,3000,OK,premise
+150,GEOMETRIC_CENTER,"Flinders Ln, Melbourne VIC 3000, Australia",ChIJHy3EerRC1moRM8Ni5wmW0qA,"Flinders Ln & Swanston St, Melbourne VIC 3000, Australia",-37.8172026,144.9645094,1,3000,OK,route
+151,ROOFTOP,"148 Lonsdale St, Melbourne VIC 3000, Australia",ChIJ905nR8lC1moRvy8TQgmMQ5c,"148 Lonsdale St, Melbourne VIC 3000, Australia",-37.8102849,144.968247,1,3000,OK,street_address
+152,ROOFTOP,"156 Collins St, Melbourne VIC 3000, Australia",ChIJMfAoIrZC1moRfBCNhYDENZo,"156 Collins St, Melbourne VIC 3000, Australia",-37.8146457,144.9681964,1,3000,OK,premise
+153,ROOFTOP,"156 Collins St, Melbourne VIC 3000, Australia",ChIJMfAoIrZC1moRfBCNhYDENZo,"156 Collins St, Melbourne VIC 3000, Australia",-37.8146457,144.9681964,1,3000,OK,premise
+154,ROOFTOP,"262 Queen St, Melbourne VIC 3000, Australia",ChIJ5VRBvEpd1moRpXeJ1l74DhM,"Ground Floor 262 Queen Street, Melbourne VIC 3000, Australia",-37.8124205,144.9597974,1,3000,OK,street_address
+155,ROOFTOP,"120 Collins St, Melbourne VIC 3000, Australia",ChIJjbCKLMhC1moRnPU384CZ0q4,"120 Collins St, Melbourne VIC 3000, Australia",-37.8142376,144.9697059,1,3000,OK,street_address
+156,ROOFTOP,"156 Collins St, Melbourne VIC 3000, Australia",ChIJMfAoIrZC1moRfBCNhYDENZo,"156 Collins St, Melbourne VIC 3000, Australia",-37.8146457,144.9681964,1,3000,OK,premise
+157,ROOFTOP,"188 Collins St, Melbourne VIC 3000, Australia",ChIJkVJuDrZC1moR0XkKNEa3a6c,"Athenaeum Theatre, 188 Collins St, Melbourne VIC 3000, Australia",-37.8150386,144.967359,1,3000,OK,"establishment,point_of_interest"
+158,ROOFTOP,"156 Collins St, Melbourne VIC 3000, Australia",ChIJMfAoIrZC1moRfBCNhYDENZo,"156 Collins St, Melbourne VIC 3000, Australia",-37.8146457,144.9681964,1,3000,OK,premise
+159,ROOFTOP,"262 Queen St, Melbourne VIC 3000, Australia",ChIJ5VRBvEpd1moRpXeJ1l74DhM,"Ground Floor 262 Queen Street, Melbourne VIC 3000, Australia",-37.8124205,144.9597974,1,3000,OK,street_address
+160,ROOFTOP,"209 Flinders Ln, Melbourne VIC 3000, Australia",ChIJ9Z4kiLZC1moRbuh0Ew968RY,"209 Flinders Ln, Melbourne VIC 3000, Australia",-37.8164151,144.9674887,1,3000,OK,street_address
+161,ROOFTOP,"156 Collins St, Melbourne VIC 3000, Australia",ChIJMfAoIrZC1moRfBCNhYDENZo,"156 Collins St, Melbourne VIC 3000, Australia",-37.8146457,144.9681964,1,3000,OK,premise
+162,ROOFTOP,"500 Collins St, Melbourne VIC 3000, Australia",ChIJUTiQTExd1moR90r_nIkxF_8,"500 Collins St, Melbourne VIC 3000, Australia",-37.8176127,144.9574838,1,3000,OK,premise
+163,ROOFTOP,"209 Flinders Ln, Melbourne VIC 3000, Australia",ChIJ9Z4kiLZC1moRbuh0Ew968RY,"209 Flinders Ln, Melbourne VIC 3000, Australia",-37.8164151,144.9674887,1,3000,OK,street_address
+164,RANGE_INTERPOLATED,"193 Hotham St, East Melbourne VIC 3002, Australia",EjExOTMgSG90aGFtIFN0LCBFYXN0IE1lbGJvdXJuZSBWSUMgMzAwMiwgQXVzdHJhbGlh,"193 Hotham St, East Melbourne VIC 3002, Australia",-37.8139774,144.9836783,1,3002,OK,street_address
+165,ROOFTOP,"176 Simpson St, East Melbourne VIC 3002, Australia",ChIJqXtx2uVC1moRSJUhyNvKx0Q,"176 Simpson St, East Melbourne VIC 3002, Australia",-37.8103596,144.9891737,1,3002,OK,premise
+166,ROOFTOP,"15 Gisborne St, East Melbourne VIC 3002, Australia",ChIJ7Sj4U8RC1moRPbfX86ieOSA,"15 Gisborne St, East Melbourne VIC 3002, Australia",-37.8097641,144.9751564,1,3002,OK,street_address
+167,RANGE_INTERPOLATED,"193 Hotham St, East Melbourne VIC 3002, Australia",EjExOTMgSG90aGFtIFN0LCBFYXN0IE1lbGJvdXJuZSBWSUMgMzAwMiwgQXVzdHJhbGlh,"193 Hotham St, East Melbourne VIC 3002, Australia",-37.8139774,144.9836783,1,3002,OK,street_address
+168,RANGE_INTERPOLATED,"193 Hotham St, East Melbourne VIC 3002, Australia",EjExOTMgSG90aGFtIFN0LCBFYXN0IE1lbGJvdXJuZSBWSUMgMzAwMiwgQXVzdHJhbGlh,"193 Hotham St, East Melbourne VIC 3002, Australia",-37.8139774,144.9836783,1,3002,OK,street_address
+169,RANGE_INTERPOLATED,"193 Hotham St, East Melbourne VIC 3002, Australia",EjExOTMgSG90aGFtIFN0LCBFYXN0IE1lbGJvdXJuZSBWSUMgMzAwMiwgQXVzdHJhbGlh,"193 Hotham St, East Melbourne VIC 3002, Australia",-37.8139774,144.9836783,1,3002,OK,street_address
+170,RANGE_INTERPOLATED,"193 Hotham St, East Melbourne VIC 3002, Australia",EjExOTMgSG90aGFtIFN0LCBFYXN0IE1lbGJvdXJuZSBWSUMgMzAwMiwgQXVzdHJhbGlh,"193 Hotham St, East Melbourne VIC 3002, Australia",-37.8139774,144.9836783,1,3002,OK,street_address
+171,ROOFTOP,"33 Howard St, West Melbourne VIC 3003, Australia",ChIJF5h14TZd1moRfTP-Xj7q-40,"33 Howard St, West Melbourne VIC 3003, Australia",-37.8057948,144.9524152,1,3003,OK,street_address
+172,ROOFTOP,"400 City Rd, Southbank VIC 3006, Australia",ChIJnV1MTf9n1moRTOdFni6JcNA,"400 City Rd, Southbank VIC 3006, Australia",-37.829386,144.9556897,1,3006,OK,street_address
+173,ROOFTOP,"20 City Rd, Southbank VIC 3006, Australia",ChIJizVBebFC1moRuUDuF25dKwQ,"20 City Rd, Southbank VIC 3006, Australia",-37.8208201,144.9672498,1,3006,OK,premise
+174,ROOFTOP,"400 City Rd, Southbank VIC 3006, Australia",ChIJnV1MTf9n1moRTOdFni6JcNA,"400 City Rd, Southbank VIC 3006, Australia",-37.829386,144.9556897,1,3006,OK,street_address
+175,ROOFTOP,"400 City Rd, Southbank VIC 3006, Australia",ChIJnV1MTf9n1moRTOdFni6JcNA,"400 City Rd, Southbank VIC 3006, Australia",-37.829386,144.9556897,1,3006,OK,street_address
+176,ROOFTOP,"29/37 Ballantyne St, Southbank VIC 3006, Australia",EjIyOS8zNyBCYWxsYW50eW5lIFN0LCBTb3V0aGJhbmsgVklDIDMwMDYsIEF1c3RyYWxpYQ,"29-37 Ballantyne St, South Melbourne VIC 3006, Australia",-37.8290566,144.9568538,2,3006,OK,subpremise
+177,ROOFTOP,"252 Gordon St, Footscray VIC 3011, Australia",ChIJj2_wwPFd1moRG-PRxSZtB90,"252 Gordon St, Footscray VIC 3011, Australia",-37.7975405,144.888159,1,3011,OK,street_address
+178,ROOFTOP,"252 Gordon St, Footscray VIC 3011, Australia",ChIJj2_wwPFd1moRG-PRxSZtB90,"252 Gordon St, Footscray VIC 3011, Australia",-37.7975405,144.888159,1,3011,OK,street_address
+179,ROOFTOP,"60 Paisley St, Footscray VIC 3011, Australia",ChIJ2x_3NY1d1moRmtdFOU4jrxk,"60 Paisley St, Footscray VIC 3011, Australia",-37.8002276,144.8952984,1,3011,OK,street_address
+180,ROOFTOP,"302 Barkly St, Footscray VIC 3011, Australia",ChIJZXfQovJd1moRtM5KjuJGH8Y,"302 Barkly St, Footscray VIC 3011, Australia",-37.7988541,144.8939246,1,3011,OK,street_address
+181,APPROXIMATE,"Yarraville VIC 3013, Australia",ChIJVV1gJVdn1moREDouRnhWBBw,"Yarraville VIC 3013, Australia",-37.819811,144.8813738,1,3013,OK,postal_code
+182,ROOFTOP,"26 Mason St, Newport VIC 3015, Australia",ChIJy8BcSdZm1moRrHsWak4N_f0,"26 Mason St, Newport VIC 3015, Australia",-37.842082,144.880991,1,3015,OK,street_address
+183,ROOFTOP,"43 Paxton St, South Kingsville VIC 3015, Australia",ChIJIfIeWdJg1moRPRCNAgr69-E,"43 Paxton St, South Kingsville VIC 3015, Australia",-37.8291524,144.8701566,1,3015,OK,premise
+184,ROOFTOP,"43 Paxton St, South Kingsville VIC 3015, Australia",ChIJIfIeWdJg1moRPRCNAgr69-E,"43 Paxton St, South Kingsville VIC 3015, Australia",-37.8291524,144.8701566,1,3015,OK,premise
+185,ROOFTOP,"43 Paxton St, South Kingsville VIC 3015, Australia",ChIJIfIeWdJg1moRPRCNAgr69-E,"43 Paxton St, South Kingsville VIC 3015, Australia",-37.8291524,144.8701566,1,3015,OK,premise
+186,ROOFTOP,"1/100 Champion Rd, Newport VIC 3015, Australia",Ei4xLzEwMCBDaGFtcGlvbiBSZCwgTmV3cG9ydCBWSUMgMzAxNSwgQXVzdHJhbGlh,"1/100 Champion Rd, Newport VIC 3015, Australia",-37.8489414,144.8759324,1,3015,OK,subpremise
+187,ROOFTOP,"119 Douglas Parade, Williamstown VIC 3016, Australia",ChIJ8XrixOdm1moRaKqXra5yRoY,"119 Douglas Parade, Williamstown VIC 3016, Australia",-37.854861,144.897094,1,3016,OK,street_address
+188,ROOFTOP,"8 Electra St, Williamstown VIC 3016, Australia",ChIJK1Lroetm1moRXDJic2ic9II,"8 Electra St, Williamstown VIC 3016, Australia",-37.8629727,144.8991709,1,3016,OK,street_address
+189,ROOFTOP,"87 Cecil St, Williamstown VIC 3016, Australia",ChIJA9c-He1m1moRpuFhHXBSrww,"87 Cecil St, Williamstown VIC 3016, Australia",-37.865315,144.9034802,1,3016,OK,street_address
+190,ROOFTOP,"14 Sargood St, Altona VIC 3018, Australia",ChIJ-1-sTC1i1moRrVtEHVXne1A,"14 Sargood St, Altona VIC 3018, Australia",-37.8686146,144.8291259,1,3018,OK,street_address
+191,ROOFTOP,"14 Sargood St, Altona VIC 3018, Australia",ChIJ-1-sTC1i1moRrVtEHVXne1A,"14 Sargood St, Altona VIC 3018, Australia",-37.8686146,144.8291259,1,3018,OK,street_address
+192,ROOFTOP,"12A Sun Cres, Sunshine VIC 3020, Australia",ChIJ-8QFQYBg1moRq9h7gzSERRc,"12A Sun Cres, Sunshine VIC 3020, Australia",-37.7875386,144.8306969,1,3020,OK,street_address
+193,ROOFTOP,"8 Watt St, Sunshine VIC 3020, Australia",ChIJz24ImoBg1moRKUlTzkqY9qE,"8 Watt St, Sunshine VIC 3020, Australia",-37.7890863,144.8296239,1,3020,OK,street_address
+194,ROOFTOP,"41 Lance Rd, Sunshine North VIC 3020, Australia",ChIJO_dMJ1te1moREiFfSiAaXGw,"41 Lance Rd, Sunshine North VIC 3020, Australia",-37.7614846,144.842929,1,3020,OK,street_address
+195,ROOFTOP,"120 Anderson Rd, Sunshine VIC 3020, Australia",ChIJT-yrQNVf1moRCBcdBVy29pM,"120 Anderson Rd, Sunshine VIC 3020, Australia",-37.7840894,144.8280521,1,3020,OK,street_address
+196,ROOFTOP,"95 Alfrieda St, St Albans VIC 3021, Australia",ChIJJwmOKXRf1moR_NnZODxvaTQ,"95 Alfrieda St, St Albans VIC 3021, Australia",-37.738007,144.801331,1,3021,OK,street_address
+197,ROOFTOP,"3 W Esplanade, St Albans VIC 3021, Australia",ChIJ02HUZ5tf1moR_AiUEoo2PRc,"3 W Esplanade, St Albans VIC 3021, Australia",-37.742811,144.797679,1,3021,OK,street_address
+198,ROOFTOP,"18 Alexina St, St Albans VIC 3021, Australia",ChIJPx04Dp1f1moRSYvFQHaOz9s,"18 Alexina St, St Albans VIC 3021, Australia",-37.7395928,144.798965,1,3021,OK,street_address
+199,ROOFTOP,"28/39 Eucumbene Dr, Ravenhall VIC 3023, Australia",EjEyOC8zOSBFdWN1bWJlbmUgRHIsIFJhdmVuaGFsbCBWSUMgMzAyMywgQXVzdHJhbGlh,"28/39 Eucumbene Dr, Ravenhall VIC 3023, Australia",-37.7600822,144.7452695,1,3023,OK,subpremise
+200,ROOFTOP,"23 Lexington Dr, Burnside VIC 3023, Australia",ChIJ026PrTz11moRfYHjfxm5aAA,"23 Lexington Dr, Burnside VIC 3023, Australia",-37.744885,144.7524068,1,3023,OK,street_address
+201,ROOFTOP,"115 Kerferd Rd, Albert Park VIC 3206, Australia",ChIJy_hQSedn1moRGNn2Z_PJM-8,"115 Kerferd Rd, Albert Park VIC 3026, Australia",-37.846298,144.955138,1,3206,OK,street_address
+202,ROOFTOP,"68-72 Nelson Ave, Altona Meadows VIC 3028, Australia",ChIJ4c0OUtOJ1moRbCTT021AFFs,"68-72 Nelson Ave, Altona VIC 3028, Australia",-37.8802488,144.7789552,1,3028,OK,street_address
+203,ROOFTOP,"61 Central Ave, Altona Meadows VIC 3028, Australia",ChIJdRD7Vs6J1moRryajoY-_9Hw,"61 Central Ave, Altona Meadows VIC 3028, Australia",-37.8713635,144.771631,1,3028,OK,premise
+204,ROOFTOP,"15 Perkins Ave, Hoppers Crossing VIC 3029, Australia",ChIJzXdOejaP1moRfiVc-QIr5tU,"15 Perkins Ave, Hoppers Crossing VIC 3029, Australia",-37.867193,144.691324,1,3029,OK,street_address
+205,ROOFTOP,"37-43 Graham Ct, Hoppers Crossing VIC 3029, Australia",ChIJxcqn6e-I1moRghKKF8Ca3Wg,"37-43 Graham Ct, Hoppers Crossing VIC 3029, Australia",-37.873808,144.729314,1,3029,OK,street_address
+206,ROOFTOP,"147-155 Hogans Rd, Hoppers Crossing VIC 3029, Australia",ChIJF-JdCzmP1moR57NAduRpUR8,"147-155 Hogans Rd, Hoppers Crossing VIC 3029, Australia",-37.862866,144.683234,1,3029,OK,street_address
+207,ROOFTOP,"152-154 Bellbridge Dr, Hoppers Crossing VIC 3029, Australia",ChIJ2aUI2dqI1moRYh65lzJYzsQ,"152-154 Bellbridge Drive, Hoppers Crossing VIC 3029, Australia",-37.865684,144.710786,1,3029,OK,street_address
+208,ROOFTOP,"116-120 Black Forest Rd, Wyndham Vale VIC 3024, Australia",ChIJYzrcRyeF1moRu4P5JlvqDd4,"116-120 Black Forest Rd, Wyndham Vale VIC 3030, Australia",-37.901142,144.625237,2,3024,OK,street_address
+209,ROOFTOP,"23 Bergamot Dr, Point Cook VIC 3030, Australia",ChIJgb8LdZ2I1moR8ZBi4Y8Qosg,"Point Cook Senior Secondary College, Boardwalk Blvd & Bergamot Drive, Point Cook VIC 3030, Australia",-37.8875777,144.7337238,2,3030,OK,"establishment,point_of_interest,school"
+210,GEOMETRIC_CENTER,"Raaf Base Chapel, Point Cook Road, Point Cook VIC 3030, Australia",ChIJ_4jYHcmH1moRWLmMsrRfWIE,"Raaf Base Chapel, Point Cook Road, Point Cook VIC 3030, Australia",-37.9244378,144.7488743,1,3030,OK,"church,establishment,place_of_worship,point_of_interest"
+211,ROOFTOP,"225 Heaths Rd, Werribee VIC 3030, Australia",ChIJX8Ygk1uP1moR9lmX0P-P0_c,"225 Heaths Rd, Werribee VIC 3030, Australia",-37.8766932,144.6815757,1,3030,OK,street_address
+212,ROOFTOP,"200 Tarneit Rd, Werribee VIC 3030, Australia",ChIJb1Ns2YWF1moRBXb3HubzahU,"200 Tarneit Rd, Werribee VIC 3030, Australia",-37.8830629,144.6626053,1,3030,OK,street_address
+213,ROOFTOP,"12 Brighton St, Flemington VIC 3031, Australia",ChIJg-w_-xxd1moRQHf91CJCoH8,"12 Brighton St, Flemington VIC 3031, Australia",-37.785452,144.930096,1,3031,OK,street_address
+214,RANGE_INTERPOLATED,"60 Maribyrnong Rd, Moonee Ponds VIC 3039, Australia",EjM2MCBNYXJpYnlybm9uZyBSZCwgTW9vbmVlIFBvbmRzIFZJQyAzMDM5LCBBdXN0cmFsaWE,"60 Maribyrnong Rd, Ascot Vale VIC 3032, Australia",-37.7721715,144.922303,1,3039,OK,street_address
+215,ROOFTOP,"97 Quinn Grove, Keilor East VIC 3033, Australia",ChIJUyB6PqFe1moR6BuBBG04n-4,"97 Quinn Grove, Keilor East VIC 3033, Australia",-37.739698,144.8693181,1,3033,OK,street_address
+216,ROOFTOP,"350 Calder Park Dr, Sydenham VIC 3037, Australia",ChIJ_5i6vMb11moRnfgE_TTaoR8,"350 Calder Park Dr, Sydenham VIC 3037, Australia",-37.7008813,144.7562982,1,3037,OK,street_address
+217,ROOFTOP,"1/1 Station Street, Taylors Lakes VIC 3038, Australia",ChIJwcuNtPr11moRv4UlFegWXOk,"1 Taylors Lakes VIC 3038 Victoria, Station St, Taylors Lakes VIC 3038, Australia",-37.7004123,144.7741584,1,3038,OK,"cafe,establishment,food,point_of_interest"
+218,ROOFTOP,"760 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",ChIJoVKzu_Nc1moRgGWFCw3oYbo,"760 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",-37.7652822,144.9247523,1,3039,OK,street_address
+219,ROOFTOP,"820 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",ChIJge8MOYtc1moRFpcR7Hf_Cds,"820 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",-37.7600888,144.9212171,1,3039,OK,street_address
+220,ROOFTOP,"45 Eglinton St, Moonee Ponds VIC 3039, Australia",ChIJ8XPh8Vdc1moR4_bQVJ2Bz80,"45 Eglinton St, Moonee Ponds VIC 3039, Australia",-37.769086,144.916271,1,3039,OK,street_address
+221,ROOFTOP,"760 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",ChIJoVKzu_Nc1moRgGWFCw3oYbo,"760 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",-37.7652822,144.9247523,1,3039,OK,street_address
+222,ROOFTOP,"5 Price St, Essendon VIC 3040, Australia",ChIJLxmOoT9c1moRbOfZNC40uKE,"5 Price St, Essendon VIC 3040, Australia",-37.75353,144.893995,1,3040,OK,street_address
+223,ROOFTOP,"134/138 Buckley St, Essendon VIC 3040, Australia",EjAxMzQvMTM4IEJ1Y2tsZXkgU3QsIEVzc2VuZG9uIFZJQyAzMDQwLCBBdXN0cmFsaWE,"134 - 138 Buckley St, Essendon VIC 3040, Australia",-37.7563807,144.9135509,1,3040,OK,subpremise
+224,ROOFTOP,"80 Harrick Rd, Keilor Park VIC 3042, Australia",ChIJN4JkHMle1moRPIOme1hCvzE,"80 Harrick Rd, Keilor Park VIC 3042, Australia",-37.7243574,144.8473771,1,3042,OK,street_address
+225,ROOFTOP,"49 Freight Rd, Tullamarine VIC 3043, Australia",ChIJD1yg89Rb1moRAQ7cbOIXw74,"49 Freight Rd, Tullamarine VIC 3043, Australia",-37.6918297,144.8770693,1,3043,OK,street_address
+226,GEOMETRIC_CENTER,"Derby St, Hingham, MA 02043, USA",ChIJG-ZLYQFi44kRPknL8BxuAKo,"Derby St & Kent Road, Pascoe Vale South VIC 3044, Australia",42.1798071,-70.912042,5,2043,OK,route
+227,ROOFTOP,"701-703 Pascoe Vale Rd, Glenroy VIC 3046, Australia",ChIJddpK0qlb1moR6dxs6LGqb4k,"701-703 Pascoe Vale Rd, Glenroy VIC 3046, Australia",-37.7101195,144.9166225,1,3046,OK,street_address
+228,ROOFTOP,"26 Millewa Cres, Dallas VIC 3047, Australia",ChIJs8Nvu5xa1moRUw-jA-xwzGo,"26 Millewa Cres, Dallas VIC 3047, Australia",-37.6741304,144.9291326,1,3047,OK,street_address
+229,ROOFTOP,"9 Western Ave, Westmeadows VIC 3049, Australia",ChIJmaa-_y5a1moRqDmoGQ9Oh8s,"9 Western Ave, Westmeadows VIC 3049, Australia",-37.6849401,144.8810734,1,3049,OK,street_address
+230,ROOFTOP,"135 Capel St, North Melbourne VIC 3051, Australia",ChIJZ_PBUTFd1moRXoFR2LRx740,"135 Capel St, North Melbourne VIC 3051, Australia",-37.8048134,144.9550547,1,3051,OK,street_address
+231,ROOFTOP,"161-167 Peel St, North Melbourne VIC 3051, Australia",ChIJN44-3jNd1moRwsForwvw6xA,"161 -167 Peel St, North Melbourne VIC 3051, Australia",-37.8042516,144.955922,1,3051,OK,street_address
+232,ROOFTOP,"62 Mark St, North Melbourne VIC 3051, Australia",ChIJrbQgQBhd1moRenTtOA6s54M,"62 Mark St, North Melbourne VIC 3051, Australia",-37.793382,144.937779,1,3051,OK,street_address
+233,ROOFTOP,"62 Mark St, North Melbourne VIC 3051, Australia",ChIJrbQgQBhd1moRenTtOA6s54M,"62 Mark St, North Melbourne VIC 3051, Australia",-37.793382,144.937779,1,3051,OK,street_address
+234,ROOFTOP,"54 Lygon St, Carlton VIC 3053, Australia",ChIJo6Hd281C1moRbV2y4THAjs8,"54 Lygon St, Carlton VIC 3053, Australia",-37.8059012,144.966192,1,3053,OK,street_address
+235,ROOFTOP,"235 Palmerston St, Carlton VIC 3053, Australia",ChIJK3ZsbdZC1moR4XZvlEmhAXA,"235 Palmerston St, Carlton VIC 3053, Australia",-37.7961495,144.9672854,1,3053,OK,street_address
+236,ROOFTOP,"491 Sydney Rd, Brunswick VIC 3056, Australia",ChIJWU18WE1D1moROn4z33dzzQo,"491 Sydney Rd, Brunswick VIC 3056, Australia",-37.765521,144.9620331,1,3056,OK,street_address
+237,ROOFTOP,"298 Sydney Rd, Coburg VIC 3058, Australia",ChIJ1541FrJE1moRCvnm8IK3ZFs,"298 Sydney Rd, Coburg VIC 3058, Australia",-37.7470071,144.9661184,1,3058,OK,street_address
+238,ROOFTOP,"111 Anderson Rd, Fawkner VIC 3060, Australia",ChIJw4nl_ktF1moRBYNaHZ52dTA,"111 Anderson Rd, Fawkner VIC 3060, Australia",-37.6959891,144.9666171,1,3060,OK,street_address
+239,ROOFTOP,"127 Craigieburn Rd, Craigieburn VIC 3064, Australia",ChIJRznXN4pR1moRCdDWCywx7X4,"127 Craigieburn Rd West, Craigieburn VIC 3064, Australia",-37.5990828,144.9348586,1,3064,OK,premise
+240,ROOFTOP,"16 Rushwood Dr, Craigieburn VIC 3064, Australia",ChIJcZRcVeVR1moRkYgC8M-uXws,"16 Rushwood Dr, Craigieburn VIC 3064, Australia",-37.6117932,144.9502138,1,3064,OK,premise
+241,ROOFTOP,"9 Lachlan Cres, Roxburgh Park VIC 3064, Australia",ChIJS2NDqKRR1moR6jcVIQVmdfg,"9 Lachlan Cres, Roxburgh Park VIC 3064, Australia",-37.618173,144.927656,1,3064,OK,street_address
+242,ROOFTOP,"75 Interlink Dr, Craigieburn VIC 3064, Australia",ChIJq2nOVvZR1moRoXcfV7Da6N8,"75 Interlink Dr, Craigieburn VIC 3064, Australia",-37.603353,144.946951,1,3064,OK,street_address
+243,ROOFTOP,"16 Rayfield Ave, Craigieburn VIC 3064, Australia",ChIJl6oNmSBS1moRPYmfUTXAsvk,"16 Rayfield Ave, Craigieburn VIC 3064, Australia",-37.5968066,144.9356118,1,3064,OK,street_address
+244,GEOMETRIC_CENTER,"King William St, Fitzroy VIC 3065, Australia",EixLaW5nIFdpbGxpYW0gU3QsIEZpdHpyb3kgVklDIDMwNjUsIEF1c3RyYWxpYQ,"King William St, Fitzroy VIC 3065, Australia",-37.8021861,144.9763132,1,3065,OK,route
+245,ROOFTOP,"16-18 Michael St, Fitzroy North VIC 3068, Australia",ChIJb7tvuxND1moRB-lcyn2mAjI,"16-18 Michael St, North Fitzroy VIC 3068, Australia",-37.7875261,144.9904932,1,3068,OK,street_address
+246,ROOFTOP,"75 Reid St, Fitzroy North VIC 3068, Australia",ChIJ_YqufD5D1moRHDJvm1xgGCM,"75 Reid St, Fitzroy North VIC 3068, Australia",-37.7854102,144.9807475,1,3068,OK,street_address
+247,ROOFTOP,"542 High St, Northcote VIC 3070, Australia",ChIJNSC9pYZE1moRqFZrPscM2dU,"542 High St, Northcote VIC 3070, Australia",-37.7636886,145.0001485,1,3070,OK,street_address
+248,ROOFTOP,"2/177 Beavers Rd, Northcote VIC 3070, Australia",Ei8yLzE3NyBCZWF2ZXJzIFJkLCBOb3J0aGNvdGUgVklDIDMwNzAsIEF1c3RyYWxpYQ,"2/177 Beavers Rd, Northcote VIC 3070, Australia",-37.7653495,144.985579,1,3070,OK,subpremise
+249,ROOFTOP,"390-398 St Georges Rd, Thornbury VIC 3071, Australia",ChIJYQO9HZBE1moRIxxX-JfY0x4,"390-398 St Georges Rd, Thornbury VIC 3071, Australia",-37.756912,144.994135,1,3071,OK,street_address
+250,ROOFTOP,"81 High St, Preston VIC 3072, Australia",ChIJ_25a3fRE1moR-bnlNp509LM,"81 High St, Preston VIC 3072, Australia",-37.7496625,145.0017195,1,3072,OK,street_address
+251,ROOFTOP,"108 Cramer St, Preston VIC 3072, Australia",ChIJOyhtbe9E1moRf2j3NwoX9Zg,"108 Cramer St, Preston VIC 3072, Australia",-37.7388866,144.9906799,1,3072,OK,premise
+252,ROOFTOP,"40-42 Gilbert Rd, Preston VIC 3072, Australia",ChIJeQ64dpRE1moRmrpp2wLpLY4,"40/42 Gilbert Rd, Melbourne VIC 3072, Australia",-37.7495414,144.9884245,1,3072,OK,street_address
+253,ROOFTOP,"648 High St, Reservoir VIC 3073, Australia",ChIJqR71DqpF1moR3uppP8-sQzg,"648 High St, Reservoir VIC 3073, Australia",-37.729784,145.005658,1,3073,OK,premise
+254,ROOFTOP,"1 Livingstone St, Ivanhoe VIC 3079, Australia",ChIJQ6cpIxlE1moR5lbf80sXt3U,"1 Livingstone St, Ivanhoe VIC 3079, Australia",-37.7676794,145.0427884,1,3079,OK,street_address
+255,RANGE_INTERPOLATED,"420 Waterdale Rd, Heidelberg West VIC 3081, Australia",EjU0MjAgV2F0ZXJkYWxlIFJkLCBIZWlkZWxiZXJnIFdlc3QgVklDIDMwODEsIEF1c3RyYWxpYQ,"420 Waterdale Rd, Heidelberg West VIC 3081, Australia",-37.7473903,145.0470974,1,3081,OK,street_address
+256,ROOFTOP,"5 Waiora Rd, Heidelberg Heights VIC 3081, Australia",ChIJxa8cgHxG1moRNb9K8ZAWKkc,"5 Waiora Rd, Heidelberg Heights VIC 3081, Australia",-37.746469,145.057652,1,3081,OK,street_address
+257,ROOFTOP,"5 Waiora Rd, Heidelberg Heights VIC 3081, Australia",ChIJxa8cgHxG1moRNb9K8ZAWKkc,"5 Waiora Rd, Heidelberg Heights VIC 3081, Australia",-37.746469,145.057652,1,3081,OK,street_address
+258,ROOFTOP,"11 Morang Dr, Mill Park VIC 3082, Australia",ChIJhdrhCDRJ1moRGsY19bMpu7E,"11 Morang Dr, Mill Park VIC 3082, Australia",-37.66059,145.054,1,3082,OK,street_address
+259,ROOFTOP,"19 Enterprise Dr, Bundoora VIC 3083, Australia",ChIJT-A-Hd5I1moRZo-WZDd_ago,"19 Enterprise Dr, Bundoora VIC 3083, Australia",-37.6849126,145.0713483,1,3083,OK,street_address
+260,ROOFTOP,"61/31 McLeans Rd, Bundoora VIC 3083, Australia",Ei42MS8zMSBNY0xlYW5zIFJkLCBCdW5kb29yYSBWSUMgMzA4MywgQXVzdHJhbGlh,"31-61 McLeans Rd, Bundoora VIC 3083, Australia",-37.6945615,145.0550729,1,3083,OK,subpremise
+261,ROOFTOP,"61/31 McLeans Rd, Bundoora VIC 3083, Australia",Ei42MS8zMSBNY0xlYW5zIFJkLCBCdW5kb29yYSBWSUMgMzA4MywgQXVzdHJhbGlh,"31-61 McLeans Rd, Bundoora VIC 3083, Australia",-37.6945615,145.0550729,1,3083,OK,subpremise
+262,ROOFTOP,"37 Grimshaw St, Greensborough VIC 3088, Australia",ChIJYZMUwURI1moRPsnigJBpaYc,"37 Grimshaw St, Greensborough VIC 3088, Australia",-37.7050999,145.1056175,1,3088,OK,street_address
+263,ROOFTOP,"309 Diamond Creek Rd, Plenty VIC 3090, Australia",ChIJB_64q-lJ1moROnMKuMJXS8A,"309 Diamond Creek Rd, Plenty VIC 3090, Australia",-37.678225,145.1242422,1,3090,OK,street_address
+264,ROOFTOP,"360 Main Rd, Lower Plenty VIC 3094, Australia",ChIJzerfdAVI1moRu9wFUmpNoZM,"360 Main Rd, Lower Plenty VIC 3093, Australia",-37.7302994,145.1278408,1,3094,OK,premise
+265,ROOFTOP,"24 Mayona Rd, Montmorency VIC 3094, Australia",ChIJ4duBlT9I1moRQCjzSgmSwN8,"24 Mayona Rd, Montmorency VIC 3094, Australia",-37.7136193,145.1169523,1,3094,OK,street_address
+266,ROOFTOP,"43/49 Nyora Rd, Eltham VIC 3095, Australia",Eio0My80OSBOeW9yYSBSZCwgRWx0aGFtIFZJQyAzMDk1LCBBdXN0cmFsaWE,"43/49 Nyora Rd, Eltham VIC 3095, Australia",-37.7169825,145.1701462,1,3095,OK,subpremise
+267,ROOFTOP,"23 Batman Rd, Eltham VIC 3095, Australia",ChIJIZSaKDM21moR0-iFb_FJPuo,"23 Batman Rd, Eltham VIC 3095, Australia",-37.7074188,145.1515753,1,3095,OK,street_address
+268,ROOFTOP,"39 Lower Rd, Eltham North VIC 3095, Australia",ChIJnfGJNDA21moRCMFi6GeXbCw,"39 Lower Rd, Eltham North VIC 3095, Australia",-37.7000704,145.1498924,1,3095,OK,street_address
+269,ROOFTOP,"960 Heidelberg-Kinglake Rd, Hurstbridge VIC 3099, Australia",ChIJqc96ZO401moRYW5hbTB4Zhk,"960 Heidleberg-Kinglake Rd, Hurstbridge VIC 3099, Australia",-37.6368093,145.1973378,1,3099,OK,street_address
+270,ROOFTOP,"301 Cotham Rd, Kew VIC 3101, Australia",ChIJV5_M_WZB1moRIRpOzxjiZVQ,"301 Cotham Rd, Kew VIC 3101, Australia",-37.8087291,145.0560149,1,3101,OK,street_address
+271,ROOFTOP,"10 Highbury Grove, Kew VIC 3101, Australia",ChIJVXzLwMRD1moRM8Dn94c2Nrs,"10 Highbury Grove, Kew VIC 3101, Australia",-37.8065521,145.0370826,1,3101,OK,street_address
+272,ROOFTOP,"75A Cotham Rd, Kew VIC 3101, Australia",ChIJIZih38RD1moRwRKDS6tDqUs,"75A Cotham Rd, Kew VIC 3101, Australia",-37.8073049,145.0370582,1,3101,OK,street_address
+273,RANGE_INTERPOLATED,"2 Leonard St, Deepdene VIC 3103, Australia",EioyIExlb25hcmQgU3QsIERlZXBkZW5lIFZJQyAzMTAzLCBBdXN0cmFsaWE,"2 Leonard St, Deepdene VIC 3103, Australia",-37.8107831,145.0682438,1,3103,OK,street_address
+274,ROOFTOP,"184 Balwyn Rd, Balwyn VIC 3103, Australia",ChIJcXGSMy5B1moRxZtj4gZaGgQ,"184 Balwyn Rd, Balwyn VIC 3103, Australia",-37.80407,145.083408,1,3103,OK,street_address
+275,ROOFTOP,"16 Osburn Ave, Balwyn North VIC 3104, Australia",ChIJAyZlIjVB1moRUV_3wWA3bq0,"16 Osburn Ave, Balwyn North VIC 3104, Australia",-37.7952252,145.0737169,1,3104,OK,street_address
+276,ROOFTOP,"136 Doncaster Rd, Balwyn North VIC 3104, Australia",ChIJW3_h6MxG1moRF7vcIWgEjb0,"136 Doncaster Rd, North Balwyn VIC 3104, Australia",-37.7942094,145.078838,1,3104,OK,street_address
+277,ROOFTOP,"30 Lilian St, Bulleen VIC 3105, Australia",ChIJQ_4I4gJH1moR_aDz20TTbTs,"30 Lilian St, Bulleen VIC 3105, Australia",-37.772023,145.096147,1,3105,OK,street_address
+278,ROOFTOP,"143/145 Parker St, Templestowe VIC 3106, Australia",EjIxNDMvMTQ1IFBhcmtlciBTdCwgVGVtcGxlc3Rvd2UgVklDIDMxMDYsIEF1c3RyYWxpYQ,"143/145 Parker St, Templestowe VIC 3106, Australia",-37.7574938,145.1278865,1,3106,OK,subpremise
+279,ROOFTOP,"41 Marcus Rd, Templestowe Lower VIC 3107, Australia",ChIJWRy-4AdH1moRRr4zMLlzwLU,"41 Marcus Rd, Templestowe Lower VIC 3107, Australia",-37.7681134,145.1042219,1,3107,OK,premise
+280,ROOFTOP,"41 Marcus Rd, Templestowe Lower VIC 3107, Australia",ChIJVR2U3QdH1moRX6Dp0xDgf7E,"41 Marcus Rd, Manningham VIC 3107, Australia",-37.7680692,145.1041966,1,3107,OK,street_address
+281,ROOFTOP,"674-680 Doncaster Rd, Doncaster VIC 3108, Australia",ChIJHaLZW2RH1moRAqbyaxTJUYE,"674-680 Doncaster Rd, Doncaster VIC 3108, Australia",-37.7878132,145.130147,1,3108,OK,street_address
+282,ROOFTOP,"188 Blackburn Rd, Doncaster East VIC 3109, Australia",ChIJGymQDV841moRp5lZRnOE82E,"188 Blackburn Rd, Doncaster East VIC 3109, Australia",-37.785345,145.1629448,1,3109,OK,street_address
+283,ROOFTOP,"51-59 Dehnert St, Doncaster East VIC 3109, Australia",ChIJgQ2dCYg41moRJKwoubpdVCE,"51-59 Dehnert St, Doncaster East VIC 3109, Australia",-37.7827424,145.1487869,1,3109,OK,street_address
+284,ROOFTOP,"8 Montgomery St, Doncaster East VIC 3109, Australia",ChIJMQ3S2fQ41moR8x-2WL_a9kY,"8 Montgomery St, Doncaster East VIC 3109, Australia",-37.7882413,145.160306,1,3109,OK,street_address
+285,ROOFTOP,"460 Blackburn Rd, Doncaster East VIC 3109, Australia",ChIJxxl0Ijk41moRV2Ig26yxpqk,"460 Blackburn Rd, Doncaster East VIC 3109, Australia",-37.7662166,145.1666028,1,3109,OK,street_address
+286,ROOFTOP,"47/53 Tunstall Square, Doncaster East VIC 3109, Australia",Ejk0Ny81MyBUdW5zdGFsbCBTcXVhcmUsIERvbmNhc3RlciBFYXN0IFZJQyAzMTA5LCBBdXN0cmFsaWE,"47-53 Tunstall Rd, Doncaster East VIC 3109, Australia",-37.79116,145.171327,1,3109,OK,subpremise
+287,ROOFTOP,"188 Blackburn Rd, Doncaster East VIC 3109, Australia",ChIJGymQDV841moRp5lZRnOE82E,"188 Blackburn Rd, Doncaster East VIC 3109, Australia",-37.785345,145.1629448,1,3109,OK,street_address
+288,ROOFTOP,"107 Andersons Creek Rd, Doncaster East VIC 3109, Australia",ChIJO0jMxjk41moR91zEKrvvVFI,"107 Andersons Creek Rd, Doncaster East VIC 3109, Australia",-37.7664716,145.1700292,1,3109,OK,street_address
+289,ROOFTOP,"5 McGowans Rd, Donvale VIC 3111, Australia",ChIJhYErQv441moR9E5GDiQX9do,"5 McGowans Rd, Donvale VIC 3111, Australia",-37.795799,145.179995,1,3111,OK,street_address
+290,ROOFTOP,"320 Reynolds Rd, Donvale VIC 3111, Australia",ChIJzZ19EdA51moRWUsS2eyv49I,"320 Reynolds Rd, Donvale VIC 3111, Australia",-37.766401,145.191754,1,3111,OK,street_address
+291,ROOFTOP,"15-49 Old Melbourne Rd, Chirnside Park VIC 3116, Australia",ChIJ340GSyww1moRX67wPWLCkTk,"15-49 Old Melbourne Rd, Chirnside Park VIC 3116, Australia",-37.7632347,145.3062103,1,3116,OK,street_address
+292,ROOFTOP,"360 Church St, Richmond VIC 3121, Australia",ChIJaxgpBfNC1moRhCO_OS9LkSE,"360 Church St, Richmond VIC 3121, Australia",-37.8224908,144.9975173,1,3121,OK,street_address
+293,ROOFTOP,"10 Griffiths St, Richmond VIC 3121, Australia",ChIJ0-SDCfdC1moR4CM-bjfWKR0,"10 Griffiths St, Richmond VIC 3121, Australia",-37.8180647,145.0023651,1,3121,OK,premise
+294,ROOFTOP,"10 Griffiths St, Richmond VIC 3121, Australia",ChIJ0-SDCfdC1moR4CM-bjfWKR0,"10 Griffiths St, Richmond VIC 3121, Australia",-37.8180647,145.0023651,1,3121,OK,premise
+295,ROOFTOP,"360 Church St, Richmond VIC 3121, Australia",ChIJaxgpBfNC1moRhCO_OS9LkSE,"360 Church St, Richmond VIC 3121, Australia",-37.8224908,144.9975173,1,3121,OK,street_address
+296,ROOFTOP,"81 Oxley Rd, Hawthorn VIC 3122, Australia",ChIJsSccEyxC1moR5WndUEux8bI,"81 Oxley Rd, Hawthorn VIC 3122, Australia",-37.8247372,145.0428462,1,3122,OK,street_address
+297,ROOFTOP,"36 Barton St, Hawthorn VIC 3122, Australia",ChIJyQnc_UtC1moRPxtg7esUWE8,"36 Barton St, Hawthorn VIC 3122, Australia",-37.818506,145.022258,1,3122,OK,street_address
+298,ROOFTOP,"5 St Columbs St, Hawthorn VIC 3122, Australia",ChIJGa6r6y1C1moRyAfVba2D1vo,"5 St Columbs St, Hawthorn VIC 3122, Australia",-37.8234863,145.0394759,1,3122,OK,premise
+299,ROOFTOP,"460 Riversdale Rd, Hawthorn East VIC 3123, Australia",ChIJL3WuJYRB1moRTcPzK29bAxg,"460 Riversdale Rd, Hawthorn East VIC 3123, Australia",-37.8314652,145.0553295,1,3123,OK,street_address
+300,ROOFTOP,"460 Riversdale Rd, Hawthorn East VIC 3123, Australia",ChIJL3WuJYRB1moRTcPzK29bAxg,"460 Riversdale Rd, Hawthorn East VIC 3123, Australia",-37.8314652,145.0553295,1,3123,OK,street_address
+301,ROOFTOP,"910 Toorak Rd, Camberwell VIC 3124, Australia",ChIJU3r3BPNB1moR9Q7FBYchrBs,"910 Toorak Rd, Camberwell VIC 3124, Australia",-37.846358,145.057135,1,3124,OK,street_address
+302,ROOFTOP,"1 Canterbury Rd, Camberwell VIC 3124, Australia",ChIJ4-8MEHpB1moRY4YypkQIcmM,"1 Canterbury Rd, Camberwell VIC 3124, Australia",-37.8212974,145.0592091,1,3124,OK,street_address
+303,ROOFTOP,"581 Riversdale Rd, Camberwell VIC 3124, Australia",ChIJrYzImJxB1moRDkMoA1Ia2Ac,"581 Riversdale Rd, Camberwell VIC 3124, Australia",-37.8317253,145.0618708,1,3124,OK,premise
+304,ROOFTOP,"7 Bowen St, Camberwell VIC 3124, Australia",ChIJQyx375BB1moR7fzNiWIllQA,"7 Bowen St, Camberwell VIC 3124, Australia",-37.8391984,145.0636002,1,3124,OK,street_address
+305,ROOFTOP,"1 Canterbury Rd, Camberwell VIC 3124, Australia",ChIJ4-8MEHpB1moRY4YypkQIcmM,"1 Canterbury Rd, Camberwell VIC 3124, Australia",-37.8212974,145.0592091,1,3124,OK,street_address
+306,ROOFTOP,"7 Bowen St, Camberwell VIC 3124, Australia",ChIJQyx375BB1moR7fzNiWIllQA,"7 Bowen St, Camberwell VIC 3124, Australia",-37.8391984,145.0636002,1,3124,OK,street_address
+307,ROOFTOP,"17 Livingstone Cl, Burwood VIC 3125, Australia",ChIJT3AaGPZA1moRa9aB56b7Q0M,"17 Livingstone Cl, Burwood VIC 3125, Australia",-37.8426538,145.1086607,1,3125,OK,premise
+308,ROOFTOP,"13 Tennyson St, Burwood VIC 3125, Australia",ChIJKRqVjX1A1moRtbGGnhUIrmk,"13 Tennyson St, Burwood VIC 3125, Australia",-37.851074,145.130434,1,3125,OK,street_address
+309,ROOFTOP,"44 Station St, Burwood VIC 3125, Australia",ChIJpYk9vWZA1moRwExvc4a0Bss,"44 Station St, Burwood VIC 3125, Australia",-37.8527177,145.1197709,1,3125,OK,street_address
+310,ROOFTOP,"2 Margaret St, Canterbury VIC 3126, Australia",ChIJE0Y23gRB1moRHGwKh55rS8I,"2 Margaret St, Canterbury VIC 3126, Australia",-37.827044,145.085201,1,3126,OK,street_address
+311,ROOFTOP,"1A Balwyn Rd, Canterbury VIC 3126, Australia",ChIJA6Yl2xFB1moRD7FR62ezVx8,"1A Balwyn Rd, Canterbury VIC 3126, Australia",-37.8232418,145.0791527,1,3126,OK,street_address
+312,ROOFTOP,"72 Highfield Rd, Canterbury VIC 3126, Australia",ChIJ0XK5jgZB1moRfvvFcptXe1M,"72 Highfield Rd, Canterbury VIC 3126, Australia",-37.8314287,145.0858918,1,3126,OK,street_address
+313,ROOFTOP,"2 Margaret St, Canterbury VIC 3126, Australia",ChIJE0Y23gRB1moRHGwKh55rS8I,"2 Margaret St, Canterbury VIC 3126, Australia",-37.827044,145.085201,1,3126,OK,street_address
+314,ROOFTOP,"650 Canterbury Rd, Surrey Hills VIC 3127, Australia",ChIJyzXEGORA1moRqj_cxv3x-Nw,"650 Canterbury Rd, Surrey Hills VIC 3127, Australia",-37.8266165,145.1001921,1,3127,OK,street_address
+315,ROOFTOP,"245 Middleborough Rd, Box Hill South VIC 3128, Australia",ChIJ7fxmNpxA1moRqA99zzUETKw,"245 Middleborough Rd, Box Hill South VIC 3128, Australia",-37.838918,145.134405,1,3128,OK,street_address
+316,ROOFTOP,"28 Watts St, Box Hill VIC 3128, Australia",ChIJre1XBLJA1moRJQmS8DA94MU,"28 Watts St, Box Hill VIC 3128, Australia",-37.815883,145.125863,1,3128,OK,street_address
+317,ROOFTOP,"275 Middleborough Rd, Box Hill South VIC 3128, Australia",ChIJ72XLrp9A1moRtSdmCFjZVUU,"275 Middleborough Rd, Box Hill South VIC 3128, Australia",-37.8354133,145.1351908,1,3128,OK,premise
+318,ROOFTOP,"711 Station St, Box Hill VIC 3128, Australia",ChIJvWpInrFA1moRlWtyZAl1VKk,"711 Station St, Box Hill VIC 3128, Australia",-37.8166107,145.1239183,1,3128,OK,premise
+319,ROOFTOP,"234 Elgar Rd, Box Hill South VIC 3128, Australia",ChIJI1GHcPJA1moR1wybydk0Bf0,"234 Elgar Rd, Box Hill South VIC 3128, Australia",-37.8354367,145.1120008,1,3128,OK,premise
+320,ROOFTOP,"234 Elgar Rd, Box Hill South VIC 3128, Australia",ChIJI1GHcPJA1moR1wybydk0Bf0,"234 Elgar Rd, Box Hill South VIC 3128, Australia",-37.8354367,145.1120008,1,3128,OK,premise
+321,ROOFTOP,"38 Lexton Rd, Box Hill North VIC 3129, Australia",ChIJby90mFVH1moRVeWjMxXVzkU,"38 Lexton Rd, Box Hill North VIC 3129, Australia",-37.8122652,145.1361607,1,3129,OK,premise
+322,RANGE_INTERPOLATED,"100 Rostrevor Parade, Mont Albert North VIC 3129, Australia",EjsxMDAgUm9zdHJldm9yIFBhcmFkZSwgTW9udCBBbGJlcnQgTm9ydGggVklDIDMxMjksIEF1c3RyYWxpYQ,"100 Rostrevor Parade, N Mont Albert VIC 3129, Australia",-37.8027977,145.1080642,1,3129,OK,street_address
+323,ROOFTOP,"17-23 Nelson Rd, Box Hill VIC 3128, Australia",ChIJn-Cf6bZA1moRIh07Rkbdris,"17-23 Nelson Rd, Box Hill VIC 3130, Australia",-37.8156556,145.1194796,1,3128,OK,street_address
+324,ROOFTOP,"3 Springfield Rd, Blackburn North VIC 3130, Australia",ChIJiZBcvqg41moRO3u9H-zXCrU,"3 Springfield Rd, Blackburn North VIC 3130, Australia",-37.8090486,145.1415585,1,3130,OK,street_address
+325,ROOFTOP,"184 Surrey Rd, Blackburn VIC 3130, Australia",ChIJw19t7LY41moR6Kelnuc9mj0,"184 Surrey Rd, Blackburn VIC 3130, Australia",-37.8154837,145.1557783,1,3130,OK,street_address
+326,ROOFTOP,"107 Springfield Rd, Blackburn North VIC 3130, Australia",ChIJiwR0Z7o41moRFhMYtuTzt-Q,"107 Springfield Rd, Blackburn North VIC 3130, Australia",-37.809912,145.151878,1,3130,OK,street_address
+327,ROOFTOP,"184 Surrey Rd, Blackburn VIC 3130, Australia",ChIJw19t7LY41moR6Kelnuc9mj0,"184 Surrey Rd, Blackburn VIC 3130, Australia",-37.8154837,145.1557783,1,3130,OK,street_address
+328,ROOFTOP,"67-71 Springvale Rd, Nunawading VIC 3131, Australia",ChIJTeCqit441moRhxdGdtBU1ew,"67/71 Springvale Rd, Nunawading VIC 3131, Australia",-37.8126842,145.1775939,1,3131,OK,street_address
+329,RANGE_INTERPOLATED,"169 Central Rd, Nunawading VIC 3131, Australia",Ei4xNjkgQ2VudHJhbCBSZCwgTnVuYXdhZGluZyBWSUMgMzEzMSwgQXVzdHJhbGlh,"169 Central Rd, Nunawading VIC 3131, Australia",-37.8246401,145.1675006,1,3131,OK,street_address
+330,ROOFTOP,"333 Canterbury Rd, Forest Hill VIC 3131, Australia",ChIJObuRPyk_1moR4bib4Etr2Ks,"333A Canterbury Rd, Forest Hill VIC 3131, Australia",-37.835078,145.177477,1,3131,OK,street_address
+331,RANGE_INTERPOLATED,"169 Central Rd, Nunawading VIC 3131, Australia",Ei4xNjkgQ2VudHJhbCBSZCwgTnVuYXdhZGluZyBWSUMgMzEzMSwgQXVzdHJhbGlh,"169 Central Rd, Nunawading VIC 3131, Australia",-37.8246401,145.1675006,1,3131,OK,street_address
+332,ROOFTOP,"8-12 Simla St, Mitcham VIC 3132, Australia",ChIJ10yOZiM51moRQaZ2V31z1ow,"8-12 Simla St, Mitcham VIC 3132, Australia",-37.81916,145.191112,1,3132,OK,street_address
+333,ROOFTOP,"171 Rooks Rd, Vermont VIC 3133, Australia",ChIJ2bYiOdM-1moRlIccY31JUVQ,"171 Rooks Rd, Vermont VIC 3133, Australia",-37.8337978,145.1884708,1,3133,OK,street_address
+334,ROOFTOP,"13 Bedford Rd, Ringwood VIC 3134, Australia",ChIJk1znYNE71moR_VNvw38SXow,"13 Bedford Rd, Ringwood VIC 3134, Australia",-37.8156,145.232619,1,3134,OK,street_address
+335,ROOFTOP,"120 Oban Rd, Ringwood North VIC 3134, Australia",ChIJ8du3tCI61moRVKxfxUoFBrk,"120 Oban Rd, Ringwood North VIC 3134, Australia",-37.7933985,145.2375043,1,3134,OK,street_address
+336,ROOFTOP,"320-340 Wonga Rd, Warranwood VIC 3134, Australia",ChIJ9xcIoKQw1moRiAnLmkK5tNs,"320/340 Wonga Rd, Warranwood VIC 3134, Australia",-37.7677548,145.2424914,1,3134,OK,street_address
+337,ROOFTOP,"14 Dickson Cres, Ringwood North VIC 3134, Australia",ChIJvVf80jw61moRONasbqEQYyY,"14 Dickson Cres, Ringwood North VIC 3134, Australia",-37.795708,145.23711,1,3134,OK,street_address
+338,ROOFTOP,"1 Tamar St, Ringwood North VIC 3134, Australia",ChIJG15xKSk61moRpbdNX2OeiBQ,"1 Tamar St, Ringwood North VIC 3134, Australia",-37.802605,145.231102,1,3134,OK,street_address
+339,ROOFTOP,"143 Maroondah Hwy, Ringwood VIC 3134, Australia",ChIJuTO2TdY71moRwpkGd8LfqEg,"143 Maroondah Hwy, Ringwood VIC 3134, Australia",-37.815399,145.227843,1,3134,OK,street_address
+340,ROOFTOP,"9 Hill St, Ringwood East VIC 3135, Australia",ChIJHSklPsw71moRWcFD02BdEAs,"9 Hill St, Ringwood East VIC 3135, Australia",-37.8166779,145.2410717,1,3135,OK,street_address
+341,ROOFTOP,"78 Cuthbert St, Heathmont VIC 3135, Australia",ChIJIe636eg71moRgageF8l7PwE,"78 Cuthbert St, Heathmont VIC 3135, Australia",-37.834378,145.238828,1,3135,OK,street_address
+342,ROOFTOP,"6 Waterloo St, Heathmont VIC 3135, Australia",ChIJtx7wQOY71moRMKq_etFo-go,"6 Waterloo St, Heathmont VIC 3135, Australia",-37.833141,145.235463,1,3135,OK,street_address
+343,ROOFTOP,"51 Lusher Rd, Croydon VIC 3136, Australia",ChIJw22TtI061moR8NwlDOPfqNU,"51 Lusher Rd, Croydon VIC 3136, Australia",-37.8034827,145.2797149,1,3136,OK,street_address
+344,GEOMETRIC_CENTER,"Bemboka Rd, Croydon Hills VIC 3136, Australia",Ei1CZW1ib2thIFJkLCBDcm95ZG9uIEhpbGxzIFZJQyAzMTM2LCBBdXN0cmFsaWE,"Bemboka Rd, Croydon Hills VIC 3136, Australia",-37.7770495,145.2568191,1,3136,OK,route
+345,RANGE_INTERPOLATED,"6 Bemboka Rd, Croydon Hills VIC 3136, Australia",Ei82IEJlbWJva2EgUmQsIENyb3lkb24gSGlsbHMgVklDIDMxMzYsIEF1c3RyYWxpYQ,"6 Bemboka Rd, Croydon Hills VIC 3136, Australia",-37.7807205,145.2561719,1,3136,OK,street_address
+346,RANGE_INTERPOLATED,"6 Tallent St, Croydon VIC 3136, Australia",Eik2IFRhbGxlbnQgU3QsIENyb3lkb24gVklDIDMxMzYsIEF1c3RyYWxpYQ,"6 Tallent St, Croydon VIC 3136, Australia",-37.7916173,145.2805954,1,3136,OK,street_address
+347,ROOFTOP,"51 Lusher Rd, Croydon VIC 3136, Australia",ChIJw22TtI061moR8NwlDOPfqNU,"51 Lusher Rd, Croydon VIC 3136, Australia",-37.8034827,145.2797149,1,3136,OK,street_address
+348,ROOFTOP,"51 Lusher Rd, Croydon VIC 3136, Australia",ChIJw22TtI061moR8NwlDOPfqNU,"51 Lusher Rd, Croydon VIC 3136, Australia",-37.8034827,145.2797149,1,3136,OK,street_address
+349,ROOFTOP,"51 Lusher Rd, Croydon VIC 3136, Australia",ChIJw22TtI061moR8NwlDOPfqNU,"51 Lusher Rd, Croydon VIC 3136, Australia",-37.8034827,145.2797149,1,3136,OK,street_address
+350,ROOFTOP,"281 Colchester Rd, Kilsyth South VIC 3137, Australia",ChIJYbIY-9A61moRJyr_nkkvaDY,"281 Colchester Rd, Kilsyth South VIC 3137, Australia",-37.828178,145.304334,1,3137,OK,street_address
+351,ROOFTOP,"382-388 Liverpool Rd, Kilsyth South VIC 3137, Australia",ChIJk7sfi9Uk1moREmXYSgnDITk,"382-388 Liverpool Rd, Kilsyth South VIC 3137, Australia",-37.839086,145.318403,1,3137,OK,street_address
+352,ROOFTOP,"47/49 Carronvale Rd, Mooroolbark VIC 3138, Australia",EjQ0Ny80OSBDYXJyb252YWxlIFJkLCBNb29yb29sYmFyayBWSUMgMzEzOCwgQXVzdHJhbGlh,"47-49 Carronvale Rd, Mooroolbark VIC 3138, Australia",-37.7813515,145.3284304,1,3138,OK,subpremise
+353,GEOMETRIC_CENTER,"Hull Rd, Mooroolbark VIC 3138, Australia",EihIdWxsIFJkLCBNb29yb29sYmFyayBWSUMgMzEzOCwgQXVzdHJhbGlh,"Hull Rd, Mooroolbark VIC 3138, Australia",-37.782703,145.323945,1,3138,OK,route
+354,RANGE_INTERPOLATED,"305 Manchester Rd, Chirnside Park VIC 3116, Australia",EjUzMDUgTWFuY2hlc3RlciBSZCwgQ2hpcm5zaWRlIFBhcmsgVklDIDMxMTYsIEF1c3RyYWxpYQ,"305 Manchester Rd, Mooroolbark VIC 3138, Australia",-37.7610029,145.3157531,1,3116,OK,street_address
+355,ROOFTOP,"47/49 Carronvale Rd, Mooroolbark VIC 3138, Australia",EjQ0Ny80OSBDYXJyb252YWxlIFJkLCBNb29yb29sYmFyayBWSUMgMzEzOCwgQXVzdHJhbGlh,"47-49 Carronvale Rd, Mooroolbark VIC 3138, Australia",-37.7813515,145.3284304,1,3138,OK,subpremise
+356,ROOFTOP,"84 Beenak Rd, Wandin North VIC 3139, Australia",ChIJG0ibeBEp1moRs7BS_FYACKk,"St James Anglican Church, 84 Beenak Rd, Wandin North VIC 3139, Australia",-37.7888373,145.4331954,1,3139,OK,"establishment,place_of_worship,point_of_interest"
+357,ROOFTOP,"84 Beenak Rd, Wandin North VIC 3139, Australia",ChIJG0ibeBEp1moRs7BS_FYACKk,"St James Anglican Church, 84 Beenak Rd, Wandin North VIC 3139, Australia",-37.7888373,145.4331954,1,3139,OK,"establishment,place_of_worship,point_of_interest"
+358,ROOFTOP,"84 Beenak Rd, Wandin North VIC 3139, Australia",ChIJG0ibeBEp1moRs7BS_FYACKk,"St James Anglican Church, 84 Beenak Rd, Wandin North VIC 3139, Australia",-37.7888373,145.4331954,1,3139,OK,"establishment,place_of_worship,point_of_interest"
+359,ROOFTOP,"5/9 Clarke St, Lilydale VIC 3140, Australia",Eis1LzkgQ2xhcmtlIFN0LCBMaWx5ZGFsZSBWSUMgMzE0MCwgQXVzdHJhbGlh,"5/9 Clarke St, Lilydale VIC 3140, Australia",-37.7581305,145.3505908,1,3140,OK,subpremise
+360,ROOFTOP,"305 Swansea Rd, Lilydale VIC 3140, Australia",ChIJYWOAjv4u1moR4rM-hGwEglg,"305 Swansea Rd, Lilydale VIC 3140, Australia",-37.776262,145.3625268,1,3140,OK,street_address
+361,ROOFTOP,"5/9 Clarke St, Lilydale VIC 3140, Australia",Eis1LzkgQ2xhcmtlIFN0LCBMaWx5ZGFsZSBWSUMgMzE0MCwgQXVzdHJhbGlh,"5/9 Clarke St, Lilydale VIC 3140, Australia",-37.7581305,145.3505908,1,3140,OK,subpremise
+362,ROOFTOP,"677 Punt Rd, South Yarra VIC 3141, Australia",ChIJq7_vgSBo1moR4mBY1HKUaHU,"677 Punt Rd, South Yarra VIC 3141, Australia",-37.8391075,144.9861524,1,3141,OK,street_address
+363,ROOFTOP,"677 Punt Rd, South Yarra VIC 3141, Australia",ChIJq7_vgSBo1moR4mBY1HKUaHU,"677 Punt Rd, South Yarra VIC 3141, Australia",-37.8391075,144.9861524,1,3141,OK,street_address
+364,ROOFTOP,"12 Surrey Rd, South Yarra VIC 3141, Australia",ChIJdQlxcilo1moRT4ejHi5DWVw,"12 Surrey Rd, South Yarra VIC 3141, Australia",-37.8462098,144.998611,1,3141,OK,street_address
+365,ROOFTOP,"677 Punt Rd, South Yarra VIC 3141, Australia",ChIJq7_vgSBo1moR4mBY1HKUaHU,"677 Punt Rd, South Yarra VIC 3141, Australia",-37.8391075,144.9861524,1,3141,OK,street_address
+366,ROOFTOP,"86 Clendon Rd, Toorak VIC 3142, Australia",ChIJbfZ-Q3pC1moRs-mNuq8hWN0,"86 Clendon Rd, Toorak VIC 3142, Australia",-37.8424436,145.0145581,1,3142,OK,street_address
+367,ROOFTOP,"86 Clendon Rd, Toorak VIC 3142, Australia",ChIJbfZ-Q3pC1moRs-mNuq8hWN0,"86 Clendon Rd, Toorak VIC 3142, Australia",-37.8424436,145.0145581,1,3142,OK,street_address
+368,ROOFTOP,"86 Clendon Rd, Toorak VIC 3142, Australia",ChIJbfZ-Q3pC1moRs-mNuq8hWN0,"86 Clendon Rd, Toorak VIC 3142, Australia",-37.8424436,145.0145581,1,3142,OK,street_address
+369,ROOFTOP,"86 Clendon Rd, Toorak VIC 3142, Australia",ChIJbfZ-Q3pC1moRs-mNuq8hWN0,"86 Clendon Rd, Toorak VIC 3142, Australia",-37.8424436,145.0145581,1,3142,OK,street_address
+370,ROOFTOP,"86 Clendon Rd, Toorak VIC 3142, Australia",ChIJbfZ-Q3pC1moRs-mNuq8hWN0,"86 Clendon Rd, Toorak VIC 3142, Australia",-37.8424436,145.0145581,1,3142,OK,street_address
+371,ROOFTOP,"88 Kooyong Rd, Armadale VIC 3143, Australia",ChIJbWhjT9lp1moRsR5kOs3KDAQ,"88 Kooyong Rd, Armadale VIC 3143, Australia",-37.8548666,145.0211337,1,3143,OK,premise
+372,ROOFTOP,"8 Y St, Ashburton VIC 3147, Australia",ChIJ7UfEI9tB1moRIug0WB_-3Uc,"8 Y St, Ashburton VIC 3147, Australia",-37.862275,145.079345,1,3147,OK,street_address
+373,ROOFTOP,"3 Ashburn Grove, Ashburton VIC 3147, Australia",ChIJN2z8idpB1moRPi9OQ-dcQw0,"3 Ashburn Grove, Ashburton VIC 3147, Australia",-37.864352,145.081413,1,3147,OK,street_address
+374,ROOFTOP,"17-19 Margot St, Chadstone VIC 3148, Australia",ChIJDeAv1oFq1moRY1RKBAUkWno,"17-19 Margot St, Chadstone VIC 3148, Australia",-37.8766159,145.0970208,1,3148,OK,street_address
+375,ROOFTOP,"46 Lillimur Rd, Ormond VIC 3204, Australia",ChIJf4dPYHlp1moRUGEmqrUNw28,"46 Lillimur Rd, Ormond VIC 3149, Australia",-37.900068,145.042318,1,3204,OK,street_address
+376,ROOFTOP,"46-48 Montclair Ave, Glen Waverley VIC 3150, Australia",ChIJh33XZsA_1moRZvESjMsArPg,"46-48 Montclair Ave, Glen Waverley VIC 3150, Australia",-37.880928,145.162031,1,3150,OK,street_address
+377,ROOFTOP,"800 Waverley Rd, Glen Waverley VIC 3150, Australia",ChIJB1ZMhs8_1moRa3e2qlgtMBk,"800 Waverley Rd, Glen Waverley VIC 3150, Australia",-37.890749,145.170481,1,3150,OK,street_address
+378,APPROXIMATE,"Glen Waverley VIC 3150, Australia",ChIJy2a9frZr1moRQNuMIXVWBAU,"Glen Waverley VIC 3150, Australia",-37.8856521,145.165179,1,3150,OK,"locality,political"
+379,ROOFTOP,"758 Waverley Rd, Glen Waverley VIC 3150, Australia",ChIJ7biM3MQ_1moRZRtXn1AD2oI,"758 Waverley Rd, Glen Waverley VIC 3150, Australia",-37.890127,145.167395,1,3150,OK,street_address
+380,ROOFTOP,"588 High St Rd, Glen Waverley VIC 3150, Australia",ChIJ3wyRe5I_1moRFXrMDcW-RbY,"588 High St Rd, Glen Waverley VIC 3150, Australia",-37.8726083,145.1493536,1,3150,OK,street_address
+381,ROOFTOP,"2 Lum Rd, Wheelers Hill VIC 3150, Australia",ChIJ2bhfpjQ-1moRVI9vBM1SoN0,"2 Lum Rd, Wheelers Hill VIC 3150, Australia",-37.8912572,145.1828986,1,3150,OK,street_address
+382,ROOFTOP,"832-834 High St Rd, Glen Waverley VIC 3150, Australia",ChIJM5QLObA_1moRNZqjzrwNvwg,"832-834 High St Rd, Glen Waverley VIC 3150, Australia",-37.875087,145.17258,1,3150,OK,street_address
+383,ROOFTOP,"832-834 High St Rd, Glen Waverley VIC 3150, Australia",ChIJM5QLObA_1moRNZqjzrwNvwg,"832-834 High St Rd, Glen Waverley VIC 3150, Australia",-37.875087,145.17258,1,3150,OK,street_address
+384,ROOFTOP,"6 Clyden Ct, Burwood East VIC 3151, Australia",ChIJ5bZFu3k_1moRYeh5zyZTWOc,"6 Clyden Ct, Burwood East VIC 3151, Australia",-37.852848,145.146603,1,3151,OK,street_address
+385,ROOFTOP,"2 Vision Dr, Burwood East VIC 3151, Australia",ChIJHb2i1gg_1moRxf_v7EsPrLE,"2 Vision Dr, Burwood East VIC 3151, Australia",-37.859083,145.1672922,1,3151,OK,street_address
+386,ROOFTOP,"5 Burwood Hwy, Wantirna VIC 3152, Australia",ChIJh7O13pU-1moRG9RzepFUyJg,"5 Burwood Hwy, Wantirna VIC 3152, Australia",-37.8597477,145.2091156,1,3152,OK,street_address
+387,ROOFTOP,"1248 High St Rd, Wantirna South VIC 3152, Australia",ChIJjV8G1Ic-1moRor9g3__SWcc,"1248 High St Rd, Wantirna South VIC 3152, Australia",-37.8791793,145.2148358,1,3152,OK,street_address
+388,ROOFTOP,"2/82 Lewis Rd, Wantirna South VIC 3152, Australia",EjEyLzgyIExld2lzIFJkLCBXYW50aXJuYSBTb3V0aCBWSUMgMzE1MiwgQXVzdHJhbGlh,"2/82 Lewis Rd, Wantirna South VIC 3152, Australia",-37.865366,145.251027,1,3152,OK,subpremise
+389,ROOFTOP,"119 Mountain Hwy, Wantirna VIC 3152, Australia",ChIJKcEylKQ-1moRDcYxTbzsYeM,"119 Mountain Hwy, Wantirna VIC 3152, Australia",-37.8553059,145.2163838,1,3152,OK,premise
+390,ROOFTOP,"1248 High St Rd, Wantirna South VIC 3152, Australia",ChIJjV8G1Ic-1moRor9g3__SWcc,"1248 High St Rd, Wantirna South VIC 3152, Australia",-37.8791793,145.2148358,1,3152,OK,street_address
+391,ROOFTOP,"21 Koomba Rd, Wantirna VIC 3152, Australia",ChIJVVfOF6U-1moR0D3WQj3-RKc,"21 Koomba Rd, Wantirna VIC 3152, Australia",-37.852946,145.2162177,1,3152,OK,street_address
+392,ROOFTOP,"1248 High St Rd, Wantirna South VIC 3152, Australia",ChIJjV8G1Ic-1moRor9g3__SWcc,"1248 High St Rd, Wantirna South VIC 3152, Australia",-37.8791793,145.2148358,1,3152,OK,street_address
+393,ROOFTOP,"1248 High St Rd, Wantirna South VIC 3152, Australia",ChIJjV8G1Ic-1moRor9g3__SWcc,"1248 High St Rd, Wantirna South VIC 3152, Australia",-37.8791793,145.2148358,1,3152,OK,street_address
+394,ROOFTOP,"31/30 Michellan Ct, Bayswater VIC 3153, Australia",EjEzMS8zMCBNaWNoZWxsYW4gQ3QsIEJheXN3YXRlciBWSUMgMzE1MywgQXVzdHJhbGlh,"30/31 Michellan Ct, Bayswater VIC 3153, Australia",-37.841639,145.2420461,1,3153,OK,subpremise
+395,ROOFTOP,"328 Bayswater Rd, Bayswater North VIC 3153, Australia",ChIJgzdCC6g71moRoD_UUwu63hc,"328 Bayswater Rd, Bayswater North VIC 3153, Australia",-37.8313785,145.268628,1,3153,OK,street_address
+396,ROOFTOP,"199 Bayswater Rd, Bayswater North VIC 3153, Australia",ChIJRUjkg1U61moRuO_e9OQMfNM,"199 Bayswater Rd, Bayswater North VIC 3153, Australia",-37.8199062,145.2694117,1,3153,OK,street_address
+397,ROOFTOP,"328 Bayswater Rd, Bayswater North VIC 3153, Australia",ChIJgzdCC6g71moRoD_UUwu63hc,"328 Bayswater Rd, Bayswater North VIC 3153, Australia",-37.8313785,145.268628,1,3153,OK,street_address
+398,ROOFTOP,"17-19 Falconer Rd, Boronia VIC 3155, Australia",ChIJxxxRg3871moReKVOFIqkOZQ,"17-19 Falconer Rd, Boronia VIC 3155, Australia",-37.8586189,145.2707187,1,3155,OK,street_address
+399,ROOFTOP,"8/1154 Burwood Hwy, Upper Ferntree Gully VIC 3156, Australia",Ejw4LzExNTQgQnVyd29vZCBId3ksIFVwcGVyIEZlcm50cmVlIEd1bGx5IFZJQyAzMTU2LCBBdXN0cmFsaWE,"8/1154 Burwood Hwy, Upper Ferntree Gully VIC 3156, Australia",-37.8915993,145.3015721,1,3156,OK,subpremise
+400,ROOFTOP,"8/1154 Burwood Hwy, Upper Ferntree Gully VIC 3156, Australia",Ejw4LzExNTQgQnVyd29vZCBId3ksIFVwcGVyIEZlcm50cmVlIEd1bGx5IFZJQyAzMTU2LCBBdXN0cmFsaWE,"8/1154 Burwood Hwy, Upper Ferntree Gully VIC 3156, Australia",-37.8915993,145.3015721,1,3156,OK,subpremise
+401,RANGE_INTERPOLATED,"244 Mt Morton Rd, Belgrave Heights VIC 3160, Australia",EjYyNDQgTXQgTW9ydG9uIFJkLCBCZWxncmF2ZSBIZWlnaHRzIFZJQyAzMTYwLCBBdXN0cmFsaWE,"244 Mt Morton Rd, Belgrave Heights VIC 3160, Australia",-37.9201132,145.3444877,1,3160,OK,street_address
+402,ROOFTOP,"169 Belgrave-Hallam Rd, Belgrave South VIC 3160, Australia",ChIJ0ZMQWPgi1moR37zIb8jNRXE,"169 Belgrave-Hallam Rd, Belgrave South VIC 3160, Australia",-37.9337169,145.3567796,1,3160,OK,street_address
+403,ROOFTOP,"530 Dandenong Rd, Caulfield North VIC 3161, Australia",ChIJL7qV_Olp1moRpVcTGw4sWmo,"530 Dandenong Rd, Caulfield North VIC 3161, Australia",-37.8666867,145.0274355,1,3161,OK,street_address
+404,ROOFTOP,"514 Dandenong Rd, Caulfield North VIC 3161, Australia",ChIJnWIPM8Jp1moRL-PynqPU5xE,"514 Dandenong Rd, Caulfield North VIC 3161, Australia",-37.865408,145.024688,1,3161,OK,street_address
+405,ROOFTOP,"1 Neerim Rd, Caulfield VIC 3162, Australia",ChIJQ3RE3Zhp1moRq0ue1A0lUKQ,"1 Neerim Rd, Caulfield VIC 3162, Australia",-37.8853433,145.0294207,1,3162,OK,street_address
+406,ROOFTOP,"1 Neerim Rd, Caulfield VIC 3162, Australia",ChIJQ3RE3Zhp1moRq0ue1A0lUKQ,"1 Neerim Rd, Caulfield VIC 3162, Australia",-37.8853433,145.0294207,1,3162,OK,street_address
+407,ROOFTOP,"1 Neerim Rd, Caulfield VIC 3162, Australia",ChIJQ3RE3Zhp1moRq0ue1A0lUKQ,"1 Neerim Rd, Caulfield VIC 3162, Australia",-37.8853433,145.0294207,1,3162,OK,street_address
+408,ROOFTOP,"44 Murrumbeena Rd, Murrumbeena VIC 3163, Australia",ChIJhc7O7D5q1moR1lqei0uOHdg,"44 Murrumbeena Rd, Murrumbeena VIC 3163, Australia",-37.8883968,145.0672839,1,3163,OK,street_address
+409,ROOFTOP,"216 E Boundary Rd, Bentleigh East VIC 3165, Australia",ChIJL6UgJsVr1moROLffAYPbVQA,"216 E Boundary Rd, East Bentleigh VIC 3165, Australia",-37.91322,145.0609338,1,3165,OK,street_address
+410,ROOFTOP,"26 Abbeygate St, Oakleigh VIC 3166, Australia",ChIJ39qZhVZq1moR9ELi1kWivGc,"26 Abbeygate St, Oakleigh VIC 3166, Australia",-37.9066482,145.0902174,1,3166,OK,street_address
+411,ROOFTOP,"185 Warrigal Rd, Hughesdale VIC 3166, Australia",ChIJNdua_1Jq1moReOKpn_TVC2A,"185 Warrigal Rd, Hughesdale VIC 3166, Australia",-37.9076644,145.0849179,1,3166,OK,street_address
+412,ROOFTOP,"15 Clifford St, Huntingdale VIC 3166, Australia",ChIJuRWzPOVq1moRIGAJzzMKfjg,"15 Clifford St, Huntingdale VIC 3166, Australia",-37.9093937,145.1055557,1,3166,OK,street_address
+413,ROOFTOP,"964 Centre Rd, Oakleigh South VIC 3167, Australia",ChIJH-vzQaNr1moRaBf8gblGMp0,"964 Centre Road, Oakleigh South VIC 3167, Australia",-37.924321,145.083738,1,3167,OK,street_address
+414,ROOFTOP,"25 Burton Ave, Clayton VIC 3168, Australia",ChIJhSAgJyJr1moR-zaZ5pCV9LY,"25 Burton Ave, Clayton VIC 3168, Australia",-37.9255282,145.1175525,1,3168,OK,street_address
+415,ROOFTOP,"118 Wellington Rd, Clayton VIC 3168, Australia",ChIJUbYNYjEV1moRMIS1kQeTjwg,"118 Wellington Rd, Clayton VIC 3168, Australia",-37.917113,145.143136,1,3168,OK,street_address
+416,ROOFTOP,"54 Madeleine Rd, Clayton VIC 3168, Australia",ChIJOZu8wt5q1moRXpILGhW4cfQ,"54 Madeleine Rd, Clayton VIC 3168, Australia",-37.9188528,145.1207156,1,3168,OK,street_address
+417,ROOFTOP,"316-322 Kingston Rd, Clarinda VIC 3169, Australia",ChIJH19c9p5s1moRQTpOKWBXESc,"316-322 Kingston Rd, Clarinda VIC 3169, Australia",-37.958827,145.111822,1,3169,OK,street_address
+418,,,,"19 McDonalds La, Mulgrave VIC 3170, Australia",,,0,,ZERO_RESULTS,
+419,ROOFTOP,"3 Albert Ave, Springvale VIC 3171, Australia",ChIJO2gwlMgU1moRIulaS8n9_no,"3 Albert Ave, Springvale VIC 3171, Australia",-37.946506,145.147185,1,3171,OK,street_address
+420,ROOFTOP,"1B-1E MacKay St, Springvale South VIC 3172, Australia",ChIJ5epwxVkT1moRQZ4COAn9_YA,"1b/1 MacKay St, Springvale South VIC 3172, Australia",-37.9720513,145.1494554,1,3172,OK,street_address
+421,ROOFTOP,"50 Tootal Rd, Dingley Village VIC 3172, Australia",ChIJS8P_wqds1moRsSI10wSurO4,"50 Tootal Rd, Dingley Village VIC 3172, Australia",-37.962703,145.1284683,1,3172,OK,street_address
+422,ROOFTOP,"927 Springvale Rd, Keysborough VIC 3173, Australia",ChIJjWfE2CsT1moRTtA8xRbkoos,"927 Springvale Rd, Keysborough VIC 3173, Australia",-38.0010828,145.1429856,1,3173,OK,street_address
+423,ROOFTOP,"130 Railway Parade, Noble Park VIC 3174, Australia",ChIJk1VfzHAU1moRGj5S33hbryA,"130 Railway Parade, Noble Park VIC 3174, Australia",-37.979518,145.194616,1,3174,OK,street_address
+424,ROOFTOP,"55 Halton Rd, Noble Park North VIC 3174, Australia",ChIJNXkSpk8U1moRqCR-cWmSK6A,"55 Halton Rd, Noble Park North VIC 3174, Australia",-37.9548124,145.1952425,1,3174,OK,premise
+425,ROOFTOP,"55 Halton Rd, Noble Park North VIC 3174, Australia",ChIJNXkSpk8U1moRqCR-cWmSK6A,"55 Halton Rd, Noble Park North VIC 3174, Australia",-37.9548124,145.1952425,1,3174,OK,premise
+426,ROOFTOP,"121 Stud Rd, Dandenong VIC 3175, Australia",ChIJw_SOtxgU1moR8BbMof-M_4M,"121 Stud Rd, Dandenong VIC 3175, Australia",-37.9751686,145.2196038,1,3175,OK,street_address
+427,ROOFTOP,"9 Anthony St, Dandenong North VIC 3175, Australia",ChIJxa9-UTsU1moRa5y0QM8W82E,"9 Anthony St, Dandenong North VIC 3175, Australia",-37.967269,145.214509,1,3175,OK,street_address
+428,ROOFTOP,"121 Stud Rd, Dandenong VIC 3175, Australia",ChIJw_SOtxgU1moR8BbMof-M_4M,"121 Stud Rd, Dandenong VIC 3175, Australia",-37.9751686,145.2196038,1,3175,OK,street_address
+429,ROOFTOP,"255 Outlook Dr, Dandenong North VIC 3175, Australia",ChIJPdvuRMQV1moRXBY_HpZPSs4,"255 Outlook Dr, Dandenong North VIC 3175, Australia",-37.9399028,145.2111751,1,3175,OK,street_address
+430,ROOFTOP,"9 Claredale Rd, Doveton VIC 3177, Australia",ChIJcY5pyVUR1moRgN3edGsjApI,"9 Claredale Rd, Doveton VIC 3177, Australia",-37.9976824,145.2283435,1,3177,OK,street_address
+431,ROOFTOP,"127 Kidds Rd, Doveton VIC 3177, Australia",ChIJAdDN5roW1moR_5KqRTZqL3Y,"127 Kidds Rd, Doveton VIC 3177, Australia",-37.9877788,145.2385744,1,3177,OK,street_address
+432,ROOFTOP,"1070 Stud Rd, Rowville VIC 3178, Australia",ChIJXR6-p_s91moR4wIUgPPd5zM,"1070 Stud Rd, Rowville VIC 3178, Australia",-37.9157248,145.2350069,1,3178,OK,street_address
+433,ROOFTOP,"1070 Stud Rd, Rowville VIC 3178, Australia",ChIJXR6-p_s91moR4wIUgPPd5zM,"1070 Stud Rd, Rowville VIC 3178, Australia",-37.9157248,145.2350069,1,3178,OK,street_address
+434,ROOFTOP,"7 Seismic Ct, Rowville VIC 3178, Australia",ChIJV1-8EcA91moRIYUbJtKIiLI,"7 Seismic Ct, Rowville VIC 3178, Australia",-37.9077198,145.2472093,1,3178,OK,street_address
+435,GEOMETRIC_CENTER,"Wellington Rd, Los Angeles, CA, USA",ChIJX2DOski4woARcpj5uXydcbU,"Wellington Rd & Le John St, Rowville VIC 3178, Australia",34.0294562,-118.3384161,2,,OK,route
+436,ROOFTOP,"15 Cavell St, Scoresby VIC 3179, Australia",ChIJy3zbZ9I91moRfQ9Y5cfNcjc,"15 Cavell St, Scoresby VIC 3179, Australia",-37.888912,145.235782,1,3179,OK,street_address
+437,ROOFTOP,"646 Burwood Hwy, Knoxfield VIC 3180, Australia",ChIJkWzJ5EI81moR1IDQTagn-jQ,"646 Burwood Hwy, Knoxfield VIC 3180, Australia",-37.8764384,145.2568519,1,3180,OK,street_address
+438,ROOFTOP,"31 Spring St, Prahran VIC 3181, Australia",ChIJ3c0nryxo1moRi4F8sv3QNrE,"31 Spring St, Prahran VIC 3181, Australia",-37.8504818,145.0047418,1,3181,OK,street_address
+439,ROOFTOP,"61 Mcilwrick St, Windsor VIC 3181, Australia",ChIJq4DW2TBo1moRGkdmOzx_nUA,"61 Mcilwrick St, Windsor VIC 3181, Australia",-37.856124,144.99679,1,3181,OK,street_address
+440,ROOFTOP,"14 Acland St, St Kilda VIC 3182, Australia",ChIJhZiPgGVo1moRmMCkGTx-_tk,"14 Acland St, St Kilda VIC 3182, Australia",-37.8635987,144.9758403,1,3182,OK,street_address
+441,ROOFTOP,"2 Chapel St, St Kilda VIC 3182, Australia",ChIJjcjlRTho1moRtspQcybXiiA,"2 Chapel St, St Kilda VIC 3182, Australia",-37.8581571,144.9924875,1,3182,OK,premise
+442,ROOFTOP,"9 Pakington St, St Kilda VIC 3182, Australia",ChIJfe59FkNo1moRZNI3BUbPDQs,"9 Pakington St, St Kilda VIC 3182, Australia",-37.8659964,144.9869682,1,3182,OK,street_address
+443,RANGE_INTERPOLATED,"58 Wilson St, Brighton VIC 3186, Australia",Eio1OCBXaWxzb24gU3QsIEJyaWdodG9uIFZJQyAzMTg2LCBBdXN0cmFsaWE,"58 Wilson St, Brighton VIC 3186, Australia",-37.9130814,145.0013211,1,3186,OK,street_address
+444,ROOFTOP,"164 Bay St, Brighton VIC 3186, Australia",ChIJBWo8o9to1moRdUdYbRFZ7IA,"164 Bay St, Brighton VIC 3186, Australia",-37.9050368,144.9976038,1,3186,OK,street_address
+445,ROOFTOP,"2 Wolseley Grove, Brighton VIC 3186, Australia",ChIJeWV6WSVv1moRh4R8xROz75M,"2 Wolseley Grove, Brighton VIC 3186, Australia",-37.9262821,144.9948454,1,3186,OK,street_address
+446,ROOFTOP,"2/12 Chesterville Rd, Cheltenham VIC 3192, Australia",EjQyLzEyIENoZXN0ZXJ2aWxsZSBSZCwgQ2hlbHRlbmhhbSBWSUMgMzE5MiwgQXVzdHJhbGlh,"2/12 Chesterville Rd, Cheltenham VIC 3192, Australia",-37.962101,145.056824,1,3192,OK,subpremise
+447,ROOFTOP,"99-101 Argus St, Cheltenham VIC 3192, Australia",ChIJYeTZrGts1moRa5ZDk31RmXs,"99-101 Argus St, Cheltenham VIC 3192, Australia",-37.959652,145.0747505,1,3192,OK,street_address
+448,ROOFTOP,"36 Harpley St, Cheltenham VIC 3192, Australia",ChIJo6pGw0ls1moRWUx1QuVrk-A,"36 Harpley St, Cheltenham VIC 3192, Australia",-37.9741504,145.0724674,1,3192,OK,street_address
+449,ROOFTOP,"223-225 Balcombe Rd, Beaumaris VIC 3193, Australia",ChIJL3eGW3hu1moRzaS_Yq8Jd40,"223-225 Balcombe Rd, Beaumaris VIC 3193, Australia",-37.9796336,145.0475718,1,3193,OK,street_address
+450,ROOFTOP,"78 Dalgetty Rd, Beaumaris VIC 3193, Australia",ChIJXVISWW1u1moROqvToORRRxY,"78 Dalgetty Rd, Beaumaris VIC 3193, Australia",-37.9867175,145.0380681,1,3193,OK,street_address
+451,ROOFTOP,"90/92 Como Parade W, Mentone VIC 3194, Australia",EjA5MC85MiBDb21vIFBhcmFkZSBXLCBNZW50b25lIFZJQyAzMTk0LCBBdXN0cmFsaWE,"90-92 Como Parade W, Mentone VIC 3194, Australia",-37.9862885,145.067604,1,3194,OK,subpremise
+452,ROOFTOP,"176 Como Parade W, Parkdale VIC 3195, Australia",ChIJIxhCs7lt1moREpM2ZGOh3Bc,"176 Como Parade W, Parkdale VIC 3195, Australia",-37.992021,145.0740182,1,3195,OK,street_address
+453,GEOMETRIC_CENTER,"Parkers Rd, Parkers Prairie, MN 56361, USA",ChIJLdgZjEv-yVIRaaI1r4ksQf0,"Cnr Parkers Rd & Blanche Ave, Parkdale VIC 3195, Australia",46.1351652,-95.339948,10,56361,OK,route
+454,ROOFTOP,"12 McDonald St, Mordialloc VIC 3195, Australia",ChIJ2VOLUZ9t1moR1Jqqp5MGW6g,"12 McDonald St, Mordialloc VIC 3195, Australia",-38.00485,145.088191,1,3195,OK,street_address
+455,ROOFTOP,"13 Hi-Tech Pl, Seaford VIC 3198, Australia",ChIJv8AVPFUL1moRjPGIWNUk7Mw,"13 Hi-Tech Pl, Seaford VIC 3198, Australia",-38.1161513,145.1386612,1,3198,OK,premise
+456,ROOFTOP,"14 Heversham Dr, Seaford VIC 3198, Australia",ChIJF88Uc6sM1moRjxNwGbAPj_0,"14 Heversham Dr, Seaford VIC 3198, Australia",-38.1114034,145.139949,1,3198,OK,street_address
+457,ROOFTOP,"29 Overport Rd, Frankston South VIC 3199, Australia",ChIJ74M85zl11moRbuAghwll2Uw,"Delacombe Park, Overport Road, Frankston South VIC 3199, Australia",-38.1627695,145.126475,1,3199,OK,"establishment,point_of_interest,school"
+458,ROOFTOP,"26 High St, Frankston VIC 3199, Australia",ChIJJ6wfFCF11moRzSZlM-xA6Rk,"26 High St, Frankston VIC 3199, Australia",-38.148596,145.119383,1,3199,OK,street_address
+459,ROOFTOP,"252 Frankston - Flinders Rd, Frankston South VIC 3199, Australia",ChIJJwbRS0111moR1DSbs_zpSHw,"252 Frankston - Flinders Rd, Frankston VIC 3199, Australia",-38.1784909,145.1382494,1,3199,OK,street_address
+460,ROOFTOP,"36 Radiata St, Frankston North VIC 3199, Australia",ChIJt2saJqEM1moR1cVUL9Hlo1c,"36 Radiata St, Frankston North VIC 3199, Australia",-38.1175694,145.1548681,1,3199,OK,street_address
+461,ROOFTOP,"261 McKinnon Rd, McKinnon VIC 3204, Australia",ChIJeYyfM2Fp1moRcassHhAsTnA,"261 McKinnon Rd, McKinnon VIC 3204, Australia",-37.9115964,145.044019,1,3204,OK,premise
+462,ROOFTOP,"261 McKinnon Rd, McKinnon VIC 3204, Australia",ChIJeYyfM2Fp1moRcassHhAsTnA,"261 McKinnon Rd, McKinnon VIC 3204, Australia",-37.9115964,145.044019,1,3204,OK,premise
+463,ROOFTOP,"261 McKinnon Rd, McKinnon VIC 3204, Australia",ChIJeYyfM2Fp1moRcassHhAsTnA,"261 McKinnon Rd, McKinnon VIC 3204, Australia",-37.9115964,145.044019,1,3204,OK,premise
+464,ROOFTOP,"210 Dorcas St, South Melbourne VIC 3205, Australia",ChIJ01-Q1_9n1moRyobE6hXS7Mw,"210 Dorcas St, South Melbourne VIC 3205, Australia",-37.8325304,144.9613714,1,3205,OK,street_address
+465,ROOFTOP,"76-84 Flinders Ave, Lara VIC 3212, Australia",ChIJ0wPous4Y1GoRn2pzBicPXm0,"76-84 Flinders Ave, Lara VIC 3212, Australia",-38.0175668,144.4060498,1,3212,OK,street_address
+466,ROOFTOP,"12 Tarkin Ct, Bell Park VIC 3215, Australia",ChIJQ7B1QdQQ1GoRBc6TfFauckQ,"12 Tarkin Ct, Bell Park VIC 3215, Australia",-38.0982068,144.342886,1,3215,OK,street_address
+467,ROOFTOP,"1 Douro St, North Geelong VIC 3215, Australia",ChIJR8wLWrUW1GoRqQnFyquk430,"1 Douro St, North Geelong VIC 3215, Australia",-38.1219325,144.3473597,1,3215,OK,street_address
+468,ROOFTOP,"4-32 Province Blvd, Highton VIC 3216, Australia",ChIJ2xAGf6kT1GoRKrtUEyPBUEY,"4-32 Province Boulevard, Highton VIC 3216, Australia",-38.1608198,144.3071255,1,3216,OK,street_address
+469,ROOFTOP,"94-96 Pioneer Rd, Grovedale VIC 3216, Australia",ChIJbfrP2U4T1GoRfk8qxREIgP4,"94-96 Pioneer Rd, Grovedale VIC 3216, Australia",-38.2016822,144.331048,1,3216,OK,street_address
+470,ROOFTOP,"48 Waurnvale Dr, Belmont VIC 3216, Australia",ChIJoyvKTzgT1GoR8pWf1diGUkQ,"48 Waurnvale Dr, Belmont VIC 3216, Australia",-38.1945845,144.3226569,1,3216,OK,premise
+471,ROOFTOP,"231 Pakington St, Geelong West VIC 3218, Australia",ChIJ56VPZwcU1GoR1JVMA208-2E,"231 Pakington St, Geelong West VIC 3218, Australia",-38.145854,144.3470918,1,3218,OK,street_address
+472,GEOMETRIC_CENTER,"Crn Volum St and Shannon Ave Manifold Heights, Manifold Heights VIC 3218, Australia",ChIJp9Mo2_wT1GoR_RUV7t7zojw,"Crn Volum St and Shannon Ave Manifold Heights, Manifold Heights VIC 3218, Australia",-38.139042,144.33615,1,3218,OK,"church,establishment,place_of_worship,point_of_interest"
+473,RANGE_INTERPOLATED,"277 Church St, Hamlyn Heights VIC 3215, Australia",EjEyNzcgQ2h1cmNoIFN0LCBIYW1seW4gSGVpZ2h0cyBWSUMgMzIxNSwgQXVzdHJhbGlh,"277 Church St, Hamlyn Heights VIC 3218, Australia",-38.1291827,144.3251032,1,3215,OK,street_address
+474,ROOFTOP,"230 McKillop St, East Geelong VIC 3219, Australia",ChIJr7B3TSMU1GoRXGLUQGSRbhs,"230 McKillop St, East Geelong VIC 3219, Australia",-38.1581653,144.3731156,1,3219,OK,street_address
+475,ROOFTOP,"69 McKillop St, Geelong VIC 3220, Australia",ChIJPT6IgBoU1GoRKHX8juExK0k,"69 McKillop St, Geelong VIC 3220, Australia",-38.1536623,144.3600775,1,3220,OK,street_address
+476,ROOFTOP,"45 Central Rd, Clifton Springs VIC 3222, Australia",ChIJ8xRHkh471GoRoUn0n-mUE1Q,"45 Central Rd, Clifton Springs VIC 3222, Australia",-38.1626064,144.560776,1,3222,OK,street_address
+477,ROOFTOP,"276 Jetty Rd, Curlewis VIC 3222, Australia",ChIJ5fO2EqQ71GoRfi1o155l_5c,"276 Jetty Rd, Curlewis VIC 3222, Australia",-38.1792223,144.5509534,1,3222,OK,street_address
+478,GEOMETRIC_CENTER,"Portarlington Rd, Portarlington VIC 3223, Australia",EjNQb3J0YXJsaW5ndG9uIFJkLCBQb3J0YXJsaW5ndG9uIFZJQyAzMjIzLCBBdXN0cmFsaWE,"Portarlington Rd, Portarlington VIC 3223, Australia",-38.1297225,144.6229732,1,3223,OK,route
+479,ROOFTOP,"17 Tareeda Way, Ocean Grove VIC 3226, Australia",ChIJh2fLR-841GoRwSGXilGtOWw,"17 Tareeda Way, Ocean Grove VIC 3226, Australia",-38.2577521,144.5498094,1,3226,OK,street_address
+480,ROOFTOP,"TIA Hall, 12 Price, St Torquay VIC 3228, Australia",ChIJt7K3hjzNWwERM6qUbHeJj4c,"TIA Hall, 12 Price, St Torquay VIC 3228, Australia",-38.335281,144.32055,1,3228,OK,"church,establishment,place_of_worship,point_of_interest"
+481,ROOFTOP,"25 Grossmans Rd, Torquay VIC 3228, Australia",ChIJVb1BdRBv1GoROrL4gzr3U2Y,"25 Grossmans Rd, Torquay VIC 3228, Australia",-38.3220358,144.3148411,1,3228,OK,street_address
+482,ROOFTOP,"35 Boston Rd, Torquay VIC 3228, Australia",ChIJ9y5JXBNv1GoRkpmNEY1tRsc,"35 Boston Rd, Torquay VIC 3228, Australia",-38.33239,144.3189685,1,3228,OK,street_address
+483,GEOMETRIC_CENTER,"Uniting Church Building,, Murch Cres, Anglesea VIC 3230, Australia",ChIJq6qqqi581GoRUklclfFL2LQ,"Uniting Church Building,, Murch Cres, Anglesea VIC 3230, Australia",-38.405655,144.186997,2,3230,OK,"establishment,place_of_worship,point_of_interest"
+484,ROOFTOP,"103 Curdie St, Cobden VIC 3266, Australia",ChIJldwLOJXq0moRJ0NeVsU4pkk,"103 Curdie St, Cobden VIC 3266, Australia",-38.3278601,143.0687827,1,3266,OK,street_address
+485,ROOFTOP,"3822 Cobden-Warrnambool Rd, Naringal VIC 3277, Australia",ChIJE7pARC5WzWoRIRu-ekr6sAk,"3822 Cobden-Warrnambool Rd, Naringal VIC 3277, Australia",-38.3959751,142.6938583,1,3277,OK,street_address
+486,ROOFTOP,"186 Raglan Parade, Warrnambool VIC 3280, Australia",ChIJZ27lvZZNzWoRCE2wjawjdpk,"186 Raglan Parade, Warrnambool VIC 3280, Australia",-38.3831361,142.5145557,1,3280,OK,premise
+487,ROOFTOP,"200 Timor St, Warrnambool VIC 3280, Australia",ChIJwze0XfhMzWoRye86FoBnSSk,"200 Timor St, Warrnambool VIC 3280, Australia",-38.384587,142.4807641,1,3280,OK,street_address
+488,ROOFTOP,"25-33 Learmonth St, Portland VIC 3305, Australia",ChIJK1QFYW-XnaoRdf7SGDub_ls,"25/33 Learmonth St, Portland VIC 3305, Australia",-38.3274258,141.5991786,1,3305,OK,street_address
+489,ROOFTOP,"1430 Western Highway, Rockbank VIC 3335, Australia",ChIJqwpRHEuL1moRv8GTdfFh_ig,"1430 Western Hwy, Rockbank VIC 3335, Australia",-37.748662,144.7162938,1,3335,OK,street_address
+490,ROOFTOP,"19 Claret Ash Blvd, Melton West VIC 3337, Australia",ChIJWZcGAevs1moRqAt9FRBz3Ik,"19 Claret Ash Blvd, Melton West VIC 3337, Australia",-37.667556,144.5464173,1,3337,OK,premise
+491,ROOFTOP,"1-5 Westmelton Dr, Melton West VIC 3337, Australia",ChIJFTRp1CHt1moR2f9RAEC8L4E,"1-5 West Melton Drive, Melton West VIC 3337, Australia",-37.6780696,144.5687012,1,3337,OK,street_address
+492,ROOFTOP,"55 Palmerston St, Melton VIC 3337, Australia",ChIJ7QDm5hXt1moRRau7ydNQM48,"55 Palmerston St, Melton VIC 3337, Australia",-37.681518,144.582644,1,3337,OK,street_address
+493,ROOFTOP,"222 Main St, Bacchus Marsh VIC 3340, Australia",ChIJewrY1GWV1moRKzxJk5biack,"222 Main St, Bacchus Marsh VIC 3340, Australia",-37.6763464,144.4424645,1,3340,OK,premise
+494,ROOFTOP,"49 Lydiard St S, Ballarat Central VIC 3350, Australia",ChIJfYP9u_lE0WoRs6YpbAlpNic,"49 Lydiard St S, Ballarat Central VIC 3350, Australia",-37.5636298,143.8576949,1,3350,OK,street_address
+495,ROOFTOP,"17 Dawson St N, Ballarat Central VIC 3350, Australia",ChIJE944MvZE0WoReFk-CNkIjdA,"17 Dawson St N, Ballarat Central VIC 3350, Australia",-37.5594398,143.8533425,1,3350,OK,street_address
+496,ROOFTOP,"316 Walker St, Ballarat North VIC 3350, Australia",ChIJRxMGFMtF0WoRqJyCOE7jItY,"316 Walker St., Ballarat North VIC 3350, Australia",-37.5424049,143.8688123,1,3350,OK,street_address
+497,ROOFTOP,"121 Gillies St S, Alfredton VIC 3350, Australia",ChIJ7finr11D0WoRpQXvO1IB-5s,"121 Gillies St S, Ballarat Central VIC 3350, Australia",-37.566043,143.816104,1,3350,OK,street_address
+498,RANGE_INTERPOLATED,"410 York St, Ballarat East VIC 3350, Australia",Ei40MTAgWW9yayBTdCwgQmFsbGFyYXQgRWFzdCBWSUMgMzM1MCwgQXVzdHJhbGlh,"410 York St, Ballarat East VIC 3350, Australia",-37.5692136,143.8805767,1,3350,OK,street_address
+499,ROOFTOP,"102 Eureka St, Ballarat East VIC 3350, Australia",ChIJJzFXuQFF0WoRPQLOQsAxC-Q,"102 Eureka St, Ballarat Central VIC 3350, Australia",-37.56717,143.8691391,1,3350,OK,street_address
+500,ROOFTOP,"St Marys Anglican Church, 3512 Sunraysia Hwy, Lexton VIC 3352, Australia",ChIJ_-kuY0wM0WoR_MjIwKbtk0c,"St Marys Anglican Church, 3512 Sunraysia Hwy, Lexton VIC 3352, Australia",-37.277755,143.516983,1,3352,OK,street_address
+501,ROOFTOP,"St Marys Anglican Church, 3512 Sunraysia Hwy, Lexton VIC 3352, Australia",ChIJ_-kuY0wM0WoR_MjIwKbtk0c,"St Marys Anglican Church, 3512 Sunraysia Hwy, Lexton VIC 3352, Australia",-37.277755,143.516983,1,3352,OK,street_address
+502,ROOFTOP,"120 Yarrowee St, Sebastopol VIC 3356, Australia",ChIJ_wZqIEtb0WoREHRT87QUOq4,"120 Yarrowee St, Sebastopol VIC 3356, Australia",-37.5931861,143.8427748,1,3356,OK,street_address
+503,ROOFTOP,"86 High St, Ararat VIC 3377, Australia",ChIJxVKhVMDx0WoRaF9F_AVycsg,"Church of Christ, 86 High St, Ararat VIC 3377, Australia",-37.283312,142.935914,1,3377,OK,"establishment,place_of_worship,point_of_interest"
+504,RANGE_INTERPOLATED,"91 River Rd, Horsham VIC 3400, Australia",Eig5MSBSaXZlciBSZCwgSG9yc2hhbSBWSUMgMzQwMCwgQXVzdHJhbGlh,"91 River Rd, Horsham VIC 3400, Australia",-36.7304241,142.2025688,1,3400,OK,street_address
+505,ROOFTOP,"289 Baillie St, Horsham VIC 3400, Australia",ChIJZYC9CbZazmoRsm7is8-O6iQ,"289 Baillie St, Horsham VIC 3400, Australia",-36.7119398,142.1851325,1,3400,OK,street_address
+506,ROOFTOP,"162 Baillie St, Horsham VIC 3400, Australia",ChIJmX0pqE9FzmoR4JwcOraDA_c,"162 Baillie St, Horsham VIC 3400, Australia",-36.711285,142.199714,1,3400,OK,street_address
+507,ROOFTOP,"162 Baillie St, Horsham VIC 3400, Australia",ChIJmX0pqE9FzmoR4JwcOraDA_c,"162 Baillie St, Horsham VIC 3400, Australia",-36.711285,142.199714,1,3400,OK,street_address
+508,ROOFTOP,"17 Florence St, Horsham VIC 3400, Australia",ChIJf6oA461azmoRgxSz5GpK1nE,"17 Florence St, Horsham VIC 3402, Australia",-36.7031879,142.1861434,1,3400,OK,premise
+509,ROOFTOP,"207 Gap Rd, Sunbury VIC 3429, Australia",ChIJl0UtAfT51moRXqdsFAaF6rY,"207 Gap Rd, Sunbury VIC 3429, Australia",-37.5779502,144.7025782,1,3429,OK,street_address
+510,ROOFTOP,"35 Aitken St, Gisborne VIC 3437, Australia",ChIJ5-NxnqPk1moRiyU-Ri_S0bM,"35 Aitken St, Gisborne VIC 3437, Australia",-37.487085,144.591977,1,3437,OK,street_address
+511,RANGE_INTERPOLATED,"66 Aitken St, Gisborne VIC 3437, Australia",Eio2NiBBaXRrZW4gU3QsIEdpc2Jvcm5lIFZJQyAzNDM3LCBBdXN0cmFsaWE,"66 Aitken St, Gisborne VIC 3437, Australia",-37.4907359,144.5909291,1,3437,OK,street_address
+512,ROOFTOP,"31 Saunders Rd, New Gisborne VIC 3438, Australia",ChIJSwFn80Xj1moR3R-7sxPRmcE,"31 Saunders Rd, New Gisborne VIC 3438, Australia",-37.4693324,144.5981555,1,3438,OK,street_address
+513,ROOFTOP,"247 Station Rd, New Gisborne VIC 3438, Australia",ChIJafdlaTjj1moRJqRC1HHADHY,"247 Station Rd, New Gisborne VIC 3438, Australia",-37.462099,144.5968475,1,3438,OK,street_address
+514,ROOFTOP,"43 Ebden St, Kyneton VIC 3444, Australia",ChIJVU10Y4kY12oRPopnvQXVEbE,"43 Ebden St, Kyneton VIC 3444, Australia",-37.2471548,144.4504261,1,3444,OK,premise
+515,ROOFTOP,"66 Blakeley Rd, Castlemaine VIC 3450, Australia",ChIJgW7rwjo312oRbyS5hnMjrFs,"66 Blakeley Rd, Castlemaine VIC 3450, Australia",-37.0435749,144.2275437,1,3450,OK,street_address
+516,ROOFTOP,"53/55 Guava St, Red Cliffs VIC 3496, Australia",Ei41My81NSBHdWF2YSBTdCwgUmVkIENsaWZmcyBWSUMgMzQ5NiwgQXVzdHJhbGlh,"53/55 Guava St, Red Cliffs VIC 3496, Australia",-34.3101445,142.1912694,1,3496,OK,subpremise
+517,ROOFTOP,"129 Tenth St, Mildura VIC 3500, Australia",ChIJB_ow83EDw2oR_ke_D0bxHYU,"129 Tenth St, Mildura VIC 3500, Australia",-34.1874866,142.158106,1,3500,OK,street_address
+518,ROOFTOP,"247 Eleventh St, Mildura VIC 3500, Australia",ChIJjQ_1aXADw2oRMugh7i6lki4,"247 Eleventh St, Mildura VIC 3500, Australia",-34.190067,142.157509,1,3500,OK,street_address
+519,ROOFTOP,"259/261 Eleventh St, Mildura VIC 3500, Australia",EjAyNTkvMjYxIEVsZXZlbnRoIFN0LCBNaWxkdXJhIFZJQyAzNTAwLCBBdXN0cmFsaWE,"259 - 261 Eleventh St, Mildura VIC 3500, Australia",-34.1877203,142.1548348,1,3500,OK,subpremise
+520,ROOFTOP,"72 George St, Robinvale VIC 3549, Australia",ChIJ0VZpku_L3GoRtFsBcBVM4iU,"72 George St, Robinvale VIC 3549, Australia",-34.5866723,142.7768954,1,3549,OK,street_address
+521,ROOFTOP,"757 McIvor Hwy, Junortoun VIC 3551, Australia",ChIJjUya3zJZ12oROZIxLWr0CfU,"757 McIvor Hwy, Junortoun VIC 3550, Australia",-36.7701376,144.3462659,1,3551,OK,street_address
+522,ROOFTOP,"35-41 Forest St, Bendigo VIC 3550, Australia",ChIJiUmKZO5Z12oRYqXXYlL9pcY,"35-41 Forest Street, Bendigo VIC 3550, Australia",-36.758647,144.2748487,1,3550,OK,street_address
+523,ROOFTOP,"42 Ophir St, Golden Square VIC 3555, Australia",ChIJ33j-_v9Z12oRFSdT3NW7_zI,"42 Ophir St, Golden Square VIC 3555, Australia",-36.7646215,144.2595031,1,3555,OK,street_address
+524,GEOMETRIC_CENTER,"Pakenham St, Fremantle WA 6160, Australia",ChIJYy3mBHChMioRsrTFGpmuPec,"Pakenham St & Sturt St, Echuca VIC 3564, Australia",-32.054957,115.7449731,5,6160,OK,route
+525,ROOFTOP,"8/2 King St, Swan Hill VIC 3585, Australia",Eio4LzIgS2luZyBTdCwgU3dhbiBIaWxsIFZJQyAzNTg1LCBBdXN0cmFsaWE,"8/2 King St, Swan Hill VIC 3585, Australia",-35.3280371,143.5568136,1,3585,OK,subpremise
+526,RANGE_INTERPOLATED,"155 Verney Rd, Shepparton VIC 3630, Australia",Ei0xNTUgVmVybmV5IFJkLCBTaGVwcGFydG9uIFZJQyAzNjMwLCBBdXN0cmFsaWE,"155 Verney Rd, Shepparton VIC 3630, Australia",-36.3541614,145.4157465,1,3630,OK,street_address
+527,ROOFTOP,"9 Pine Rd, Shepparton VIC 3630, Australia",ChIJVakugYCD2GoRW2O-7U4Tkmo,"9 Pine Rd, Shepparton VIC 3630, Australia",-36.357278,145.4034,1,3630,OK,street_address
+528,RANGE_INTERPOLATED,"155 Verney Rd, Shepparton VIC 3630, Australia",Ei0xNTUgVmVybmV5IFJkLCBTaGVwcGFydG9uIFZJQyAzNjMwLCBBdXN0cmFsaWE,"155 Verney Rd, Shepparton VIC 3630, Australia",-36.3541614,145.4157465,1,3630,OK,street_address
+529,RANGE_INTERPOLATED,"600 Wyndham St, Shepparton VIC 3630, Australia",Ei42MDAgV3luZGhhbSBTdCwgU2hlcHBhcnRvbiBWSUMgMzYzMCwgQXVzdHJhbGlh,"600 Wyndham St, Shepparton VIC 3630, Australia",-36.3975375,145.3961184,1,3630,OK,street_address
+530,GEOMETRIC_CENTER,"Great Alpine Rd, Wangaratta VIC 3677, Australia",Ei9HcmVhdCBBbHBpbmUgUmQsIFdhbmdhcmF0dGEgVklDIDM2NzcsIEF1c3RyYWxpYQ,"Great Alpine Rd, Wangaratta VIC 3677, Australia",-36.3578379,146.3530649,1,3677,OK,route
+531,ROOFTOP,"154 Melrose Dr, Wodonga VIC 3690, Australia",ChIJsTylqKhZIWsR2om--QPRzEQ,"154 Melrose Dr, Wodonga VIC 3690, Australia",-36.1330314,146.8652428,1,3690,OK,street_address
+532,ROOFTOP,"87 Hansen St, Corryong VIC 3707, Australia",ChIJCWCx1cUQI2sRYgc2br9jLBk,"87 Hansen St, Corryong VIC 3707, Australia",-36.197095,147.902292,1,3707,OK,street_address
+533,ROOFTOP,"35 Ferres Blvd, South Morang VIC 3752, Australia",ChIJ0c4UCl9J1moR3W0qo4_iPg8,"35 Ferres Blvd, South Morang VIC 3752, Australia",-37.6437458,145.0685701,1,3752,OK,street_address
+534,ROOFTOP,"7 Commercial Dr, Wallan VIC 3756, Australia",ChIJuaiD1F6w12oRRZkJLOhUs3A,"7 Commercial Dr, Wallan VIC 3756, Australia",-37.4176184,145.00181,1,3756,OK,street_address
+535,ROOFTOP,"28 Forest St, Whittlesea VIC 3757, Australia",ChIJu-CBJuK112oRs2DfMhspTY4,"28 Forest St., Whittlesea VIC 3757, Australia",-37.511696,145.1210132,1,3757,OK,street_address
+536,ROOFTOP,"28 Forest St, Whittlesea VIC 3757, Australia",ChIJu-CBJuK112oRs2DfMhspTY4,"28 Forest St., Whittlesea VIC 3757, Australia",-37.511696,145.1210132,1,3757,OK,street_address
+537,ROOFTOP,"1 Lilydale Rd, Healesville VIC 3777, Australia",ChIJ8630vhQqKGsRUjbcKWLEMiQ,"1 Lilydale Rd, Healesville VIC 3777, Australia",-37.657605,145.509361,1,3777,OK,street_address
+538,ROOFTOP,"1139 Buxton-Marysville Rd, Marysville VIC 3779, Australia",ChIJa3Pq9OY9KGsRCzMLG5_niBQ,"1139 Buxton-Marysville Rd, Marysville VIC 3779, Australia",-37.508645,145.749749,1,3779,OK,street_address
+539,ROOFTOP,"3039 Warburton Hwy, Millgrove VIC 3799, Australia",ChIJ2-9QKkktKGsR4Pc7PHBYYto,"3039 Warburton Hwy, Millgrove VIC 3799, Australia",-37.7552376,145.6526603,1,3799,OK,street_address
+540,ROOFTOP,"Monash University Clayton Campus, 38 Exhibition Walk, Clayton VIC 3800, Australia",ChIJMbwDostq1moRAKEz2aQKv0c,"Monash University Clayton Campus, 38 Exhibition Walk, Clayton VIC 3800, Australia",-37.911867,145.134207,1,3800,OK,"church,establishment,place_of_worship,point_of_interest"
+541,ROOFTOP,"58 Reema Blvd, Endeavour Hills VIC 3802, Australia",ChIJfW48mwAX1moRbXisR8hZcqw,"58 Reema Blvd, Endeavour Hills VIC 3802, Australia",-37.9739726,145.273621,1,3802,OK,premise
+542,ROOFTOP,"58 Reema Blvd, Endeavour Hills VIC 3802, Australia",ChIJfW48mwAX1moRbXisR8hZcqw,"58 Reema Blvd, Endeavour Hills VIC 3802, Australia",-37.9739726,145.273621,1,3802,OK,premise
+543,ROOFTOP,"2-8 Gleneagles Dr, Endeavour Hills VIC 3802, Australia",ChIJ6ZU1ulYW1moRFtU0NSOMy3c,"2-8 Gleneagles Dr, Endeavour Hills VIC 3802, Australia",-37.966261,145.263642,1,3802,OK,street_address
+544,ROOFTOP,"11 Eastlink Dr, Hallam VIC 3803, Australia",ChIJx7cT9DAR1moR7bfqVDyHJb4,"11 Eastlink Dr, Hallam VIC 3803, Australia",-38.0129012,145.2560004,1,3803,OK,premise
+545,ROOFTOP,"426 Princes Hwy, Narre Warren VIC 3805, Australia",ChIJqffPSawQ1moR3iYfhIKUMMk,"426 Princes Hwy, Narre Warren VIC 3805, Australia",-38.0255377,145.3065302,1,3805,OK,premise
+546,ROOFTOP,"4/37F Fordholm Rd, Hampton Park VIC 3976, Australia",EjM0LzM3RiBGb3JkaG9sbSBSZCwgSGFtcHRvbiBQYXJrIFZJQyAzOTc2LCBBdXN0cmFsaWE,"4/37B Fordholm Rd, Hampton Park VIC 3805, Australia",-38.03522,145.265047,1,3976,OK,subpremise
+547,ROOFTOP,"432-446 Centre Rd, Berwick VIC 3806, Australia",ChIJAYg2VxUa1moR7-hcJARslwo,"432-446 Centre Rd, Berwick VIC 3806, Australia",-38.050121,145.336149,1,3806,OK,street_address
+548,GEOMETRIC_CENTER,"Timbarra Way, Berwick VIC 3806, Australia",ChIJ5Q5nn_cZ1moRmRF4KyQZJas,"Timbarra Hall, Timbarra Way, Berwick VIC 3806, Australia",-38.0246215,145.3260823,1,3806,OK,"establishment,point_of_interest"
+549,ROOFTOP,"55 Peel St, Berwick VIC 3806, Australia",ChIJAW47kIMZ1moRo9_87J4txAQ,"55 Peel St, Berwick VIC 3806, Australia",-38.0315504,145.3539172,1,3806,OK,street_address
+550,ROOFTOP,"432-446 Centre Rd, Berwick VIC 3806, Australia",ChIJAYg2VxUa1moR7-hcJARslwo,"432-446 Centre Rd, Berwick VIC 3806, Australia",-38.050121,145.336149,1,3806,OK,street_address
+551,ROOFTOP,"54-60 Intrepid St, Berwick VIC 3806, Australia",ChIJq_Hl_iEa1moRbK71cna5cFA,"54-60 Intrepid St, Berwick VIC 3806, Australia",-38.0366543,145.3370321,1,3806,OK,street_address
+552,ROOFTOP,"8 Oneil Rd, Beaconsfield VIC 3807, Australia",ChIJ5bCN7d0b1moRoQu5eJZpzbU,"Beaconsfield Community Centre, Oneil Rd, Beaconsfield VIC 3807, Australia",-38.0523143,145.3800879,2,3807,OK,"establishment,point_of_interest"
+553,ROOFTOP,"7 Desmond Ct, Beaconsfield VIC 3807, Australia",ChIJwXyzXcMb1moRl-V3pEWNoVE,"7 Desmond Ct, Beaconsfield VIC 3807, Australia",-38.053413,145.375852,1,3807,OK,street_address
+554,RANGE_INTERPOLATED,"1 Army Rd, Pakenham VIC 3810, Australia",EicxIEFybXkgUmQsIFBha2VuaGFtIFZJQyAzODEwLCBBdXN0cmFsaWE,"LOT 1 Army Rd, Pakenham VIC 3810, Australia",-38.0662519,145.4957899,1,3810,OK,street_address
+555,GEOMETRIC_CENTER,"Church St, Nashville, TN, USA",ChIJCfyHUPJmZIgRIRPBsghzyVo,"Cnr Church St & Winters Ave, Drouin VIC 3818, Australia",36.1586982,-86.7900735,10,,OK,route
+556,ROOFTOP,"155 Bowen St, Warragul VIC 3820, Australia",ChIJtUUH7QW-KWsR0DgdxRJWUxE,"155 Bowen St, Warragul VIC 3820, Australia",-38.145458,145.9292277,1,3820,OK,street_address
+557,RANGE_INTERPOLATED,"69 Sutton St, Warragul VIC 3820, Australia",Eio2OSBTdXR0b24gU3QsIFdhcnJhZ3VsIFZJQyAzODIwLCBBdXN0cmFsaWE,"69 Sutton St, Warragul VIC 3820, Australia",-38.1509359,145.9273068,1,3820,OK,street_address
+558,ROOFTOP,"36 George St, Moe VIC 3825, Australia",ChIJuWGb_24JKWsRrQluDk4gIxw,"36 George St, Moe VIC 3825, Australia",-38.1758248,146.2618918,1,3825,OK,premise
+559,ROOFTOP,"69 Princes Dr, Morwell VIC 3840, Australia",ChIJ258xLAcSKWsRqEcrHL8RX2U,"69 Princes Dr, Morwell VIC 3840, Australia",-38.23269,146.384809,1,3840,OK,street_address
+560,ROOFTOP,"50 Church St, Morwell VIC 3840, Australia",ChIJcaBeYh4SKWsRSQDd9KmkXxA,"50 Church St, Morwell VIC 3840, Australia",-38.234675,146.400107,1,3840,OK,street_address
+561,ROOFTOP,"80 Henry St, Traralgon VIC 3844, Australia",ChIJh5zzrIAXKWsRrl7uk59h3Qo,"80 Henry St, Traralgon VIC 3844, Australia",-38.1969862,146.5222631,1,3844,OK,street_address
+562,ROOFTOP,"453 Raymond St, Sale VIC 3850, Australia",ChIJ37nrS6gvL2sRONCLxDn1wOQ,"453 Raymond St, Sale VIC 3850, Australia",-38.103809,147.0651471,1,3850,OK,street_address
+563,GEOMETRIC_CENTER,"Princes Hwy, Australia",ChIJLeIlv6vJ3moRYX-qBb91620,"Princes Hwy & Cobains Rd, Sale VIC 3850, Australia",-37.7891316,144.922894,1,,OK,route
+564,RANGE_INTERPOLATED,"103 Bairnsdale-Dargo Rd, Bairnsdale VIC 3875, Australia",EjcxMDMgQmFpcm5zZGFsZS1EYXJnbyBSZCwgQmFpcm5zZGFsZSBWSUMgMzg3NSwgQXVzdHJhbGlh,"103 Bairnsdale-Dargo Rd, Bairnsdale VIC 3875, Australia",-37.8409091,147.5783205,1,3875,OK,street_address
+565,ROOFTOP,"90 Jones Rd, Eagle Point VIC 3878, Australia",ChIJJW-OX_aCL2sRE8ZPBsqiOR0,"90 Jones Rd, Eagle Point VIC 3878, Australia",-37.9163397,147.6744974,1,3878,OK,street_address
+566,ROOFTOP,"141 Princes Hwy, Lakes Entrance VIC 3909, Australia",ChIJXd9WTjJeJWsRUuXWGYEys2Y,"141 Princes Hwy, Lakes Entrance VIC 3909, Australia",-37.8649222,148.0203816,1,3909,OK,street_address
+567,ROOFTOP,"185 North Rd, Langwarrin VIC 3910, Australia",ChIJxS6EKKwL1moRX5cRGiB3w4k,"185 North Rd, Langwarrin VIC 3910, Australia",-38.164565,145.189363,1,3910,OK,street_address
+568,ROOFTOP,"99 The Crescent, Tyabb VIC 3913, Australia",ChIJzZYlNxjh1WoRlpZSz9dIGG0,"99 The Crescent, Tyabb VIC 3913, Australia",-38.2611304,145.1914243,1,3913,OK,street_address
+569,ROOFTOP,"370 Craigie Rd, Mount Martha VIC 3934, Australia",ChIJ-3F-y2jc1WoRL_LaietdNUY,"370 Craigie Rd, Mount Martha VIC 3934, Australia",-38.2652754,145.0697186,1,3934,OK,street_address
+570,ROOFTOP,"4 Mine Rd, Korumburra VIC 3950, Australia",ChIJVYE9euofKmsRgTPdZYgsGVs,"4 Mine Rd, Korumburra VIC 3950, Australia",-38.4345415,145.824959,1,3950,OK,street_address
+571,ROOFTOP,"195 Hallam Rd, Lynbrook VIC 3975, Australia",ChIJcUre-qkR1moRIdRmH_KoyY0,"195 Hallam Rd, Lynbrook VIC 3975, Australia",-38.0454423,145.264044,1,3975,OK,street_address
+572,ROOFTOP,"49-51 Cameron St, Cranbourne VIC 3977, Australia",ChIJw44ITrwP1moR-qkBZ4bfwuQ,"49-51 Cameron St, Cranbourne East VIC 3977, Australia",-38.1158543,145.2891115,1,3977,OK,street_address
+573,RANGE_INTERPOLATED,"129 Sladen St, Cranbourne VIC 3977, Australia",Ei0xMjkgU2xhZGVuIFN0LCBDcmFuYm91cm5lIFZJQyAzOTc3LCBBdXN0cmFsaWE,"129 Sladen St, Cranbourne VIC 3977, Australia",-38.1124822,145.2789505,1,3977,OK,street_address
+574,ROOFTOP,"69 Wadhurst Dr, Boronia VIC 3155, Australia",ChIJeSs7hG481moROVV0jprdf44,"69 Wadhurst Dr, Boronia VIC 3155, Australia",-37.8667946,145.2540197,1,3155,OK,premise
+575,ROOFTOP,"60 Heaths Ct, Mill Park VIC 3082, Australia",ChIJTbe0DnBJ1moR3Wp2NAH2saw,"60 Heaths Ct, Mill Park VIC 3082, Australia",-37.6570843,145.0834099,1,3082,OK,premise
+576,ROOFTOP,"76 Albert St, Mordialloc VIC 3195, Australia",ChIJTyHCxJ5t1moRH6UerQZG3ak,"76 Albert St, Mordialloc VIC 3195, Australia",-38.0076317,145.0889704,1,3195,OK,street_address
+577,ROOFTOP,"3-5 Princes Domain Dr, Hallam VIC 3803, Australia",ChIJvRjcDdQW1moR5wFOYQK1QM8,"3-5 Princes Domain Dr, Hallam VIC 3803, Australia",-38.0042854,145.2648042,1,3803,OK,street_address
+578,ROOFTOP,"32 Halley Ave, Camberwell VIC 3124, Australia",ChIJw-D6M75B1moRQ3R4H7-GCSE,"32 Halley Ave, Camberwell VIC 3124, Australia",-37.846888,145.0723123,1,3124,OK,street_address
+579,ROOFTOP,"52 Boundary Rd, Carrum Downs VIC 3201, Australia",ChIJ425ebwYN1moRG5TSDe3DlWE,"52 Boundary Rd, Carrum Downs VIC 3201, Australia",-38.0842824,145.1770403,1,3201,OK,street_address
+580,ROOFTOP,"23 David St, Brunswick VIC 3056, Australia",ChIJ6W7IXktD1moR7ODYVUnkW6I,"23 David St, Brunswick VIC 3056, Australia",-37.770455,144.9622806,1,3056,OK,premise
+581,ROOFTOP,"25 McCarthy Rd, Monbulk VIC 3793, Australia",ChIJ9RTxZtMl1moRWUECUF2hY-M,"25 McCarthy Rd, Monbulk VIC 3793, Australia",-37.863707,145.396971,1,3793,OK,"establishment,health,point_of_interest"
+582,GEOMETRIC_CENTER,"Magpie Ln, Millgrove VIC 3799, Australia",EihNYWdwaWUgTG4sIE1pbGxncm92ZSBWSUMgMzc5OSwgQXVzdHJhbGlh,"Magpie Ln, East Warburton VIC 3799, Australia",-37.7269252,145.7613701,1,3799,OK,route
+583,ROOFTOP,"536-540 Springvale Rd, Springvale South VIC 3172, Australia",ChIJ3TJ6vlAT1moRxhE_YAzMyF8,"536-540 Springvale Rd, Springvale VIC 3171, Australia",-37.974169,145.147561,1,3172,OK,street_address
+584,ROOFTOP,"329-335 Greens Rd, Keysborough VIC 3173, Australia",ChIJSVO5bAcT1moR4tcVWTITSoY,"329-335 Greens Rd, Keysborough VIC 3173, Australia",-38.010703,145.180425,1,3173,OK,street_address
+585,ROOFTOP,"42 Rutland Rd, Box Hill VIC 3128, Australia",ChIJ0VfBHbBA1moRdLLycj8Wurw,"42 Rutland Rd, Box Hill VIC 3128, Australia",-37.820264,145.126468,1,3128,OK,street_address
+586,ROOFTOP,"20 Joseph Rd, Footscray VIC 3011, Australia",ChIJLQQSTZld1moRhvpc6dwz_-U,"20 Joseph Rd, Footscray VIC 3011, Australia",-37.798607,144.9123061,1,3011,OK,street_address
+587,RANGE_INTERPOLATED,"1726 Sturt St, Alfredton VIC 3350, Australia",EiwxNzI2IFN0dXJ0IFN0LCBBbGZyZWR0b24gVklDIDMzNTAsIEF1c3RyYWxpYQ,"1726 Sturt Street West, Alfredton VIC 3350, Australia",-37.5522558,143.810253,1,3350,OK,street_address
+588,GEOMETRIC_CENTER,"Ellis St, Flora Hill VIC 3550, Australia",,"Ellis St, Flora Hill VIC 3550, Australia",-36.7750624,144.2965773,1,3550,OK,route
+589,RANGE_INTERPOLATED,"1180 Whitehorse Rd, Box Hill VIC 3130, Australia",EjAxMTgwIFdoaXRlaG9yc2UgUmQsIEJveCBIaWxsIFZJQyAzMTMwLCBBdXN0cmFsaWE,"1180 Whitehorse Rd, Box Hill VIC 3128, Australia",-37.8197806,145.1376106,1,3130,OK,street_address
+590,ROOFTOP,"47 Dawson St, Brunswick VIC 3056, Australia",ChIJv1H9abZc1moRH79jppEwHDY,"47 Dawson St, Melbourne VIC 3056, Australia",-37.7709868,144.9552832,1,3056,OK,street_address
+591,GEOMETRIC_CENTER,"Little Ryrie St, Geelong VIC 3220, Australia",,"Little Ryrie St, Geelong VIC 3220, Australia",-38.150069,144.3583236,1,3220,OK,route
+592,GEOMETRIC_CENTER,"Melton Rd, Gisborne VIC 3437, Australia",EidNZWx0b24gUmQsIEdpc2Jvcm5lIFZJQyAzNDM3LCBBdXN0cmFsaWE,"Gisborne Melton Rd, Gisborne VIC 3437, Australia",-37.4978037,144.5836878,1,3437,OK,route
+593,ROOFTOP,"43/81 Browns Rd, Noble Park North VIC 3174, Australia",EjU0My84MSBCcm93bnMgUmQsIE5vYmxlIFBhcmsgTm9ydGggVklDIDMxNzQsIEF1c3RyYWxpYQ,"43/81 Browns Rd, Noble Park North VIC 3174, Australia",-37.942186,145.1887991,1,3174,OK,subpremise
+594,GEOMETRIC_CENTER,"Grafton Rd, Dennington VIC 3280, Australia",,"Grafton Rd, Warrnambool VIC 3280, Australia",-38.3798372,142.5029772,1,3280,OK,route
+595,ROOFTOP,"80 Brockley St, Wodonga VIC 3690, Australia",ChIJvxxaE_xYIWsRmN6N7fQV3Ms,"80 Brockley St, Wodonga VIC 3690, Australia",-36.1271039,146.8811042,1,3690,OK,street_address
+596,RANGE_INTERPOLATED,"1726 Sturt St, Alfredton VIC 3350, Australia",EiwxNzI2IFN0dXJ0IFN0LCBBbGZyZWR0b24gVklDIDMzNTAsIEF1c3RyYWxpYQ,"1726 Sturt Street West, Alfredton VIC 3350, Australia",-37.5522558,143.810253,1,3350,OK,street_address
+597,GEOMETRIC_CENTER,"Ellis St, Flora Hill VIC 3550, Australia",,"Ellis St, Flora Hill VIC 3550, Australia",-36.7750624,144.2965773,1,3550,OK,route
+598,GEOMETRIC_CENTER,"Manuka Rd, Berwick VIC 3806, Australia",,"Manuka Rd, Berwick VIC 3806, Australia",-38.033108,145.3653789,1,3806,OK,route
+599,RANGE_INTERPOLATED,"1180 Whitehorse Rd, Box Hill VIC 3130, Australia",EjAxMTgwIFdoaXRlaG9yc2UgUmQsIEJveCBIaWxsIFZJQyAzMTMwLCBBdXN0cmFsaWE,"1180 Whitehorse Rd, Box Hill VIC 3128, Australia",-37.8197806,145.1376106,1,3130,OK,street_address
+600,ROOFTOP,"65-71 Watsons Rd, Glen Waverley VIC 3150, Australia",ChIJ5-3XvNk_1moR7ihbpBk0L-o,"65-71 Watsons Rd, Glen Waverley VIC 3150, Australia",-37.8974944,145.1686692,1,3150,OK,street_address
+601,RANGE_INTERPOLATED,"20 Brentnall Rd, Croydon VIC 3136, Australia",EiwyMCBCcmVudG5hbGwgUmQsIENyb3lkb24gVklDIDMxMzYsIEF1c3RyYWxpYQ,"20 Brentnall Rd, Croydon VIC 3136, Australia",-37.7952149,145.262508,1,3136,OK,street_address
+602,ROOFTOP,"92-106 Princes Hwy, Dandenong VIC 3175, Australia",ChIJY6C_DxIU1moR7Tf2zCdYYE0,"92-106 Princes Hwy, Dandenong VIC 3175, Australia",-37.9791911,145.2085633,1,3175,OK,street_address
+603,ROOFTOP,"20 George St, Doncaster East VIC 3109, Australia",ChIJh8XikGA41moRAhAG1he-5cc,"20 George St, Doncaster East VIC 3109, Australia",-37.7824708,145.1589454,1,3109,OK,street_address
+604,GEOMETRIC_CENTER,"McDonalds Rd, Epping VIC 3076, Australia",EihNY0RvbmFsZHMgUmQsIEVwcGluZyBWSUMgMzA3NiwgQXVzdHJhbGlh,"McDonalds Rd, Epping VIC 3076, Australia",-37.6467476,145.0482153,1,3076,OK,route
+605,GEOMETRIC_CENTER,"Little Ryrie St, Geelong VIC 3220, Australia",,"Little Ryrie St, Geelong VIC 3220, Australia",-38.150069,144.3583236,1,3220,OK,route
+606,GEOMETRIC_CENTER,"Osullivan Rd, Glen Waverley VIC 3150, Australia",Ei9Pc3VsbGl2YW4gUmQsIEdsZW4gV2F2ZXJsZXkgVklDIDMxNTAsIEF1c3RyYWxpYQ,"O'sullivan Rd, Glen Waverley VIC 3150, Australia",-37.8782433,145.1624389,1,3150,OK,route
+607,ROOFTOP,"58/96 Fordholm Rd, Hampton Park VIC 3976, Australia",EjM1OC85NiBGb3JkaG9sbSBSZCwgSGFtcHRvbiBQYXJrIFZJQyAzOTc2LCBBdXN0cmFsaWE,"58-96 Fordholm Rd, Hampton Park VIC 3976, Australia",-38.0348232,145.2593011,2,3976,OK,subpremise
+608,ROOFTOP,"138 High St, Berwick VIC 3806, Australia",ChIJOXrN89Ub1moR5VLMVYrgr18,"Haileybury College, 138 High St, Berwick VIC 3806, Australia",-38.0413953,145.363047,2,3806,OK,"establishment,point_of_interest,school"
+609,GEOMETRIC_CENTER,"14th St, Jersey City, NJ 07310, USA",ChIJK-x9K1dXwokRorkocgn3vS8,"Fourteenth St & Deakin Avenue, Mildura VIC 3500, Australia",40.7314337,-74.0372568,10,7310,OK,route
+610,ROOFTOP,"77 Story St, Parkville VIC 3052, Australia",ChIJqTwwIixd1moR7JlBHn0FENk,"77 Story St, Parkville VIC 3052, Australia",-37.797467,144.95607,1,3052,OK,street_address
+611,ROOFTOP,"23 Bergamot Dr, Point Cook VIC 3030, Australia",ChIJCz1GRYyI1moRhIEz_It_JNM,"23 Bergamot Dr, Point Cook VIC 3030, Australia",-37.886559,144.7337222,1,3030,OK,street_address
+612,ROOFTOP,"31/71 Hawdon St, Shepparton VIC 3630, Australia",Ei8zMS83MSBIYXdkb24gU3QsIFNoZXBwYXJ0b24gVklDIDM2MzAsIEF1c3RyYWxpYQ,"31-71 Hawdon St, Shepparton VIC 3630, Australia",-36.3728742,145.4151437,1,3630,OK,subpremise
+613,GEOMETRIC_CENTER,"Bakers Rd, Oakleigh South VIC 3167, Australia",,"Bakers Rd, Oakleigh South VIC 3167, Australia",-37.9226862,145.0895584,1,3167,OK,route
+614,ROOFTOP,"1-39 Parmelia Dr, Taylors Lakes VIC 3038, Australia",ChIJ4cXbklBf1moRF0DZWbfZPSk,"1-39 Parmelia Dr, Taylors Lakes VIC 3038, Australia",-37.7070382,144.7933141,1,3038,OK,street_address
+615,ROOFTOP,"30-44 Grey St, Traralgon VIC 3844, Australia",ChIJs5wo3SIYKWsRSJkmGXNmqBg,"30-44 Grey St, Traralgon VIC 3844, Australia",-38.1930069,146.5370812,1,3844,OK,street_address
+616,ROOFTOP,"80 Brockley St, Wodonga VIC 3690, Australia",ChIJvxxaE_xYIWsRmN6N7fQV3Ms,"80 Brockley St, Wodonga VIC 3690, Australia",-36.1271039,146.8811042,1,3690,OK,street_address
+617,GEOMETRIC_CENTER,"Manuka Rd, Berwick VIC 3806, Australia",,"Manuka Rd, Berwick VIC 3806, Australia",-38.033108,145.3653789,1,3806,OK,route
+618,ROOFTOP,"31/71 Hawdon St, Shepparton VIC 3630, Australia",Ei8zMS83MSBIYXdkb24gU3QsIFNoZXBwYXJ0b24gVklDIDM2MzAsIEF1c3RyYWxpYQ,"31-71 Hawdon St, Shepparton VIC 3630, Australia",-36.3728742,145.4151437,1,3630,OK,subpremise
+619,GEOMETRIC_CENTER,"14th St, Jersey City, NJ 07310, USA",ChIJK-x9K1dXwokRorkocgn3vS8,"Fourteenth St & Deakin Avenue, Mildura VIC 3500, Australia",40.7314337,-74.0372568,10,7310,OK,route
+620,ROOFTOP,"26/46 Wilson Rd, Melton South VIC 3338, Australia",EjEyNi80NiBXaWxzb24gUmQsIE1lbHRvbiBTb3V0aCBWSUMgMzMzOCwgQXVzdHJhbGlh,"26-46 Wilson Rd, Melton VIC 3337, Australia",-37.708452,144.568661,1,3338,OK,subpremise
+621,ROOFTOP,"92-106 Princes Hwy, Dandenong VIC 3175, Australia",ChIJY6C_DxIU1moR7Tf2zCdYYE0,"92-106 Princes Hwy, Dandenong VIC 3175, Australia",-37.9791911,145.2085633,1,3175,OK,street_address
+622,GEOMETRIC_CENTER,"Osullivan Rd, Glen Waverley VIC 3150, Australia",Ei9Pc3VsbGl2YW4gUmQsIEdsZW4gV2F2ZXJsZXkgVklDIDMxNTAsIEF1c3RyYWxpYQ,"O'sullivan Rd, Glen Waverley VIC 3150, Australia",-37.8782433,145.1624389,1,3150,OK,route
+623,ROOFTOP,"58-62 Springfield Rd, Blackburn VIC 3130, Australia",ChIJLW5yoLo41moR_ZTqGcTjMKo,"58/62 Springfield Rd, Blackburn North VIC 3130, Australia",-37.8103241,145.1498999,1,3130,OK,street_address
+624,GEOMETRIC_CENTER,"McDonalds Rd, Epping VIC 3076, Australia",EihNY0RvbmFsZHMgUmQsIEVwcGluZyBWSUMgMzA3NiwgQXVzdHJhbGlh,"McDonalds Rd, Epping VIC 3076, Australia",-37.6467476,145.0482153,1,3076,OK,route
+625,ROOFTOP,"2-30 Hampton St, Craigieburn VIC 3064, Australia",ChIJsRRSVTFS1moRYZwuFjeadu8,"2-30 Hampton St, Craigieburn VIC 3064, Australia",-37.5792242,144.9208465,1,3064,OK,street_address
+626,ROOFTOP,"225 Hoppers Ln, Werribee VIC 3030, Australia",ChIJYYo9EAGG1moR8ixX0Q_tpaM,"225 Hoppers Ln, Werribee VIC 3030, Australia",-37.8935671,144.700048,1,3030,OK,street_address
+627,GEOMETRIC_CENTER,"The Crossing, Caroline Springs VIC 3023, Australia",EjJUaGUgQ3Jvc3NpbmcsIENhcm9saW5lIFNwcmluZ3MgVklDIDMwMjMsIEF1c3RyYWxpYQ,"The Crossing, Caroline Springs VIC 3023, Australia",-37.7340772,144.7370124,1,3023,OK,route
+628,ROOFTOP,"25 Lachlan Rd, Sunshine West VIC 3020, Australia",ChIJ-SxKBm9g1moRFUceveEZF20,"25 Lachlan Rd, Sunshine West VIC 3020, Australia",-37.7927837,144.8141194,1,3020,OK,street_address

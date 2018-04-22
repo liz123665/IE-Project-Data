@@ -1,0 +1,588 @@
+formatted_address,input_string,latitude,longitude,postcode,type,Culture
+"1 Service St, Hampton VIC 3188, Australia",Bayside Library Service ,-37.9386488,145.0027125,3188,Library ,Itanlian
+"Boroondara, VIC, Australia",City of Boroondara Library Service ,-37.8119024,145.0713904,,Library ,Itanlian
+"301 Hampshire Rd, Sunshine VIC 3020, Australia",Brimbank Library ,-37.7835032,144.832086,3020,Library ,Itanlian
+"310 Hare St, Echuca VIC 3564, Australia",Campaspe Regional Library ,-36.1235291,144.7488894,3564,Library ,Itanlian
+"400A Belgrave-Gembrook Rd, Emerald VIC 3782, Australia",Casey Cardinia Library ,-37.929103,145.445716,3782,Library ,Itanlian
+"178 Doveton St N, Ballarat VIC 3353, Australia",Central Highlands Library ,-37.5581412,143.8558981,3353,Library ,Itanlian
+"55 Victoria St, Cobden VIC 3266, Australia",Corangamite Regional Library Corporation ,-38.327015,143.077078,3266,Library ,Itanlian
+"32-38 Separation St, Northcote VIC 3070, Australia",Darebin Library ,-37.7697492,145.0008668,3070,Library ,Itanlian
+"22 Service St, Bairnsdale VIC 3875, Australia",East Gippsland Shire Library ,-37.8254878,147.6286582,3875,Library ,Itanlian
+"1350 Ferntree Gully Rd, Scoresby VIC 3179, Australia",Eastern Regional Library Corporation ,-37.899665,145.2314091,3179,Library ,Itanlian
+"60 Playne St, Frankston VIC 3199, Australia",Frankston City Library ,-38.1458786,145.1237116,3199,Library ,Itanlian
+"Gannawarra, VIC, Australia",Gannawarra Library Service ,-35.7052801,143.8237385,,Library ,Itanlian
+"51 Little Malop St, Geelong VIC 3220, Australia",Geelong Regional Library Corporation ,-38.1470618,144.35659,3220,Library ,Itanlian
+"161 Jasper Rd, Bentleigh VIC 3204, Australia",Glen Eira Library Service ,-37.9196382,145.0413838,3204,Library ,Itanlian
+"56 Percy St, Portland VIC 3305, Australia",Glenelg Library ,-38.3475034,141.6039378,3305,Library ,Itanlian
+"98 Main St, Romsey VIC 3434, Australia",Goldfields Library Corporation ,-37.350094,144.7433941,3434,Library ,Itanlian
+"79 Benalla Rd, Shepparton VIC 3630, Australia",Goulburn Valley Regional Library Corporation ,-36.384682,145.420904,3630,Library ,Itanlian
+"225 Lonsdale St, Dandenong VIC 3175, Australia",Greater Dandenong Library ,-37.9886875,145.2135006,3175,Library ,Itanlian
+"21 Docker St, Wangaratta VIC 3677, Australia",High Country Library Corporation ,-36.3550961,146.3200058,3677,Library ,Itanlian
+"Hobsons Bay, VIC, Australia",Hobsons Bay Library ,-37.8360799,144.8401227,,Library ,Itanlian
+"1093 Pascoe Vale Rd, Broadmeadows VIC 3047, Australia",Hume Library ,-37.682569,144.9184922,3047,Library ,Itanlian
+"34 High St, Yackandandah VIC 3749, Australia",Indigo Shire Library ,-36.3131959,146.8371729,3749,Library ,Itanlian
+"63-65 Elgin St, Morwell VIC 3840, Australia",Latrobe City Library ,-38.239745,146.398892,3840,Library ,Itanlian
+"539 Barkly St, West Footscray VIC 3012, Australia",Maribyrnong Library Service ,-37.797639,144.878139,3012,Library ,Itanlian
+"328 Swanston St, Melbourne VIC 3000, Australia",Melbourne Library Service ,-37.8098087,144.9651897,3000,Library ,Itanlian
+"31 McKenzie St, Melton VIC 3337, Australia",Melton City Library ,-37.6848506,144.581948,3337,Library ,Itanlian
+"The Alfred Deakin Centre, 180 - 190 Deakin Ave, Mildura VIC 3500, Australia",Mildura Rural City Council Library Service ,-34.1907797,142.156646,3500,Library ,Itanlian
+"113 High St, Broadford VIC 3658, Australia",Mitchell Shire Library Service ,-37.2027742,145.0487499,3658,Library ,Itanlian
+"148 Drummond St, Oakleigh VIC 3166, Australia",Monash Public Library Service ,-37.8972,145.09046,3166,Library ,Itanlian
+"762 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",Moonee Valley Library ,-37.7649143,144.9241479,3039,Library ,Itanlian
+"737 Pascoe Vale Rd, Glenroy VIC 3046, Australia",Moreland City Library ,-37.7067078,144.9159724,3046,Library ,Itanlian
+"Vancouver St, Mornington VIC 3931, Australia",Mornington Peninsula Library Service ,-38.2174986,145.0362602,3931,Library ,Itanlian
+"49 Grant St, Alexandra VIC 3714, Australia",Murrindindi Library Service ,-37.1907056,145.7092901,3714,Library ,Itanlian
+"319 Montague St, Albert Park VIC 3206, Australia",Port Phillip Library Service ,-37.8413817,144.956445,3206,Library ,Itanlian
+"1 Winter St, Malvern VIC 3144, Australia",Stonnington Library & Information Service ,-37.859755,145.029415,3144,Library ,Itanlian
+"53-67 Campbell St, Swan Hill VIC 3585, Australia",Swan Hill Regional Library Service ,-35.335562,143.558997,3585,Library ,Itanlian
+"Corryong VIC 3707, Australia",Towong Shire Library ,-36.1960217,147.9029492,3707,Library ,Itanlian
+"Wellington Shire Council, 70 Foster St, Sale VIC 3850, Australia",Wellington Shire Library ,-38.1118103,147.0639369,3850,Library ,Itanlian
+"Regional Support Centre Unit, 2/65 Victoria St, Warragul VIC 3820, Australia",West Gippsland Regional Library Corporation ,-38.160077,145.929458,3820,Library ,Itanlian
+"687 Doncaster Rd, Doncaster VIC 3108, Australia",Whitehorse Manningham Regional Library Corporation ,-37.7870199,145.1314944,3108,Library ,Itanlian
+"28 McLachlan St, Horsham VIC 3400, Australia",Wimmera Regional Library Corporation ,-36.7128247,142.2010124,3400,Library ,Itanlian
+"126 Hovell St, Wodonga VIC 3690, Australia",Wodonga Library ,-36.1241389,146.8888492,3690,Library ,Itanlian
+"Pacific Werribee Shopping Centre, Level 1 MM11 Derrimut Road, Werribee VIC 3030, Australia",Wyndham City Library Service ,-37.8753489,144.6820197,3030,Library ,Itanlian
+"340 Toorak Rd, South Yarra VIC 3141, Australia",Yarra Library ,-37.8401134,144.999451,3141,Library ,Itanlian
+"Bag 65, Bundoora VIC 3083, Australia",Yarra Plenty Regional Library Service ,-37.69706,145.0590021,3083,Library ,Itanlian
+"328 Swanston St, Melbourne VIC 3000, Australia",Public Library Victoria Network Inc (PLVN) ,-37.8098087,144.9651897,3000,Library ,Itanlian
+"328 Swanston St, Melbourne VIC 3000, Australia",State Library Victoria ,-37.8098087,144.9651897,3000,Library ,Itanlian
+"454 Glenferrie Rd, Kooyong VIC 3144, Australia",Vision Australia Information Library Service ,-37.838863,145.033169,3144,Library ,Itanlian
+"1 Service St, Hampton VIC 3188, Australia",Bayside Library Service ,-37.9386488,145.0027125,3188,Library ,Mandarin
+"Boroondara, VIC, Australia",City of Boroondara Library Service ,-37.8119024,145.0713904,,Library ,Mandarin
+"301 Hampshire Rd, Sunshine VIC 3020, Australia",Brimbank Library ,-37.7835032,144.832086,3020,Library ,Mandarin
+"310 Hare St, Echuca VIC 3564, Australia",Campaspe Regional Library ,-36.1235291,144.7488894,3564,Library ,Mandarin
+"400A Belgrave-Gembrook Rd, Emerald VIC 3782, Australia",Casey Cardinia Library ,-37.929103,145.445716,3782,Library ,Mandarin
+"178 Doveton St N, Ballarat VIC 3353, Australia",Central Highlands Library ,-37.5581412,143.8558981,3353,Library ,Mandarin
+"55 Victoria St, Cobden VIC 3266, Australia",Corangamite Regional Library Corporation ,-38.327015,143.077078,3266,Library ,Mandarin
+"32-38 Separation St, Northcote VIC 3070, Australia",Darebin Library ,-37.7697492,145.0008668,3070,Library ,Mandarin
+"22 Service St, Bairnsdale VIC 3875, Australia",East Gippsland Shire Library ,-37.8254878,147.6286582,3875,Library ,Mandarin
+"1350 Ferntree Gully Rd, Scoresby VIC 3179, Australia",Eastern Regional Library Corporation ,-37.899665,145.2314091,3179,Library ,Mandarin
+"60 Playne St, Frankston VIC 3199, Australia",Frankston City Library ,-38.1458786,145.1237116,3199,Library ,Mandarin
+"Gannawarra, VIC, Australia",Gannawarra Library Service ,-35.7052801,143.8237385,,Library ,Mandarin
+"51 Little Malop St, Geelong VIC 3220, Australia",Geelong Regional Library Corporation ,-38.1470618,144.35659,3220,Library ,Mandarin
+"161 Jasper Rd, Bentleigh VIC 3204, Australia",Glen Eira Library Service ,-37.9196382,145.0413838,3204,Library ,Mandarin
+"56 Percy St, Portland VIC 3305, Australia",Glenelg Library ,-38.3475034,141.6039378,3305,Library ,Mandarin
+"98 Main St, Romsey VIC 3434, Australia",Goldfields Library Corporation ,-37.350094,144.7433941,3434,Library ,Mandarin
+"79 Benalla Rd, Shepparton VIC 3630, Australia",Goulburn Valley Regional Library Corporation ,-36.384682,145.420904,3630,Library ,Mandarin
+"225 Lonsdale St, Dandenong VIC 3175, Australia",Greater Dandenong Library ,-37.9886875,145.2135006,3175,Library ,Mandarin
+"21 Docker St, Wangaratta VIC 3677, Australia",High Country Library Corporation ,-36.3550961,146.3200058,3677,Library ,Mandarin
+"Hobsons Bay, VIC, Australia",Hobsons Bay Library ,-37.8360799,144.8401227,,Library ,Mandarin
+"1093 Pascoe Vale Rd, Broadmeadows VIC 3047, Australia",Hume Library ,-37.682569,144.9184922,3047,Library ,Mandarin
+"34 High St, Yackandandah VIC 3749, Australia",Indigo Shire Library ,-36.3131959,146.8371729,3749,Library ,Mandarin
+"63-65 Elgin St, Morwell VIC 3840, Australia",Latrobe City Library ,-38.239745,146.398892,3840,Library ,Mandarin
+"539 Barkly St, West Footscray VIC 3012, Australia",Maribyrnong Library Service ,-37.797639,144.878139,3012,Library ,Mandarin
+"328 Swanston St, Melbourne VIC 3000, Australia",Melbourne Library Service ,-37.8098087,144.9651897,3000,Library ,Mandarin
+"31 McKenzie St, Melton VIC 3337, Australia",Melton City Library ,-37.6848506,144.581948,3337,Library ,Mandarin
+"The Alfred Deakin Centre, 180 - 190 Deakin Ave, Mildura VIC 3500, Australia",Mildura Rural City Council Library Service ,-34.1907797,142.156646,3500,Library ,Mandarin
+"113 High St, Broadford VIC 3658, Australia",Mitchell Shire Library Service ,-37.2027742,145.0487499,3658,Library ,Mandarin
+"148 Drummond St, Oakleigh VIC 3166, Australia",Monash Public Library Service ,-37.8972,145.09046,3166,Library ,Mandarin
+"762 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",Moonee Valley Library ,-37.7649143,144.9241479,3039,Library ,Mandarin
+"737 Pascoe Vale Rd, Glenroy VIC 3046, Australia",Moreland City Library ,-37.7067078,144.9159724,3046,Library ,Mandarin
+"Vancouver St, Mornington VIC 3931, Australia",Mornington Peninsula Library Service ,-38.2174986,145.0362602,3931,Library ,Mandarin
+"49 Grant St, Alexandra VIC 3714, Australia",Murrindindi Library Service ,-37.1907056,145.7092901,3714,Library ,Mandarin
+"319 Montague St, Albert Park VIC 3206, Australia",Port Phillip Library Service ,-37.8413817,144.956445,3206,Library ,Mandarin
+"1 Winter St, Malvern VIC 3144, Australia",Stonnington Library & Information Service ,-37.859755,145.029415,3144,Library ,Mandarin
+"53-67 Campbell St, Swan Hill VIC 3585, Australia",Swan Hill Regional Library Service ,-35.335562,143.558997,3585,Library ,Mandarin
+"Corryong VIC 3707, Australia",Towong Shire Library ,-36.1960217,147.9029492,3707,Library ,Mandarin
+"Wellington Shire Council, 70 Foster St, Sale VIC 3850, Australia",Wellington Shire Library ,-38.1118103,147.0639369,3850,Library ,Mandarin
+"Regional Support Centre Unit, 2/65 Victoria St, Warragul VIC 3820, Australia",West Gippsland Regional Library Corporation ,-38.160077,145.929458,3820,Library ,Mandarin
+"687 Doncaster Rd, Doncaster VIC 3108, Australia",Whitehorse Manningham Regional Library Corporation ,-37.7870199,145.1314944,3108,Library ,Mandarin
+"28 McLachlan St, Horsham VIC 3400, Australia",Wimmera Regional Library Corporation ,-36.7128247,142.2010124,3400,Library ,Mandarin
+"126 Hovell St, Wodonga VIC 3690, Australia",Wodonga Library ,-36.1241389,146.8888492,3690,Library ,Mandarin
+"Pacific Werribee Shopping Centre, Level 1 MM11 Derrimut Road, Werribee VIC 3030, Australia",Wyndham City Library Service ,-37.8753489,144.6820197,3030,Library ,Mandarin
+"340 Toorak Rd, South Yarra VIC 3141, Australia",Yarra Library ,-37.8401134,144.999451,3141,Library ,Mandarin
+"Bag 65, Bundoora VIC 3083, Australia",Yarra Plenty Regional Library Service ,-37.69706,145.0590021,3083,Library ,Mandarin
+"328 Swanston St, Melbourne VIC 3000, Australia",Public Library Victoria Network Inc (PLVN) ,-37.8098087,144.9651897,3000,Library ,Mandarin
+"328 Swanston St, Melbourne VIC 3000, Australia",State Library Victoria ,-37.8098087,144.9651897,3000,Library ,Mandarin
+"454 Glenferrie Rd, Kooyong VIC 3144, Australia",Vision Australia Information Library Service ,-37.838863,145.033169,3144,Library ,Mandarin
+"1 Service St, Hampton VIC 3188, Australia",Bayside Library Service ,-37.9386488,145.0027125,3188,Library ,Hindi
+"Boroondara, VIC, Australia",City of Boroondara Library Service ,-37.8119024,145.0713904,,Library ,Hindi
+"301 Hampshire Rd, Sunshine VIC 3020, Australia",Brimbank Library ,-37.7835032,144.832086,3020,Library ,Hindi
+"310 Hare St, Echuca VIC 3564, Australia",Campaspe Regional Library ,-36.1235291,144.7488894,3564,Library ,Hindi
+"400A Belgrave-Gembrook Rd, Emerald VIC 3782, Australia",Casey Cardinia Library ,-37.929103,145.445716,3782,Library ,Hindi
+"178 Doveton St N, Ballarat VIC 3353, Australia",Central Highlands Library ,-37.5581412,143.8558981,3353,Library ,Hindi
+"55 Victoria St, Cobden VIC 3266, Australia",Corangamite Regional Library Corporation ,-38.327015,143.077078,3266,Library ,Hindi
+"32-38 Separation St, Northcote VIC 3070, Australia",Darebin Library ,-37.7697492,145.0008668,3070,Library ,Hindi
+"22 Service St, Bairnsdale VIC 3875, Australia",East Gippsland Shire Library ,-37.8254878,147.6286582,3875,Library ,Hindi
+"1350 Ferntree Gully Rd, Scoresby VIC 3179, Australia",Eastern Regional Library Corporation ,-37.899665,145.2314091,3179,Library ,Hindi
+"60 Playne St, Frankston VIC 3199, Australia",Frankston City Library ,-38.1458786,145.1237116,3199,Library ,Hindi
+"Gannawarra, VIC, Australia",Gannawarra Library Service ,-35.7052801,143.8237385,,Library ,Hindi
+"51 Little Malop St, Geelong VIC 3220, Australia",Geelong Regional Library Corporation ,-38.1470618,144.35659,3220,Library ,Hindi
+"161 Jasper Rd, Bentleigh VIC 3204, Australia",Glen Eira Library Service ,-37.9196382,145.0413838,3204,Library ,Hindi
+"56 Percy St, Portland VIC 3305, Australia",Glenelg Library ,-38.3475034,141.6039378,3305,Library ,Hindi
+"98 Main St, Romsey VIC 3434, Australia",Goldfields Library Corporation ,-37.350094,144.7433941,3434,Library ,Hindi
+"79 Benalla Rd, Shepparton VIC 3630, Australia",Goulburn Valley Regional Library Corporation ,-36.384682,145.420904,3630,Library ,Hindi
+"225 Lonsdale St, Dandenong VIC 3175, Australia",Greater Dandenong Library ,-37.9886875,145.2135006,3175,Library ,Hindi
+"21 Docker St, Wangaratta VIC 3677, Australia",High Country Library Corporation ,-36.3550961,146.3200058,3677,Library ,Hindi
+"Hobsons Bay, VIC, Australia",Hobsons Bay Library ,-37.8360799,144.8401227,,Library ,Hindi
+"1093 Pascoe Vale Rd, Broadmeadows VIC 3047, Australia",Hume Library ,-37.682569,144.9184922,3047,Library ,Hindi
+"34 High St, Yackandandah VIC 3749, Australia",Indigo Shire Library ,-36.3131959,146.8371729,3749,Library ,Hindi
+"63-65 Elgin St, Morwell VIC 3840, Australia",Latrobe City Library ,-38.239745,146.398892,3840,Library ,Hindi
+"539 Barkly St, West Footscray VIC 3012, Australia",Maribyrnong Library Service ,-37.797639,144.878139,3012,Library ,Hindi
+"328 Swanston St, Melbourne VIC 3000, Australia",Melbourne Library Service ,-37.8098087,144.9651897,3000,Library ,Hindi
+"31 McKenzie St, Melton VIC 3337, Australia",Melton City Library ,-37.6848506,144.581948,3337,Library ,Hindi
+"The Alfred Deakin Centre, 180 - 190 Deakin Ave, Mildura VIC 3500, Australia",Mildura Rural City Council Library Service ,-34.1907797,142.156646,3500,Library ,Hindi
+"113 High St, Broadford VIC 3658, Australia",Mitchell Shire Library Service ,-37.2027742,145.0487499,3658,Library ,Hindi
+"148 Drummond St, Oakleigh VIC 3166, Australia",Monash Public Library Service ,-37.8972,145.09046,3166,Library ,Hindi
+"762 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",Moonee Valley Library ,-37.7649143,144.9241479,3039,Library ,Hindi
+"737 Pascoe Vale Rd, Glenroy VIC 3046, Australia",Moreland City Library ,-37.7067078,144.9159724,3046,Library ,Hindi
+"Vancouver St, Mornington VIC 3931, Australia",Mornington Peninsula Library Service ,-38.2174986,145.0362602,3931,Library ,Hindi
+"49 Grant St, Alexandra VIC 3714, Australia",Murrindindi Library Service ,-37.1907056,145.7092901,3714,Library ,Hindi
+"319 Montague St, Albert Park VIC 3206, Australia",Port Phillip Library Service ,-37.8413817,144.956445,3206,Library ,Hindi
+"1 Winter St, Malvern VIC 3144, Australia",Stonnington Library & Information Service ,-37.859755,145.029415,3144,Library ,Hindi
+"53-67 Campbell St, Swan Hill VIC 3585, Australia",Swan Hill Regional Library Service ,-35.335562,143.558997,3585,Library ,Hindi
+"Corryong VIC 3707, Australia",Towong Shire Library ,-36.1960217,147.9029492,3707,Library ,Hindi
+"Wellington Shire Council, 70 Foster St, Sale VIC 3850, Australia",Wellington Shire Library ,-38.1118103,147.0639369,3850,Library ,Hindi
+"Regional Support Centre Unit, 2/65 Victoria St, Warragul VIC 3820, Australia",West Gippsland Regional Library Corporation ,-38.160077,145.929458,3820,Library ,Hindi
+"687 Doncaster Rd, Doncaster VIC 3108, Australia",Whitehorse Manningham Regional Library Corporation ,-37.7870199,145.1314944,3108,Library ,Hindi
+"28 McLachlan St, Horsham VIC 3400, Australia",Wimmera Regional Library Corporation ,-36.7128247,142.2010124,3400,Library ,Hindi
+"126 Hovell St, Wodonga VIC 3690, Australia",Wodonga Library ,-36.1241389,146.8888492,3690,Library ,Hindi
+"Pacific Werribee Shopping Centre, Level 1 MM11 Derrimut Road, Werribee VIC 3030, Australia",Wyndham City Library Service ,-37.8753489,144.6820197,3030,Library ,Hindi
+"340 Toorak Rd, South Yarra VIC 3141, Australia",Yarra Library ,-37.8401134,144.999451,3141,Library ,Hindi
+"Bag 65, Bundoora VIC 3083, Australia",Yarra Plenty Regional Library Service ,-37.69706,145.0590021,3083,Library ,Hindi
+"328 Swanston St, Melbourne VIC 3000, Australia",Public Library Victoria Network Inc (PLVN) ,-37.8098087,144.9651897,3000,Library ,Hindi
+"328 Swanston St, Melbourne VIC 3000, Australia",State Library Victoria ,-37.8098087,144.9651897,3000,Library ,Hindi
+"454 Glenferrie Rd, Kooyong VIC 3144, Australia",Vision Australia Information Library Service ,-37.838863,145.033169,3144,Library ,Hindi
+"170 Rindge Ave, Cambridge, MA 02140, USA",Reservoir Christian Fellowship Church,42.3924439,-71.131153,2140,Church/Temple,Itanlian
+"209 Flinders Ln, Melbourne VIC 3000, Australia",Anglican Diocese of Melbourne Church,-37.8163569,144.9678441,3000,Church/Temple,Itanlian
+"Ground Floor 262 Queen Street, Melbourne VIC 3000, Australia",City on a Hill Church,-37.812421,144.959797,3000,Church/Temple,Itanlian
+"174 Collins St, Melbourne VIC 3000, Australia",Collins St. Baptist Church,-37.8147769,144.967508,3000,Church/Temple,Itanlian
+"333 Swanston St, Melbourne VIC 3000, Australia",CrossCulture Church,-37.810456,144.963985,3000,Church/Temple,Itanlian
+"156 Collins St, Melbourne VIC 3000, Australia",Scots Presbyterian Church,-37.8146055,144.9685126,3000,Church/Temple,Itanlian
+"Flinders Ln & Swanston St, Melbourne VIC 3000, Australia",St Paul's Anglican Cathedral Church,-37.817029,144.967687,3000,Church/Temple,Itanlian
+"148 Lonsdale St, Melbourne VIC 3000, Australia",Wesley Church Church,-37.810301,144.968247,3000,Church/Temple,Itanlian
+"156 Collins St, Melbourne VIC 3000, Australia",West Footscray Presbyterian Church,-37.8146256,144.9681937,3000,Church/Temple,Itanlian
+"156 Collins St, Melbourne VIC 3000, Australia",Flemington Presbyterian Church,-37.8146055,144.9685126,3000,Church/Temple,Itanlian
+"Ground Floor 262 Queen Street, Melbourne VIC 3000, Australia",City on a Hill Church,-37.812421,144.959797,3000,Church/Temple,Itanlian
+"120 Collins St, Melbourne VIC 3000, Australia",St. Michaels Church,-37.8142665,144.9696592,3000,Church/Temple,Itanlian
+"156 Collins St, Melbourne VIC 3000, Australia",Indonesian Baptist Congregation Fellowship Church,-37.814644,144.96815,3000,Church/Temple,Itanlian
+"Athenaeum Theatre, 188 Collins St, Melbourne VIC 3000, Australia",Hillsong Melbourne Church,-37.814868,144.9672932,3000,Church/Temple,Itanlian
+"156 Collins St, Melbourne VIC 3000, Australia",Elwood Presbyterian Church,-37.8146256,144.9681937,3000,Church/Temple,Itanlian
+"Ground Floor 262 Queen Street, Melbourne VIC 3000, Australia",City on a Hill Church,-37.812421,144.959797,3000,Church/Temple,Itanlian
+"209 Flinders Ln, Melbourne VIC 3000, Australia",Anglican Parish Church,-37.8163569,144.9678441,3000,Church/Temple,Itanlian
+"156 Collins St, Melbourne VIC 3000, Australia",Evangelical Presbyterian Church,-37.8146256,144.9681937,3000,Church/Temple,Itanlian
+"500 Collins St, Melbourne VIC 3000, Australia",Exchange Church Church,-37.8178471,144.957636,3000,Church/Temple,Itanlian
+"209 Flinders Ln, Melbourne VIC 3000, Australia",Anglican Parish Church,-37.8163569,144.9678441,3000,Church/Temple,Itanlian
+"193 Hotham St, East Melbourne VIC 3002, Australia",Holy Trinity Anglican Church,-37.814255,144.983619,3002,Church/Temple,Itanlian
+"176 Simpson St, East Melbourne VIC 3002, Australia",St Nicholas Antiochian Orthodox Church,-37.8103722,144.9891931,3002,Church/Temple,Itanlian
+"15 Gisborne St, East Melbourne VIC 3002, Australia",St Peter's Anglican Church,-37.8097641,144.9751564,3002,Church/Temple,Itanlian
+"193 Hotham St, East Melbourne VIC 3002, Australia",Holy Trinity Anglican Church,-37.814255,144.983619,3002,Church/Temple,Itanlian
+"193 Hotham St, East Melbourne VIC 3002, Australia",Holy Trinity Anglican Parish Church,-37.814255,144.983619,3002,Church/Temple,Itanlian
+"193 Hotham St, East Melbourne VIC 3002, Australia",Holy Trinity Anglican Church,-37.814255,144.983619,3002,Church/Temple,Itanlian
+"193 Hotham St, East Melbourne VIC 3002, Australia",Holy Trinity Anglican Church,-37.814255,144.983619,3002,Church/Temple,Itanlian
+"33 Howard St, West Melbourne VIC 3003, Australia",Melbourne West Church,-37.805901,144.952862,3003,Church/Temple,Itanlian
+"400 City Rd, Southbank VIC 3006, Australia",Planetshakers Church,-37.8292387,144.9557145,3006,Church/Temple,Itanlian
+"20 City Rd, Southbank VIC 3006, Australia",St Johns Southgate Lutheran Church,-37.8206506,144.9669925,3006,Church/Temple,Itanlian
+"400 City Rd, Southbank VIC 3006, Australia",Planetshakers Church Melbourne City Campus Church,-37.8292387,144.9557145,3006,Church/Temple,Itanlian
+"400 City Rd, Southbank VIC 3006, Australia",Planetshakers City Church,-37.8292387,144.9557145,3006,Church/Temple,Itanlian
+"29-37 Ballantyne St, South Melbourne VIC 3006, Australia",Bethany International Church,-37.829305,144.957275,3006,Church/Temple,Itanlian
+"252 Gordon St, Footscray VIC 3011, Australia",Footscray Church of Christ,-37.7974357,144.888167,3011,Church/Temple,Itanlian
+"252 Gordon St, Footscray VIC 3011, Australia",Citigate Church,-37.797465,144.8880441,3011,Church/Temple,Itanlian
+"60 Paisley St, Footscray VIC 3011, Australia",Footscray Baptist Church,-37.8002276,144.8952984,3011,Church/Temple,Itanlian
+"302 Barkly St, Footscray VIC 3011, Australia",St Columba's Uniting Church,-37.7988541,144.8939246,3011,Church/Temple,Itanlian
+"Yarraville VIC 3013, Australia",Westgate Baptist Church,-37.8161884,144.8805003,3013,Church/Temple,Itanlian
+"26 Mason St, Newport VIC 3015, Australia",Newport Baptist Church,-37.8420547,144.8810005,3015,Church/Temple,Itanlian
+"43 Paxton St, South Kingsville VIC 3015, Australia",C3 Church,-37.829152,144.870197,3015,Church/Temple,Itanlian
+"43 Paxton St, South Kingsville VIC 3015, Australia",C3 Church,-37.829152,144.870197,3015,Church/Temple,Itanlian
+"43 Paxton St, South Kingsville VIC 3015, Australia",C3 Church,-37.829152,144.870197,3015,Church/Temple,Itanlian
+"1/100 Champion Rd, Newport VIC 3015, Australia",Langwarrin Vineyard Church,-37.849451,144.875844,3015,Church/Temple,Itanlian
+"119 Douglas Parade, Williamstown VIC 3016, Australia",Williamstown Church of Christ,-37.854861,144.897094,3016,Church/Temple,Itanlian
+"8 Electra St, Williamstown VIC 3016, Australia",Williamstown Gospel Mission Church,-37.8632636,144.8989724,3016,Church/Temple,Itanlian
+"87 Cecil St, Williamstown VIC 3016, Australia",Willlamstown Presbyterian Church,-37.865315,144.9034802,3016,Church/Temple,Itanlian
+"14 Sargood St, Altona VIC 3018, Australia",Altona Baptist Church,-37.8686146,144.8291259,3018,Church/Temple,Itanlian
+"14 Sargood St, Altona VIC 3018, Australia",Altona Baptist Church,-37.8686146,144.8291259,3018,Church/Temple,Itanlian
+"12A Sun Cres, Sunshine VIC 3020, Australia",Cloud Christian Church Church,-37.7875337,144.8307099,3020,Church/Temple,Itanlian
+"8 Watt St, Sunshine VIC 3020, Australia",Hope of Life Community Church Church,-37.789061,144.829806,3020,Church/Temple,Itanlian
+"41 Lance Rd, Sunshine North VIC 3020, Australia",Enjoy Church,-37.7613606,144.8430302,3020,Church/Temple,Itanlian
+"120 Anderson Rd, Sunshine VIC 3020, Australia",Sunshine Presbyterian Church,-37.7840854,144.8278072,3020,Church/Temple,Itanlian
+"95 Alfrieda St, St Albans VIC 3021, Australia",GROW Church,-37.73798,144.801553,3021,Church/Temple,Itanlian
+"3 W Esplanade, St Albans VIC 3021, Australia",(Croatian) Seventh-day Adventist Church,-37.742811,144.797679,3021,Church/Temple,Itanlian
+"18 Alexina St, St Albans VIC 3021, Australia",Parish of St Alban the Martyr Church,-37.739348,144.798288,3021,Church/Temple,Itanlian
+"28/39 Eucumbene Dr, Ravenhall VIC 3023, Australia",Faith Christian Community Church,-37.7604345,144.7445643,3023,Church/Temple,Itanlian
+"23 Lexington Dr, Burnside VIC 3023, Australia",Lake Caroline Community Church Church,-37.744885,144.752407,3023,Church/Temple,Itanlian
+"115 Kerferd Rd, Albert Park VIC 3026, Australia",Albert Park/Port Melbourne Baptist Church,-37.8462299,144.9551127,3026,Church/Temple,Itanlian
+"68-72 Nelson Ave, Altona VIC 3028, Australia",Altona Evangelical Church Church,-37.880385,144.778968,3028,Church/Temple,Itanlian
+"61 Central Ave, Altona Meadows VIC 3028, Australia",Altona Meadows/Laverton Uniting Church,-37.8713621,144.7716416,3028,Church/Temple,Itanlian
+"15 Perkins Ave, Hoppers Crossing VIC 3029, Australia",Connect City Church West Church,-37.867193,144.691324,3029,Church/Temple,Itanlian
+"37-43 Graham Ct, Hoppers Crossing VIC 3029, Australia",Destiny Centre Church,-37.873808,144.729314,3029,Church/Temple,Itanlian
+"147-155 Hogans Rd, Hoppers Crossing VIC 3029, Australia",South West Christian Church,-37.8628669,144.6835738,3029,Church/Temple,Itanlian
+"152-154 Bellbridge Drive, Hoppers Crossing VIC 3029, Australia",Suburban Baptist Church,-37.8658658,144.7117248,3029,Church/Temple,Itanlian
+"116-120 Black Forest Rd, Wyndham Vale VIC 3030, Australia",Wyndham Presbyterian Church,-37.900867,144.6253709,3030,Church/Temple,Itanlian
+"Point Cook Senior Secondary College, Boardwalk Blvd & Bergamot Drive, Point Cook VIC 3030, Australia",Lightpoint Church,-37.887433,144.733617,3030,Church/Temple,Itanlian
+"Raaf Base Chapel, Point Cook Road, Point Cook VIC 3030, Australia",Point Cook Presbyterian Church,-37.9244378,144.7488743,3030,Church/Temple,Itanlian
+"225 Heaths Rd, Werribee VIC 3030, Australia",Werribee Baptist Church,-37.877851,144.6821771,3030,Church/Temple,Itanlian
+"200 Tarneit Rd, Werribee VIC 3030, Australia",Church of Christ Church,-37.8830629,144.6626053,3030,Church/Temple,Itanlian
+"12 Brighton St, Flemington VIC 3031, Australia",Newmarket Baptist Church,-37.785458,144.930295,3031,Church/Temple,Itanlian
+"60 Maribyrnong Rd, Ascot Vale VIC 3032, Australia",Ascot Vale Uniting Church,-37.7720309,144.9221698,3032,Church/Temple,Itanlian
+"97 Quinn Grove, Keilor East VIC 3033, Australia",Evangelical Christian Church Church,-37.739698,144.8693181,3033,Church/Temple,Itanlian
+"350 Calder Park Dr, Sydenham VIC 3037, Australia",Sydenham Baptist Church,-37.700806,144.756603,3037,Church/Temple,Itanlian
+"1 Taylors Lakes VIC 3038 Victoria, Station St, Taylors Lakes VIC 3038, Australia",Brimbank Presbyterian Church,-37.700128,144.77428,3038,Church/Temple,Itanlian
+"760 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",Anglican Parish of St Thomas Church,-37.7653157,144.9247005,3039,Church/Temple,Itanlian
+"820 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",Essendon PresbyterianMoonee Ponds Church,-37.7598643,144.9214185,3039,Church/Temple,Itanlian
+"45 Eglinton St, Moonee Ponds VIC 3039, Australia",Moonee Ponds Baptist Church,-37.7691774,144.9162382,3039,Church/Temple,Itanlian
+"760 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",The Anglican Parish Church,-37.7653157,144.9247005,3039,Church/Temple,Itanlian
+"5 Price St, Essendon VIC 3040, Australia",Aberfeldie Baptist Church,-37.753547,144.893907,3040,Church/Temple,Itanlian
+"134 - 138 Buckley St, Essendon VIC 3040, Australia",Essendon Baptist Community Church,-37.756332,144.913516,3040,Church/Temple,Itanlian
+"80 Harrick Rd, Keilor Park VIC 3042, Australia",Keilor City Church Church,-37.724357,144.84738,3042,Church/Temple,Itanlian
+"49 Freight Rd, Tullamarine VIC 3043, Australia",Realife Church,-37.6919883,144.8773695,3043,Church/Temple,Itanlian
+"Derby St & Kent Road, Pascoe Vale South VIC 3044, Australia",Moreland ChristianChurch Church,-37.7208986,144.9475886,3044,Church/Temple,Itanlian
+"701-703 Pascoe Vale Rd, Glenroy VIC 3046, Australia",MeadowView Baptist Church,-37.7103736,144.9166674,3046,Church/Temple,Itanlian
+"26 Millewa Cres, Dallas VIC 3047, Australia",Hume Community Baptist Church,-37.6741304,144.9291326,3047,Church/Temple,Itanlian
+"9 Western Ave, Westmeadows VIC 3049, Australia",LifeHouse Church,-37.684936,144.881076,3049,Church/Temple,Itanlian
+"135 Capel St, North Melbourne VIC 3051, Australia",Central (Chinese) Baptist Church,-37.8046837,144.9552868,3051,Church/Temple,Itanlian
+"161 -167 Peel St, North Melbourne VIC 3051, Australia",Greek Free Church Church,-37.804155,144.955941,3051,Church/Temple,Itanlian
+"62 Mark St, North Melbourne VIC 3051, Australia",Melbourne Life Church,-37.7934011,144.9379942,3051,Church/Temple,Itanlian
+"62 Mark St, North Melbourne VIC 3051, Australia",Life Church Church,-37.7934011,144.9379942,3051,Church/Temple,Itanlian
+"54 Lygon St, Carlton VIC 3053, Australia",Lygon St Christian Chapel Church,-37.8059012,144.966192,3053,Church/Temple,Itanlian
+"235 Palmerston St, Carlton VIC 3053, Australia",St Jude's Anglican Church,-37.796229,144.967403,3053,Church/Temple,Itanlian
+"491 Sydney Rd, Brunswick VIC 3056, Australia",Brunswick Baptist Church,-37.765521,144.9620331,3056,Church/Temple,Itanlian
+"298 Sydney Rd, Coburg VIC 3058, Australia",Coburg Baptist Church,-37.7470071,144.9661184,3058,Church/Temple,Itanlian
+"111 Anderson Rd, Fawkner VIC 3060, Australia",Faith Baptist Church,-37.6962993,144.9666096,3060,Church/Temple,Itanlian
+"127 Craigieburn Rd West, Craigieburn VIC 3064, Australia",Central Life Church,-37.598557,144.935054,3064,Church/Temple,Itanlian
+"16 Rushwood Dr, Craigieburn VIC 3064, Australia",Joy of Life ChristianMinistries Church,-37.611827,144.950199,3064,Church/Temple,Itanlian
+"9 Lachlan Cres, Roxburgh Park VIC 3064, Australia",Roxburgh Park Community Church,-37.618225,144.927568,3064,Church/Temple,Itanlian
+"75 Interlink Dr, Craigieburn VIC 3064, Australia",Salvos 3064 Church,-37.603354,144.946952,3064,Church/Temple,Itanlian
+"16 Rayfield Ave, Craigieburn VIC 3064, Australia",St Thomas Uniting Church,-37.59681,144.935624,3064,Church/Temple,Itanlian
+"King William St, Fitzroy VIC 3065, Australia",All Saints Church,-37.8022236,144.9786117,3065,Church/Temple,Itanlian
+"16-18 Michael St, North Fitzroy VIC 3068, Australia",Clifton Hill Presbyterian Church,-37.78749,144.990686,3068,Church/Temple,Itanlian
+"75 Reid St, Fitzroy North VIC 3068, Australia",Fitzroy North Community Church,-37.785316,144.980772,3068,Church/Temple,Itanlian
+"542 High St, Northcote VIC 3070, Australia",Northcote Baptist Church,-37.7636829,145.0001638,3070,Church/Temple,Itanlian
+"2/177 Beavers Rd, Northcote VIC 3070, Australia",Community Church Church,-37.7653809,144.9859464,3070,Church/Temple,Itanlian
+"390-398 St Georges Rd, Thornbury VIC 3071, Australia",Thornbury Church of Christ,-37.75691,144.994253,3071,Church/Temple,Itanlian
+"81 High St, Preston VIC 3072, Australia",Northern Community Church of Christ,-37.7497863,145.0018432,3072,Church/Temple,Itanlian
+"108 Cramer St, Preston VIC 3072, Australia",West Preston Baptist Church,-37.7388067,144.9905286,3072,Church/Temple,Itanlian
+"40/42 Gilbert Rd, Melbourne VIC 3072, Australia",St. Mark's Church Church,-37.749541,144.988424,3072,Church/Temple,Itanlian
+"648 High St, Reservoir VIC 3073, Australia",Acts 2 Faith Church,-37.7299601,145.0056227,3073,Church/Temple,Itanlian
+"1 Livingstone St, Ivanhoe VIC 3079, Australia",Ivanhoe Baptist Church,-37.76766,145.04263,3079,Church/Temple,Itanlian
+"420 Waterdale Rd, Heidelberg West VIC 3081, Australia",Heidelberg West Church of Christ,-37.747403,145.0471811,3081,Church/Temple,Itanlian
+"5 Waiora Rd, Heidelberg Heights VIC 3081, Australia",Rosanna Baptist Church,-37.746469,145.057652,3081,Church/Temple,Itanlian
+"5 Waiora Rd, Heidelberg Heights VIC 3081, Australia",Rosanna Christian Church Church,-37.746469,145.057652,3081,Church/Temple,Itanlian
+"11 Morang Dr, Mill Park VIC 3082, Australia",Mill Park Baptist Church,-37.660737,145.053991,3082,Church/Temple,Itanlian
+"19 Enterprise Dr, Bundoora VIC 3083, Australia",Bundoora Presbyterian Church,-37.684576,145.071018,3083,Church/Temple,Itanlian
+"31-61 McLeans Rd, Bundoora VIC 3083, Australia",Encompass Church,-37.6944794,145.054664,3083,Church/Temple,Itanlian
+"31-61 McLeans Rd, Bundoora VIC 3083, Australia",Encompass Church,-37.6944794,145.054664,3083,Church/Temple,Itanlian
+"37 Grimshaw St, Greensborough VIC 3088, Australia",Living Faith Church Church,-37.7049411,145.1054777,3088,Church/Temple,Itanlian
+"309 Diamond Creek Rd, Plenty VIC 3090, Australia",Diamond Valley Baptist Church,-37.6776239,145.1230958,3090,Church/Temple,Itanlian
+"360 Main Rd, Lower Plenty VIC 3093, Australia",Planetshakers North East Church,-37.7302417,145.1278416,3093,Church/Temple,Itanlian
+"24 Mayona Rd, Montmorency VIC 3094, Australia",Montmorency Community Church Church,-37.7137553,145.1169585,3094,Church/Temple,Itanlian
+"43/49 Nyora Rd, Eltham VIC 3095, Australia",Eltham Baptist Church,-37.7171909,145.168992,3095,Church/Temple,Itanlian
+"23 Batman Rd, Eltham VIC 3095, Australia",Eltham Presbyterian Church,-37.7074188,145.1515753,3095,Church/Temple,Itanlian
+"39 Lower Rd, Eltham North VIC 3095, Australia",Glen Park Gospel Church,-37.7000604,145.1498504,3095,Church/Temple,Itanlian
+"960 Heidleberg-Kinglake Rd, Hurstbridge VIC 3099, Australia",Green Wedge Christian Community Church,-37.6368093,145.1973378,3099,Church/Temple,Itanlian
+"301 Cotham Rd, Kew VIC 3101, Australia",Life In Christ Church Church,-37.8098389,145.0572776,3101,Church/Temple,Itanlian
+"10 Highbury Grove, Kew VIC 3101, Australia",Kew Baptist Church,-37.8064818,145.0371195,3101,Church/Temple,Itanlian
+"75A Cotham Rd, Kew VIC 3101, Australia",Melbourne (Chinese) Baptist Church,-37.8073049,145.0370582,3101,Church/Temple,Itanlian
+"2 Leonard St, Deepdene VIC 3103, Australia",Balwyn Gospel Chapel Church,-37.8106981,145.0680833,3103,Church/Temple,Itanlian
+"184 Balwyn Rd, Balwyn VIC 3103, Australia",Balwyn Wesleyan Methodist Church,-37.80407,145.083408,3103,Church/Temple,Itanlian
+"16 Osburn Ave, Balwyn North VIC 3104, Australia",St Hils Anglican Church,-37.7952252,145.0737169,3104,Church/Temple,Itanlian
+"136 Doncaster Rd, North Balwyn VIC 3104, Australia",North Balwyn Baptist Church,-37.7942022,145.0789695,3104,Church/Temple,Itanlian
+"30 Lilian St, Bulleen VIC 3105, Australia",St Timothys Anglican Church,-37.77201,145.096195,3105,Church/Temple,Itanlian
+"143/145 Parker St, Templestowe VIC 3106, Australia",Manningham Christian Centre Church,-37.757695,145.127817,3106,Church/Temple,Itanlian
+"41 Marcus Rd, Templestowe Lower VIC 3107, Australia",Bulleen Baptist Church,-37.7680692,145.1041966,3107,Church/Temple,Itanlian
+"41 Marcus Rd, Manningham VIC 3107, Australia",SonLife Community Church,-37.7680749,145.1041876,3107,Church/Temple,Itanlian
+"674-680 Doncaster Rd, Doncaster VIC 3108, Australia",Doncaster Church of Christ,-37.787799,145.130224,3108,Church/Temple,Itanlian
+"188 Blackburn Rd, Doncaster East VIC 3109, Australia",Edge Church Melbourne,-37.785359,145.16304,3109,Church/Temple,Itanlian
+"51-59 Dehnert St, Doncaster East VIC 3109, Australia",Bread of Life Church,-37.7825727,145.1488686,3109,Church/Temple,Itanlian
+"8 Montgomery St, Doncaster East VIC 3109, Australia",Doncaster City Church,-37.7882954,145.1603807,3109,Church/Temple,Itanlian
+"460 Blackburn Rd, Doncaster East VIC 3109, Australia",Deep Creek Anglican Church,-37.7662166,145.1666028,3109,Church/Temple,Itanlian
+"47-53 Tunstall Rd, Doncaster East VIC 3109, Australia",East Doncaster Baptist Church,-37.7937288,145.169813,3109,Church/Temple,Itanlian
+"188 Blackburn Rd, Doncaster East VIC 3109, Australia",Edge Church,-37.785359,145.16304,3109,Church/Temple,Itanlian
+"107 Andersons Creek Rd, Doncaster East VIC 3109, Australia",Templestowe Baptist Church,-37.7672324,145.1714882,3109,Church/Temple,Itanlian
+"5 McGowans Rd, Donvale VIC 3111, Australia",Donvale Prebyterian Church,-37.795799,145.179995,3111,Church/Temple,Itanlian
+"320 Reynolds Rd, Donvale VIC 3111, Australia",Vantage Point Church,-37.767467,145.191889,3111,Church/Temple,Itanlian
+"15-49 Old Melbourne Rd, Chirnside Park VIC 3116, Australia",Life Ministry Centre Church,-37.7621057,145.3032343,3116,Church/Temple,Itanlian
+"360 Church St, Richmond VIC 3121, Australia",St Stephen's Anglican Church,-37.8224703,144.9981836,3121,Church/Temple,Itanlian
+"10 Griffiths St, Richmond VIC 3121, Australia",Bridge Church Church,-37.8181901,145.0022981,3121,Church/Temple,Itanlian
+"10 Griffiths St, Richmond VIC 3121, Australia",Bridge Church Church,-37.8181901,145.0022981,3121,Church/Temple,Itanlian
+"360 Church St, Richmond VIC 3121, Australia",St Stephen's Anglican Church,-37.8224703,144.9981836,3121,Church/Temple,Itanlian
+"81 Oxley Rd, Hawthorn VIC 3122, Australia",Auburn Uniting Church,-37.8247372,145.0428462,3122,Church/Temple,Itanlian
+"36 Barton St, Hawthorn VIC 3122, Australia",Hawthorn West Baptist Church,-37.818511,145.022149,3122,Church/Temple,Itanlian
+"5 St Columbs St, Hawthorn VIC 3122, Australia",St Columb's Anglican Church,-37.8234704,145.0395057,3122,Church/Temple,Itanlian
+"460 Riversdale Rd, Hawthorn East VIC 3123, Australia",Camberwell Baptist Church,-37.8314652,145.0553295,3123,Church/Temple,Itanlian
+"460 Riversdale Rd, Hawthorn East VIC 3123, Australia",EastCamberwell Baptist Church,-37.8314652,145.0553295,3123,Church/Temple,Itanlian
+"910 Toorak Rd, Camberwell VIC 3124, Australia",UCA Gospel Hall Church,-37.846358,145.057135,3124,Church/Temple,Itanlian
+"1 Canterbury Rd, Camberwell VIC 3124, Australia",St Mark's Anglican Church,-37.8212974,145.0592091,3124,Church/Temple,Itanlian
+"581 Riversdale Rd, Camberwell VIC 3124, Australia",Trinity Prebyterian Church,-37.8317164,145.0618456,3124,Church/Temple,Itanlian
+"7 Bowen St, Camberwell VIC 3124, Australia",Salvation Army Church,-37.839092,145.063617,3124,Church/Temple,Itanlian
+"1 Canterbury Rd, Camberwell VIC 3124, Australia",St Mark??s Anglican Church,-37.8212974,145.0592091,3124,Church/Temple,Itanlian
+"7 Bowen St, Camberwell VIC 3124, Australia",Salvation Army Church,-37.839092,145.063617,3124,Church/Temple,Itanlian
+"17 Livingstone Cl, Burwood VIC 3125, Australia",Christian Alliance Church of Victoria,-37.842659,145.108716,3125,Church/Temple,Itanlian
+"13 Tennyson St, Burwood VIC 3125, Australia",Burwood Community Presbyterian Church Church,-37.851074,145.130434,3125,Church/Temple,Itanlian
+"44 Station St, Burwood VIC 3125, Australia",St Thomas' Burwood Anglican Church,-37.8529101,145.119727,3125,Church/Temple,Itanlian
+"2 Margaret St, Canterbury VIC 3126, Australia",St Paul's Anglican Church,-37.827084,145.085378,3126,Church/Temple,Itanlian
+"1A Balwyn Rd, Canterbury VIC 3126, Australia",Canterbury Baptist Church,-37.823277,145.079076,3126,Church/Temple,Itanlian
+"72 Highfield Rd, Canterbury VIC 3126, Australia",Highfield RoadUniting Church,-37.8314287,145.0858918,3126,Church/Temple,Itanlian
+"2 Margaret St, Canterbury VIC 3126, Australia",St Paul's Anglican Church,-37.827084,145.085378,3126,Church/Temple,Itanlian
+"650 Canterbury Rd, Surrey Hills VIC 3127, Australia",St Stephen's Presbyterian Church,-37.8266165,145.1001921,3127,Church/Temple,Itanlian
+"245 Middleborough Rd, Box Hill South VIC 3128, Australia",Living Streams Christian Church,-37.8390027,145.1344766,3128,Church/Temple,Itanlian
+"28 Watts St, Box Hill VIC 3128, Australia",Reformed Church,-37.8159022,145.1258984,3128,Church/Temple,Itanlian
+"275 Middleborough Rd, Box Hill South VIC 3128, Australia",Revival Centres International Church,-37.8354377,145.1352222,3128,Church/Temple,Itanlian
+"711 Station St, Box Hill VIC 3128, Australia",St Paul's Lutheran Church,-37.8166248,145.1238756,3128,Church/Temple,Itanlian
+"234 Elgar Rd, Box Hill South VIC 3128, Australia",Wattle Park Chapel Church,-37.835437,145.112138,3128,Church/Temple,Itanlian
+"234 Elgar Rd, Box Hill South VIC 3128, Australia",Grace Christian Community Church,-37.8354711,145.1121419,3128,Church/Temple,Itanlian
+"38 Lexton Rd, Box Hill North VIC 3129, Australia",Full Gospel Assembly Church,-37.812281,145.136257,3129,Church/Temple,Itanlian
+"100 Rostrevor Parade, N Mont Albert VIC 3129, Australia",Belmore Road church of Christ Church,-37.802338,145.108401,3129,Church/Temple,Itanlian
+"17-23 Nelson Rd, Box Hill VIC 3130, Australia",Box Hill Salvation Army Church,-37.8156814,145.1192306,3130,Church/Temple,Itanlian
+"3 Springfield Rd, Blackburn North VIC 3130, Australia",NewHope Baptist Church,-37.809157,145.14162,3130,Church/Temple,Itanlian
+"184 Surrey Rd, Blackburn VIC 3130, Australia",One Community Church,-37.8156422,145.1565214,3130,Church/Temple,Itanlian
+"107 Springfield Rd, Blackburn North VIC 3130, Australia",St Alfreds Anglican Church,-37.809912,145.151878,3130,Church/Temple,Itanlian
+"184 Surrey Rd, Blackburn VIC 3130, Australia",Ranges Community Church,-37.8156422,145.1565214,3130,Church/Temple,Itanlian
+"67/71 Springvale Rd, Nunawading VIC 3131, Australia",(Chinese) Christian Church of Victoria,-37.8126688,145.1774027,3131,Church/Temple,Itanlian
+"169 Central Rd, Nunawading VIC 3131, Australia",Red Church,-37.8248049,145.1674677,3131,Church/Temple,Itanlian
+"333A Canterbury Rd, Forest Hill VIC 3131, Australia",Forest Hill Uniting Church,-37.8348397,145.1779828,3131,Church/Temple,Itanlian
+"169 Central Rd, Nunawading VIC 3131, Australia",Nunawading Seventh-day Adventist Church,-37.8246486,145.1693729,3131,Church/Temple,Itanlian
+"8-12 Simla St, Mitcham VIC 3132, Australia",Mitcham Baptist Church,-37.819373,145.190415,3132,Church/Temple,Itanlian
+"171 Rooks Rd, Vermont VIC 3133, Australia",Stairway Church Church,-37.8338462,145.1883123,3133,Church/Temple,Itanlian
+"13 Bedford Rd, Ringwood VIC 3134, Australia",Ringwood Church of Christ,-37.8156,145.232619,3134,Church/Temple,Itanlian
+"120 Oban Rd, Ringwood North VIC 3134, Australia",Holy Spirit Parish Church,-37.7924343,145.2371318,3134,Church/Temple,Itanlian
+"320/340 Wonga Rd, Warranwood VIC 3134, Australia",Maroondah City Church Church,-37.7679926,145.2432387,3134,Church/Temple,Itanlian
+"14 Dickson Cres, Ringwood North VIC 3134, Australia",North Ringwood Uniting Church,-37.795708,145.23711,3134,Church/Temple,Itanlian
+"1 Tamar St, Ringwood North VIC 3134, Australia",Ringwood Community Church,-37.802605,145.231102,3134,Church/Temple,Itanlian
+"143 Maroondah Hwy, Ringwood VIC 3134, Australia",urbanlife Church,-37.8154072,145.2279157,3134,Church/Temple,Itanlian
+"9 Hill St, Ringwood East VIC 3135, Australia",Empower Christian Church Church,-37.8166779,145.2410717,3135,Church/Temple,Itanlian
+"78 Cuthbert St, Heathmont VIC 3135, Australia",Heathmont Baptist Church,-37.834548,145.2392844,3135,Church/Temple,Itanlian
+"6 Waterloo St, Heathmont VIC 3135, Australia",Heathmont Presbyterian Church,-37.8333034,145.2355365,3135,Church/Temple,Itanlian
+"51 Lusher Rd, Croydon VIC 3136, Australia",Hope Church,-37.8037299,145.2786732,3136,Church/Temple,Itanlian
+"Bemboka Rd, Croydon Hills VIC 3136, Australia",Croydon Hills and Wonga Park Anglican Church,-37.7792647,145.2559422,3136,Church/Temple,Itanlian
+"6 Bemboka Rd, Croydon Hills VIC 3136, Australia",Croydon Hills Baptist Church,-37.78084,145.257046,3136,Church/Temple,Itanlian
+"6 Tallent St, Croydon VIC 3136, Australia",Croydon Uniting Church,-37.7917962,145.281605,3136,Church/Temple,Itanlian
+"51 Lusher Rd, Croydon VIC 3136, Australia",Hope City Church Church,-37.8037299,145.2786732,3136,Church/Temple,Itanlian
+"51 Lusher Rd, Croydon VIC 3136, Australia",Hope Church,-37.8037299,145.2786732,3136,Church/Temple,Itanlian
+"51 Lusher Rd, Croydon VIC 3136, Australia",Highway of Hope Church,-37.8037299,145.2786732,3136,Church/Temple,Itanlian
+"281 Colchester Rd, Kilsyth South VIC 3137, Australia",Canterbury Gardens Community Church Church,-37.828113,145.305559,3137,Church/Temple,Itanlian
+"382-388 Liverpool Rd, Kilsyth South VIC 3137, Australia",Kilsyth South Baptist Church,-37.838903,145.317495,3137,Church/Temple,Itanlian
+"47-49 Carronvale Rd, Mooroolbark VIC 3138, Australia",Carronvale Road Christian Church Church,-37.781394,145.3282001,3138,Church/Temple,Itanlian
+"Hull Rd, Mooroolbark VIC 3138, Australia",Mooroolbark Baptist Church,-37.790611,145.306403,3138,Church/Temple,Itanlian
+"305 Manchester Rd, Mooroolbark VIC 3138, Australia",Mooroolbark SalvosMooroolbark Church,-37.761741,145.315062,3138,Church/Temple,Itanlian
+"47-49 Carronvale Rd, Mooroolbark VIC 3138, Australia",Carronvale Road Christian Church,-37.781394,145.3282001,3138,Church/Temple,Itanlian
+"St James Anglican Church, 84 Beenak Rd, Wandin North VIC 3139, Australia",St James' Anglican Church,-37.7888531,145.4332627,3139,Church/Temple,Itanlian
+"St James Anglican Church, 84 Beenak Rd, Wandin North VIC 3139, Australia",St James' Anglican Church,-37.7888531,145.4332627,3139,Church/Temple,Itanlian
+"St James Anglican Church, 84 Beenak Rd, Wandin North VIC 3139, Australia",St James Anglican Church,-37.7888531,145.4332627,3139,Church/Temple,Itanlian
+"5/9 Clarke St, Lilydale VIC 3140, Australia",Mooroolbark Christian Fellowship Church,-37.7579779,145.3506275,3140,Church/Temple,Itanlian
+"305 Swansea Rd, Lilydale VIC 3140, Australia",Lilydale Baptist Church,-37.776262,145.3625268,3140,Church/Temple,Itanlian
+"5/9 Clarke St, Lilydale VIC 3140, Australia",Yarra Valley Vineyard Church,-37.7579779,145.3506275,3140,Church/Temple,Itanlian
+"677 Punt Rd, South Yarra VIC 3141, Australia",Christ Church Anglican,-37.838555,144.986035,3141,Church/Temple,Itanlian
+"677 Punt Rd, South Yarra VIC 3141, Australia",Christ Church Anglican,-37.838555,144.986035,3141,Church/Temple,Itanlian
+"12 Surrey Rd, South Yarra VIC 3141, Australia",SouthYarra Community Baptist Church,-37.846165,144.998525,3141,Church/Temple,Itanlian
+"677 Punt Rd, South Yarra VIC 3141, Australia",Christ Church Anglican Church,-37.838555,144.986035,3141,Church/Temple,Itanlian
+"86 Clendon Rd, Toorak VIC 3142, Australia",St John's Anglican Church,-37.841997,145.0145036,3142,Church/Temple,Itanlian
+"86 Clendon Rd, Toorak VIC 3142, Australia",St John's Anglican Church,-37.841997,145.0145036,3142,Church/Temple,Itanlian
+"86 Clendon Rd, Toorak VIC 3142, Australia",St John's Anglican Church,-37.841997,145.0145036,3142,Church/Temple,Itanlian
+"86 Clendon Rd, Toorak VIC 3142, Australia",St John'sAnglican Church,-37.841997,145.0145036,3142,Church/Temple,Itanlian
+"86 Clendon Rd, Toorak VIC 3142, Australia",St John's Anglican Church,-37.841997,145.0145036,3142,Church/Temple,Itanlian
+"88 Kooyong Rd, Armadale VIC 3143, Australia",Armadale Baptist Church,-37.8549618,145.0209769,3143,Church/Temple,Itanlian
+"8 Y St, Ashburton VIC 3147, Australia",Ashburton Baptist Church,-37.862275,145.079345,3147,Church/Temple,Itanlian
+"3 Ashburn Grove, Ashburton VIC 3147, Australia",Ashburton Uniting Church,-37.864352,145.081413,3147,Church/Temple,Itanlian
+"17-19 Margot St, Chadstone VIC 3148, Australia",Stonnington Baptist Church,-37.876577,145.096686,3148,Church/Temple,Itanlian
+"46 Lillimur Rd, Ormond VIC 3149, Australia",Glen Eira Christian Community Church,-37.900068,145.042318,3149,Church/Temple,Itanlian
+"46-48 Montclair Ave, Glen Waverley VIC 3150, Australia",Monash City Church of Christ,-37.8810184,145.1621792,3150,Church/Temple,Itanlian
+"800 Waverley Rd, Glen Waverley VIC 3150, Australia",Glen Waverley Anglican Church,-37.89018,145.171109,3150,Church/Temple,Itanlian
+"Glen Waverley VIC 3150, Australia",Glen Waverley Uniting Church,-37.8821063,145.1626778,3150,Church/Temple,Itanlian
+"758 Waverley Rd, Glen Waverley VIC 3150, Australia",Lifegate Church,-37.890127,145.167395,3150,Church/Temple,Itanlian
+"588 High St Rd, Glen Waverley VIC 3150, Australia",Syndal Baptist Church,-37.872494,145.149274,3150,Church/Temple,Itanlian
+"2 Lum Rd, Wheelers Hill VIC 3150, Australia",Waverley Baptist Church,-37.8912572,145.1828986,3150,Church/Temple,Itanlian
+"832-834 High St Rd, Glen Waverley VIC 3150, Australia",Discover Church,-37.875248,145.1725537,3150,Church/Temple,Itanlian
+"832-834 High St Rd, Glen Waverley VIC 3150, Australia",Discovery Church,-37.875248,145.1725537,3150,Church/Temple,Itanlian
+"6 Clyden Ct, Burwood East VIC 3151, Australia",Melbourne InternationalFellowship Church,-37.852848,145.146603,3151,Church/Temple,Itanlian
+"2 Vision Dr, Burwood East VIC 3151, Australia",Crossway Baptist Church,-37.8593625,145.1677884,3151,Church/Temple,Itanlian
+"5 Burwood Hwy, Wantirna VIC 3152, Australia",Hills Bible Church Church,-37.8597477,145.2091157,3152,Church/Temple,Itanlian
+"1248 High St Rd, Wantirna South VIC 3152, Australia",CityLife Church,-37.878226,145.215003,3152,Church/Temple,Itanlian
+"2/82 Lewis Rd, Wantirna South VIC 3152, Australia",Activate Church,-37.8650228,145.2503511,3152,Church/Temple,Itanlian
+"119 Mountain Hwy, Wantirna VIC 3152, Australia",Kingsway Christian Fellowship Church,-37.8553066,145.2163676,3152,Church/Temple,Itanlian
+"1248 High St Rd, Wantirna South VIC 3152, Australia",CityLife Church,-37.878226,145.215003,3152,Church/Temple,Itanlian
+"21 Koomba Rd, Wantirna VIC 3152, Australia",Grace Church Church,-37.852948,145.2162107,3152,Church/Temple,Itanlian
+"1248 High St Rd, Wantirna South VIC 3152, Australia",CityLife Church,-37.878226,145.215003,3152,Church/Temple,Itanlian
+"1248 High St Rd, Wantirna South VIC 3152, Australia",CityLife Church,-37.878226,145.215003,3152,Church/Temple,Itanlian
+"30/31 Michellan Ct, Bayswater VIC 3153, Australia",Breakthrough Christian Church Church,-37.8415028,145.2421136,3153,Church/Temple,Itanlian
+"328 Bayswater Rd, Bayswater North VIC 3153, Australia",Calvary Baptist Church,-37.8313456,145.2686387,3153,Church/Temple,Itanlian
+"199 Bayswater Rd, Bayswater North VIC 3153, Australia",South Croydon Anglican Church,-37.8199062,145.2694117,3153,Church/Temple,Itanlian
+"328 Bayswater Rd, Bayswater North VIC 3153, Australia",Calvary Melbourne Church,-37.8313456,145.2686387,3153,Church/Temple,Itanlian
+"17-19 Falconer Rd, Boronia VIC 3155, Australia",Knox Community Baptist Church,-37.858329,145.270783,3155,Church/Temple,Itanlian
+"8/1154 Burwood Hwy, Upper Ferntree Gully VIC 3156, Australia",CityWide Church,-37.892603,145.301144,3156,Church/Temple,Itanlian
+"8/1154 Burwood Hwy, Upper Ferntree Gully VIC 3156, Australia",CityWide Church,-37.892603,145.301144,3156,Church/Temple,Itanlian
+"244 Mt Morton Rd, Belgrave Heights VIC 3160, Australia",Belgrave Heights Presbyterian Church,-37.919822,145.3448775,3160,Church/Temple,Itanlian
+"169 Belgrave-Hallam Rd, Belgrave South VIC 3160, Australia",Belgrave South Baptist Church,-37.9337169,145.3567796,3160,Church/Temple,Itanlian
+"530 Dandenong Rd, Caulfield North VIC 3161, Australia","Southern Cross Ministriesat St Paul's, Caulfield North Church",-37.8667781,145.0274822,3161,Church/Temple,Itanlian
+"514 Dandenong Rd, Caulfield North VIC 3161, Australia",(Indonesian) Praise Centre Church,-37.865371,145.024533,3161,Church/Temple,Itanlian
+"1 Neerim Rd, Caulfield VIC 3162, Australia",Caulfield  Elwood Presbyterian Church,-37.8853433,145.0294207,3162,Church/Temple,Itanlian
+"1 Neerim Rd, Caulfield VIC 3162, Australia",Caulfield Evangelical Methodist Church,-37.887481,145.028652,3162,Church/Temple,Itanlian
+"1 Neerim Rd, Caulfield VIC 3162, Australia",Caulfield Presbyterian Church,-37.8853433,145.0294207,3162,Church/Temple,Itanlian
+"44 Murrumbeena Rd, Murrumbeena VIC 3163, Australia",Murrumbeena Baptist Church,-37.8883812,145.0667777,3163,Church/Temple,Itanlian
+"216 E Boundary Rd, East Bentleigh VIC 3165, Australia",Eastleigh Community Church,-37.913317,145.061055,3165,Church/Temple,Itanlian
+"26 Abbeygate St, Oakleigh VIC 3166, Australia",Oakleigh Anglican Church,-37.9066681,145.0900323,3166,Church/Temple,Itanlian
+"185 Warrigal Rd, Hughesdale VIC 3166, Australia",Oakleigh Baptist Church,-37.907672,145.085039,3166,Church/Temple,Itanlian
+"15 Clifford St, Huntingdale VIC 3166, Australia",Faith Christian Church Church,-37.9093937,145.1055557,3166,Church/Temple,Itanlian
+"964 Centre Road, Oakleigh South VIC 3167, Australia",South Oakleigh Gospel Hall Church,-37.9244003,145.0837581,3167,Church/Temple,Itanlian
+"25 Burton Ave, Clayton VIC 3168, Australia","Clayton Church of Christ(+Mandarin,Cantonese) Clayton Church",-37.925519,145.1178523,3168,Church/Temple,Itanlian
+"118 Wellington Rd, Clayton VIC 3168, Australia",Monash Christian Fellowship Church,-37.917113,145.143136,3168,Church/Temple,Itanlian
+"54 Madeleine Rd, Clayton VIC 3168, Australia",St Andrews Presbyterian Church,-37.9187718,145.1207579,3168,Church/Temple,Itanlian
+"316-322 Kingston Rd, Clarinda VIC 3169, Australia",Kingston City Church,-37.957869,145.111156,3169,Church/Temple,Itanlian
+"19 McDonalds La, Mulgrave VIC 3170, Australia",Monash Christian Church,-37.9082044,145.1553039,3170,Church/Temple,Itanlian
+"3 Albert Ave, Springvale VIC 3171, Australia",St. John's (German) Lutheran Church,-37.946506,145.147185,3171,Church/Temple,Itanlian
+"1b/1 MacKay St, Springvale South VIC 3172, Australia",Springvale South Church of Christ,-37.972117,145.149339,3172,Church/Temple,Itanlian
+"50 Tootal Rd, Dingley Village VIC 3172, Australia",Destiny Church,-37.9626912,145.1270278,3172,Church/Temple,Itanlian
+"927 Springvale Rd, Keysborough VIC 3173, Australia",Lighthouse Christian Church Church,-38.0010828,145.1429856,3173,Church/Temple,Itanlian
+"130 Railway Parade, Noble Park VIC 3174, Australia",The First (Hungarian) Baptist Church,-37.979518,145.194616,3174,Church/Temple,Itanlian
+"55 Halton Rd, Noble Park North VIC 3174, Australia",Miracle Christian Centre Church,-37.954502,145.192201,3174,Church/Temple,Itanlian
+"55 Halton Rd, Noble Park North VIC 3174, Australia",Miracle Christian Centre Church,-37.954502,145.192201,3174,Church/Temple,Itanlian
+"121 Stud Rd, Dandenong VIC 3175, Australia",LifeSpring Church,-37.9751686,145.2196038,3175,Church/Temple,Itanlian
+"9 Anthony St, Dandenong North VIC 3175, Australia",The Covenant Church Church,-37.967269,145.214509,3175,Church/Temple,Itanlian
+"121 Stud Rd, Dandenong VIC 3175, Australia",Lifespring Church Church,-37.9751686,145.2196038,3175,Church/Temple,Itanlian
+"255 Outlook Dr, Dandenong North VIC 3175, Australia",Dandenong Christian Reformed Church Church,-37.9399028,145.2111751,3175,Church/Temple,Itanlian
+"9 Claredale Rd, Doveton VIC 3177, Australia",Ebenezer Christian Assembly Church,-37.9976282,145.2281677,3177,Church/Temple,Itanlian
+"127 Kidds Rd, Doveton VIC 3177, Australia",Doveton Baptist Church,-37.9877151,145.2387448,3177,Church/Temple,Itanlian
+"1070 Stud Rd, Rowville VIC 3178, Australia",Doncaster ChristianFellowship Church,-37.9156516,145.2338271,3178,Church/Temple,Itanlian
+"1070 Stud Rd, Rowville VIC 3178, Australia",Australia for Christ Fellowship Church,-37.9156516,145.2338271,3178,Church/Temple,Itanlian
+"7 Seismic Ct, Rowville VIC 3178, Australia",Hillview Community Church Church,-37.908617,145.245274,3178,Church/Temple,Itanlian
+"Wellington Rd & Le John St, Rowville VIC 3178, Australia",Rowville Baptist Church,-37.9260098,145.2498955,3178,Church/Temple,Itanlian
+"15 Cavell St, Scoresby VIC 3179, Australia",Hope Community Church,-37.888923,145.235697,3179,Church/Temple,Itanlian
+"646 Burwood Hwy, Knoxfield VIC 3180, Australia",Ringwood Knox Lutheran Parish Church,-37.8765958,145.2570069,3180,Church/Temple,Itanlian
+"31 Spring St, Prahran VIC 3181, Australia",Melbourne Zimbabwean Methodist Church,-37.8504818,145.0047418,3181,Church/Temple,Itanlian
+"61 Mcilwrick St, Windsor VIC 3181, Australia",Kardinia Church Church,-37.855939,144.996823,3181,Church/Temple,Itanlian
+"14 Acland St, St Kilda VIC 3182, Australia",Christ Church (Anglican),-37.8635987,144.9758403,3182,Church/Temple,Itanlian
+"2 Chapel St, St Kilda VIC 3182, Australia",All Saints' Anglican Church,-37.8582357,144.9925414,3182,Church/Temple,Itanlian
+"9 Pakington St, St Kilda VIC 3182, Australia",St Kilda Baptist Church,-37.866083,144.986975,3182,Church/Temple,Itanlian
+"58 Wilson St, Brighton VIC 3186, Australia",Brighton Church of Christ,-37.913188,145.001217,3186,Church/Temple,Itanlian
+"164 Bay St, Brighton VIC 3186, Australia",Brighton Baptist Church,-37.90508,144.997601,3186,Church/Temple,Itanlian
+"2 Wolseley Grove, Brighton VIC 3186, Australia",St Leonard's Uniting Church,-37.9261836,144.9946449,3186,Church/Temple,Itanlian
+"2/12 Chesterville Rd, Cheltenham VIC 3192, Australia",Southern Community Church of Christ,-37.962101,145.056824,3192,Church/Temple,Itanlian
+"99-101 Argus St, Cheltenham VIC 3192, Australia",Bayside church Church,-37.959779,145.07473,3192,Church/Temple,Itanlian
+"36 Harpley St, Cheltenham VIC 3192, Australia",Mentone Baptist Church,-37.974183,145.0724556,3192,Church/Temple,Itanlian
+"223-225 Balcombe Rd, Beaumaris VIC 3193, Australia",Beaumaris Baptist Church,-37.9794276,145.0475865,3193,Church/Temple,Itanlian
+"78 Dalgetty Rd, Beaumaris VIC 3193, Australia",Beaumaris-Black Rock Uniting Church,-37.9867175,145.0380681,3193,Church/Temple,Itanlian
+"90-92 Como Parade W, Mentone VIC 3194, Australia",St Augustines Anglican Church,-37.9862885,145.067604,3194,Church/Temple,Itanlian
+"176 Como Parade W, Parkdale VIC 3195, Australia",Parkdale Church of Christ,-37.9919913,145.0741022,3195,Church/Temple,Itanlian
+"Cnr Parkers Rd & Blanche Ave, Parkdale VIC 3195, Australia",St. David's Uniting Church,-37.9924826,145.0790212,3195,Church/Temple,Itanlian
+"12 McDonald St, Mordialloc VIC 3195, Australia",Mordialloc Presbyterian Church,-38.00482,145.0882065,3195,Church/Temple,Itanlian
+"13 Hi-Tech Pl, Seaford VIC 3198, Australia",Fire Church Church,-38.116244,145.138684,3198,Church/Temple,Itanlian
+"14 Heversham Dr, Seaford VIC 3198, Australia",Gateway Family Church,-38.111638,145.139995,3198,Church/Temple,Itanlian
+"Delacombe Park, Overport Road, Frankston South VIC 3199, Australia",Frankston Reformed Presbyterian Church,-38.162382,145.125832,3199,Church/Temple,Itanlian
+"26 High St, Frankston VIC 3199, Australia",Jubilee Church,-38.1483308,145.1192576,3199,Church/Temple,Itanlian
+"252 Frankston - Flinders Rd, Frankston VIC 3199, Australia",Peninsula City Church Church,-38.1783982,145.1374198,3199,Church/Temple,Itanlian
+"36 Radiata St, Frankston North VIC 3199, Australia",Frankston Presbyterian Church,-38.1175694,145.1548681,3199,Church/Temple,Itanlian
+"261 McKinnon Rd, McKinnon VIC 3204, Australia",Reformed Presbyterian Church,-37.911831,145.044545,3204,Church/Temple,Itanlian
+"261 McKinnon Rd, McKinnon VIC 3204, Australia",McKinnon Reformed Presbyterian Church,-37.911831,145.044545,3204,Church/Temple,Itanlian
+"261 McKinnon Rd, McKinnon VIC 3204, Australia",Reformed Presbyterian Church,-37.911831,145.044545,3204,Church/Temple,Itanlian
+"210 Dorcas St, South Melbourne VIC 3205, Australia",St Lukes Anglican Church,-37.832373,144.96106,3205,Church/Temple,Itanlian
+"76-84 Flinders Ave, Lara VIC 3212, Australia",Lifeway Christian Church,-38.017655,144.406099,3212,Church/Temple,Itanlian
+"12 Tarkin Ct, Bell Park VIC 3215, Australia",North Geelong Presbyterian Church,-38.0981859,144.3428723,3215,Church/Temple,Itanlian
+"1 Douro St, North Geelong VIC 3215, Australia",Pivot City Church Church,-38.1219325,144.3473597,3215,Church/Temple,Itanlian
+"4-32 Province Boulevard, Highton VIC 3216, Australia",Barrabool Hills Baptist Church,-38.1607352,144.3071841,3216,Church/Temple,Itanlian
+"94-96 Pioneer Rd, Grovedale VIC 3216, Australia",Grovedale Baptist Church,-38.2015593,144.3311372,3216,Church/Temple,Itanlian
+"48 Waurnvale Dr, Belmont VIC 3216, Australia",Waurn Ponds Community Church,-38.194621,144.322749,3216,Church/Temple,Itanlian
+"231 Pakington St, Geelong West VIC 3218, Australia",Geelong Christian Reformed Church,-38.145868,144.3470198,3218,Church/Temple,Itanlian
+"Crn Volum St and Shannon Ave Manifold Heights, Manifold Heights VIC 3218, Australia",Manifold Heights Baptist Church,-38.139042,144.33615,3218,Church/Temple,Itanlian
+"277 Church St, Hamlyn Heights VIC 3218, Australia",St Alban's Anglican Church,-38.1293539,144.3250392,3218,Church/Temple,Itanlian
+"230 McKillop St, East Geelong VIC 3219, Australia",St Matthew's Anglican Church,-38.1581653,144.3731156,3219,Church/Temple,Itanlian
+"69 McKillop St, Geelong VIC 3220, Australia",Fire Church Geelong,-38.1536623,144.3600775,3220,Church/Temple,Itanlian
+"45 Central Rd, Clifton Springs VIC 3222, Australia",Clifton Springs Baptist Church,-38.1629136,144.562207,3222,Church/Temple,Itanlian
+"276 Jetty Rd, Curlewis VIC 3222, Australia",Drysdale Community Church Church,-38.1793985,144.5499409,3222,Church/Temple,Itanlian
+"Portarlington Rd, Portarlington VIC 3223, Australia",Church By The Bay Church,-38.1247223,144.6304428,3223,Church/Temple,Itanlian
+"17 Tareeda Way, Ocean Grove VIC 3226, Australia",Peninsula Church of Christ,-38.2577521,144.5498094,3226,Church/Temple,Itanlian
+"TIA Hall, 12 Price, St Torquay VIC 3228, Australia",Bells Beach Christian Church,-38.335281,144.32055,3228,Church/Temple,Itanlian
+"25 Grossmans Rd, Torquay VIC 3228, Australia",Torquay Christian Fellowship Church,-38.323112,144.315371,3228,Church/Temple,Itanlian
+"35 Boston Rd, Torquay VIC 3228, Australia",Torquay Salvos Church,-38.3325496,144.3189218,3228,Church/Temple,Itanlian
+"Uniting Church Building,, Murch Cres, Anglesea VIC 3230, Australia",Anglesea Baptist Church,-38.405655,144.186997,3230,Church/Temple,Itanlian
+"103 Curdie St, Cobden VIC 3266, Australia",Christian Reformed Church,-38.3278709,143.0687478,3266,Church/Temple,Itanlian
+"3822 Cobden-Warrnambool Rd, Naringal VIC 3277, Australia",Naringal Baptist Church,-38.3961266,142.6941358,3277,Church/Temple,Itanlian
+"186 Raglan Parade, Warrnambool VIC 3280, Australia",Gateway Church of Christ,-38.3832099,142.5146802,3280,Church/Temple,Itanlian
+"200 Timor St, Warrnambool VIC 3280, Australia",Extreme Life Church,-38.384299,142.481097,3280,Church/Temple,Itanlian
+"25/33 Learmonth St, Portland VIC 3305, Australia",Portland Baptist Church,-38.3275823,141.5990323,3305,Church/Temple,Itanlian
+"1430 Western Hwy, Rockbank VIC 3335, Australia",Living Springs Baptist Church,-37.7478888,144.7171293,3335,Church/Temple,Itanlian
+"19 Claret Ash Blvd, Melton West VIC 3337, Australia",Melton Assembly of God Church,-37.667874,144.545078,3337,Church/Temple,Itanlian
+"1-5 West Melton Drive, Melton West VIC 3337, Australia",Melton Baptist Church,-37.6780696,144.5687012,3337,Church/Temple,Itanlian
+"55 Palmerston St, Melton VIC 3337, Australia",Melton Presbyterian Church,-37.6815195,144.582578,3337,Church/Temple,Itanlian
+"222 Main St, Bacchus Marsh VIC 3340, Australia",Bacchus Marsh Christian Church Church,-37.676301,144.442463,3340,Church/Temple,Itanlian
+"49 Lydiard St S, Ballarat Central VIC 3350, Australia",Ballarat Anglican Church,-37.5636298,143.8576949,3350,Church/Temple,Itanlian
+"17 Dawson St N, Ballarat Central VIC 3350, Australia",Ballarat Christian Fellowship Church,-37.5594398,143.8533425,3350,Church/Temple,Itanlian
+"316 Walker St., Ballarat North VIC 3350, Australia",Ballarat North Baptist Church,-37.541977,143.869176,3350,Church/Temple,Itanlian
+"121 Gillies St S, Ballarat Central VIC 3350, Australia",one2one Gillies Street Churchof Christ Church,-37.5660189,143.8162324,3350,Church/Temple,Itanlian
+"410 York St, Ballarat East VIC 3350, Australia",York Street Church of Christ Church,-37.5693382,143.880542,3350,Church/Temple,Itanlian
+"102 Eureka St, Ballarat Central VIC 3350, Australia",Ballarat City Church Church,-37.5672061,143.8690946,3350,Church/Temple,Itanlian
+"St Marys Anglican Church, 3512 Sunraysia Hwy, Lexton VIC 3352, Australia",St Marys Anglican Church,-37.277755,143.516983,3352,Church/Temple,Itanlian
+"St Marys Anglican Church, 3512 Sunraysia Hwy, Lexton VIC 3352, Australia",St Marys Anglican Church,-37.277755,143.516983,3352,Church/Temple,Itanlian
+"120 Yarrowee St, Sebastopol VIC 3356, Australia",Rise Christian Church Rise Christian,-37.593417,143.8438231,3356,Church/Temple,Itanlian
+"Church of Christ, 86 High St, Ararat VIC 3377, Australia",Ararat Church of Christ,-37.283312,142.935914,3377,Church/Temple,Itanlian
+"91 River Rd, Horsham VIC 3400, Australia",Horsham Church of Christ,-36.731903,142.2024403,3400,Church/Temple,Itanlian
+"289 Baillie St, Horsham VIC 3400, Australia",Southern Mallee CooperativeParish Church,-36.713536,142.196807,3400,Church/Temple,Itanlian
+"162 Baillie St, Horsham VIC 3400, Australia",Anglican Parish of Horsham Church,-36.711285,142.199714,3400,Church/Temple,Itanlian
+"162 Baillie St, Horsham VIC 3400, Australia",The Anglican Parish of Horsham Church,-36.711285,142.199714,3400,Church/Temple,Itanlian
+"17 Florence St, Horsham VIC 3402, Australia",Harvest Christian Church Church,-36.7033048,142.1860458,3402,Church/Temple,Itanlian
+"207 Gap Rd, Sunbury VIC 3429, Australia",Sunbury Baptist Church,-37.578582,144.702556,3429,Church/Temple,Itanlian
+"35 Aitken St, Gisborne VIC 3437, Australia",Faithworks Church,-37.487085,144.591977,3437,Church/Temple,Itanlian
+"66 Aitken St, Gisborne VIC 3437, Australia",Gisborne Presbyterian Church,-37.4902396,144.5900395,3437,Church/Temple,Itanlian
+"31 Saunders Rd, New Gisborne VIC 3438, Australia",Gisborne Church of Christ,-37.4696114,144.5977399,3438,Church/Temple,Itanlian
+"247 Station Rd, New Gisborne VIC 3438, Australia",House Of The Rock Church,-37.462099,144.5968475,3438,Church/Temple,Itanlian
+"43 Ebden St, Kyneton VIC 3444, Australia",Kyneton Baptist Church,-37.2471486,144.4504284,3444,Church/Temple,Itanlian
+"66 Blakeley Rd, Castlemaine VIC 3450, Australia",Castlemaine Church of Christ,-37.043649,144.227832,3450,Church/Temple,Itanlian
+"53/55 Guava St, Red Cliffs VIC 3496, Australia",Red Cliffs Church of Christ Church,-34.310145,142.191431,3496,Church/Temple,Itanlian
+"129 Tenth St, Mildura VIC 3500, Australia",Mildura Church of Christ,-34.187408,142.1580139,3500,Church/Temple,Itanlian
+"247 Eleventh St, Mildura VIC 3500, Australia",Anglican Parish of the Northern Mallee Church,-34.190067,142.157509,3500,Church/Temple,Itanlian
+"259 - 261 Eleventh St, Mildura VIC 3500, Australia",Heart Changing Church Church,-34.1877724,142.1537089,3500,Church/Temple,Itanlian
+"72 George St, Robinvale VIC 3549, Australia",Robinvale Church of Christ,-34.5866723,142.7768954,3549,Church/Temple,Itanlian
+"757 McIvor Hwy, Junortoun VIC 3550, Australia",Bendigo Baptist Church,-36.7680506,144.34503,3550,Church/Temple,Itanlian
+"35-41 Forest Street, Bendigo VIC 3550, Australia",Bendigo (St John's) Presbyterian Church,-36.758828,144.274917,3550,Church/Temple,Itanlian
+"42 Ophir St, Golden Square VIC 3555, Australia",Golden City Baptist (Ind.) Church,-36.7646225,144.2591696,3555,Church/Temple,Itanlian
+"Pakenham St & Sturt St, Echuca VIC 3564, Australia",Echuca Church of Christ,-36.1281062,144.754076,3564,Church/Temple,Itanlian
+"8/2 King St, Swan Hill VIC 3585, Australia",Swan Hill Church of Christ,-35.3305334,143.5564618,3585,Church/Temple,Itanlian
+"155 Verney Rd, Shepparton VIC 3630, Australia",Encounter Church,-36.3540578,145.4167853,3630,Church/Temple,Itanlian
+"9 Pine Rd, Shepparton VIC 3630, Australia",GV Christian Fellowship Church,-36.3559012,145.403161,3630,Church/Temple,Itanlian
+"155 Verney Rd, Shepparton VIC 3630, Australia",Shepparton AOG Church,-36.3540578,145.4167853,3630,Church/Temple,Itanlian
+"600 Wyndham St, Shepparton VIC 3630, Australia",Shepparton Baptist Church,-36.3978712,145.3949308,3630,Church/Temple,Itanlian
+"Great Alpine Rd, Wangaratta VIC 3677, Australia",Wangaratta Wesleyan Methodist Church,-36.3509115,146.3348884,3677,Church/Temple,Itanlian
+"154 Melrose Dr, Wodonga VIC 3690, Australia",Wodonga District Baptist Church,-36.1328495,146.8651467,3690,Church/Temple,Itanlian
+"87 Hansen St, Corryong VIC 3707, Australia",Corryong Baptist Church,-36.197095,147.902292,3707,Church/Temple,Itanlian
+"35 Ferres Blvd, South Morang VIC 3752, Australia",Planetshakers Church North Campus Church,-37.643673,145.068718,3752,Church/Temple,Itanlian
+"7 Commercial Dr, Wallan VIC 3756, Australia",Wallan Gateway Church,-37.4176184,145.00181,3756,Church/Temple,Itanlian
+"28 Forest St., Whittlesea VIC 3757, Australia",New Horizons Church,-37.511734,145.121374,3757,Church/Temple,Itanlian
+"28 Forest St., Whittlesea VIC 3757, Australia",New Horizons Church,-37.511734,145.121374,3757,Church/Temple,Itanlian
+"1 Lilydale Rd, Healesville VIC 3777, Australia",Liberty Family Church,-37.657605,145.509361,3777,Church/Temple,Itanlian
+"1139 Buxton-Marysville Rd, Marysville VIC 3779, Australia",the.Church Church,-37.508645,145.749749,3779,Church/Temple,Itanlian
+"3039 Warburton Hwy, Millgrove VIC 3799, Australia",River Valley Church Church,-37.755504,145.652106,3799,Church/Temple,Itanlian
+"Monash University Clayton Campus, 38 Exhibition Walk, Clayton VIC 3800, Australia",The Good Shepherd Australian Orthodox Mission Church,-37.911867,145.134207,3800,Church/Temple,Itanlian
+"58 Reema Blvd, Endeavour Hills VIC 3802, Australia",GraceWest Bible Church Church,-37.9739534,145.2736352,3802,Church/Temple,Itanlian
+"58 Reema Blvd, Endeavour Hills VIC 3802, Australia",Grace Community Bible Church Church,-37.9739534,145.2736352,3802,Church/Temple,Itanlian
+"2-8 Gleneagles Dr, Endeavour Hills VIC 3802, Australia",South Eastern Christian Centre Church,-37.9667706,145.2635937,3802,Church/Temple,Itanlian
+"11 Eastlink Dr, Hallam VIC 3803, Australia",Life to the Nations Christian Fellowship Church,-38.013003,145.256112,3803,Church/Temple,Itanlian
+"426 Princes Hwy, Narre Warren VIC 3805, Australia",Casey City Church Church,-38.025455,145.3065564,3805,Church/Temple,Itanlian
+"4/37B Fordholm Rd, Hampton Park VIC 3805, Australia",Casey Life Church,-38.0348584,145.2646884,3805,Church/Temple,Itanlian
+"432-446 Centre Rd, Berwick VIC 3806, Australia",Berwick Church of Christ,-38.048675,145.335825,3806,Church/Temple,Itanlian
+"Timbarra Hall, Timbarra Way, Berwick VIC 3806, Australia",Anchor Baptist Church,-38.02464,145.326084,3806,Church/Temple,Itanlian
+"55 Peel St, Berwick VIC 3806, Australia",Berwick Anglican Church,-38.0315392,145.3538078,3806,Church/Temple,Itanlian
+"432-446 Centre Rd, Berwick VIC 3806, Australia",Berwick Vineyard Church,-38.048675,145.335825,3806,Church/Temple,Itanlian
+"54-60 Intrepid St, Berwick VIC 3806, Australia",Winepress Church,-38.0366292,145.3369305,3806,Church/Temple,Itanlian
+"Beaconsfield Community Centre, Oneil Rd, Beaconsfield VIC 3807, Australia",Friends First Church Church,-38.0523143,145.380088,3807,Church/Temple,Itanlian
+"7 Desmond Ct, Beaconsfield VIC 3807, Australia",Beaconsfield Baptist Church,-38.053413,145.375852,3807,Church/Temple,Itanlian
+"LOT 1 Army Rd, Pakenham VIC 3810, Australia",Cardinia Christian Centre Church,-38.053111,145.499037,3810,Church/Temple,Itanlian
+"Cnr Church St & Winters Ave, Drouin VIC 3818, Australia",Drouin Presbyterian Church,-38.1364741,145.8542086,3818,Church/Temple,Itanlian
+"155 Bowen St, Warragul VIC 3820, Australia",Warragul Church Of Christ,-38.145458,145.9292277,3820,Church/Temple,Itanlian
+"69 Sutton St, Warragul VIC 3820, Australia",Rope Factory Church Church,-38.1506701,145.927126,3820,Church/Temple,Itanlian
+"36 George St, Moe VIC 3825, Australia",Gippsland Christian Church Church,-38.17589,146.262,3825,Church/Temple,Itanlian
+"69 Princes Dr, Morwell VIC 3840, Australia",Eternity Church,-38.23269,146.384809,3840,Church/Temple,Itanlian
+"50 Church St, Morwell VIC 3840, Australia",Morwell Presbyterian Church,-38.234675,146.400107,3840,Church/Temple,Itanlian
+"80 Henry St, Traralgon VIC 3844, Australia",Now Church Church,-38.1969946,146.5222647,3844,Church/Temple,Itanlian
+"453 Raymond St, Sale VIC 3850, Australia",Anglican Diocese of Gippsland Church,-38.103816,147.064965,3850,Church/Temple,Itanlian
+"Princes Hwy & Cobains Rd, Sale VIC 3850, Australia",Sale Baptist Church,-38.0854008,147.0692395,3850,Church/Temple,Itanlian
+"103 Bairnsdale-Dargo Rd, Bairnsdale VIC 3875, Australia",Bairnsdale church of Christ Church,-37.8409686,147.576981,3875,Church/Temple,Itanlian
+"90 Jones Rd, Eagle Point VIC 3878, Australia",Oikos Home Churches Church,-37.9175282,147.6736683,3878,Church/Temple,Itanlian
+"141 Princes Hwy, Lakes Entrance VIC 3909, Australia",Lakes Entrance Baptist Church,-37.8649222,148.0203816,3909,Church/Temple,Itanlian
+"185 North Rd, Langwarrin VIC 3910, Australia",Langwarrin Pearcedale Anglican Church,-38.164565,145.189363,3910,Church/Temple,Itanlian
+"99 The Crescent, Tyabb VIC 3913, Australia",Western Port Christian Family Church,-38.2611304,145.1914243,3913,Church/Temple,Itanlian
+"370 Craigie Rd, Mount Martha VIC 3934, Australia",New Peninsula Church,-38.265132,145.068079,3934,Church/Temple,Itanlian
+"4 Mine Rd, Korumburra VIC 3950, Australia",Southern Hills AOG Church,-38.4344404,145.8249659,3950,Church/Temple,Itanlian
+"195 Hallam Rd, Lynbrook VIC 3975, Australia",United Pentecostal Church Church,-38.0454493,145.2640349,3975,Church/Temple,Itanlian
+"49-51 Cameron St, Cranbourne East VIC 3977, Australia",Deeper Christian Life Ministry Church,-38.1158543,145.2891115,3977,Church/Temple,Itanlian
+"129 Sladen St, Cranbourne VIC 3977, Australia",St Agathas Parish Church,-38.1118925,145.2784449,3977,Church/Temple,Itanlian
+"69 Wadhurst Dr, Boronia VIC 3155, Australia","Shree Swaminarayan Temple, Boronia VIC,Australia",-37.866798,145.2540021,3155,Church/Temple,Hindu
+"60 Heaths Ct, Mill Park VIC 3082, Australia","BAPS Swami Narayan Temple, Mill park VIC,Australia",-37.6570856,145.0834525,3082,Church/Temple,Hindu
+"76 Albert St, Mordialloc VIC 3195, Australia","Aumsai Sanstan Temple VIC,Australia",-38.0081363,145.0883334,3195,Church/Temple,Hindu
+"3-5 Princes Domain Dr, Hallam VIC 3803, Australia",Vaishnav Sangh Shreenathji Temple,-38.004326,145.265185,3803,Church/Temple,Hindu
+"32 Halley Ave, Camberwell VIC 3124, Australia",Shree Shirdi Sai Mandir ,-37.8469399,145.0723683,3124,Church/Temple,Hindu
+"52 Boundary Rd, Carrum Downs VIC 3201, Australia",Shri Shiva Vishnu Temple,-38.0832725,145.1774165,3201,Church/Temple,Hindu
+"23 David St, Brunswick VIC 3056, Australia",Melbourne Buddhist Centre ,-37.7704587,144.9622555,3056,Church/Temple,Hindu
+"25 McCarthy Rd, Monbulk VIC 3793, Australia",Kadampa Meditation Centre ,-37.863707,145.396971,3793,Church/Temple,Hindu
+"Magpie Ln, East Warburton VIC 3799, Australia",Buddha Bodhivana Monastery ,-37.7299064,145.7634887,3799,Church/Temple,Mandarin
+"536-540 Springvale Rd, Springvale VIC 3171, Australia",Bright Moon Buddhist Society ,-37.9740937,145.1472259,3171,Church/Temple,Mandarin
+"329-335 Greens Rd, Keysborough VIC 3173, Australia",Dhamma Sarana Temple ,-38.010066,145.1804988,3173,Church/Temple,Mandarin
+"42 Rutland Rd, Box Hill VIC 3128, Australia",Fo Guang Shan Er You Temple,-37.8203013,145.126442,3128,Church/Temple,Mandarin
+"20 Joseph Rd, Footscray VIC 3011, Australia",Heavenly Queen Temple ,-37.7987173,144.9141892,3011,Church/Temple,Mandarin

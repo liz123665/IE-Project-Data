@@ -1,0 +1,44 @@
+,accuracy,formatted_address,google_place_id,input_string,latitude,longitude,number_of_results,postcode,status,
+0,ROOFTOP,"Bayside Secondary College, 29-69 Kororoit Creek Rd, Williamstown VIC 3016, Australia",ChIJd8wjj8hm1moRdo25pGap6RQ,"Bayside Secondary College VIC,Australia",-37.8574729,144.8834646,1,3016,OK,Altona North Language School
+1,ROOFTOP,"1726 Sturt Street West, Alfredton VIC 3350, Australia",ChIJmWx_Q3tD0WoRaAt7MIFTUrY,"Ballarat High School VIC,Australia",-37.5542574,143.8177157,1,3350,OK,Ballarat Language School
+2,GEOMETRIC_CENTER,"Ellis St, Flora Hill VIC 3550, Australia",ChIJKdqCPodZ12oRBUVq-ynHicQ,"Bendigo South East College VIC,Australia",-36.7759793,144.2977128,1,3550,OK,Bendigo Language School
+3,GEOMETRIC_CENTER,"Manuka Rd, Berwick VIC 3806, Australia",ChIJ1dCSEnoZ1moRF_jI4Hl0wNk,"Berwick College VIC,Australia",-38.031117,145.363455,1,3806,OK,Berwick Language School
+4,ROOFTOP,"58/62 Springfield Rd, Blackburn North VIC 3130, Australia",ChIJ-69on7o41moRROGTpu30zpM,"Blackburn High School VIC,Australia",-37.8110469,145.1502729,1,3130,OK,Blackburn Language School
+5,ROOFTOP,"1180 Whitehorse Rd, Box Hill VIC 3128, Australia",ChIJKZ7QK65A1moRmDc8E0MfwcI,"Box Hill High School VIC,Australia",-37.8205681,145.1374574,1,3128,OK,Box Hill Language School
+6,ROOFTOP,"65-71 Watsons Rd, Glen Waverley VIC 3150, Australia",ChIJ62Gy5dg_1moRyv5VeIwn_qo,"Brentwood Secondary College VIC,Australia",-37.8989726,145.1670996,1,3150,OK,Brentwood Language School
+7,ROOFTOP,"47 Dawson St, Melbourne VIC 3056, Australia",ChIJbcS5b7Zc1moRoHkzKXoBRZk,"Brunswick Secondary College VIC,Australia",-37.7710134,144.9553361,1,3056,OK,Brunswick Language School
+8,GEOMETRIC_CENTER,"The Crossing, Caroline Springs VIC 3023, Australia",ChIJO-fmkeD01moRgjllIA5UBLg,"Creekside College VIC,Australia",-37.7344311,144.7379404,2,3023,OK,Caroline Springs Language School
+9,ROOFTOP,"88 Rosebank Ave, Clayton South VIC 3169, Australia",ChIJkZ7akjNr1moR71GFBeDcM0g,"Westall Secondary College VIC,Australia",-37.9403467,145.1365672,1,3169,OK,Clayton South (Westall) Language School
+10,ROOFTOP,"Cobram Secondary College, 25-47 Warkil St, Cobram VIC 3644, Australia",ChIJkWa-OmmtIGsR1J7xq0NCTFY,"Cobram Secondary College VIC,Australia",-35.9135134,145.6543131,1,3644,OK,Cobram Language School
+11,GEOMETRIC_CENTER,"Cromwell St & McCutcheon Way, Abbotsford VIC 3067, Australia",ChIJqT0RdOJC1moR7JmfzJfZnN0,"Collingwood College VIC,Australia",-37.80322,144.9900517,1,3067,OK,Collingwood College Language School
+12,ROOFTOP,"2-30 Hampton St, Craigieburn VIC 3064, Australia",ChIJhfPVyjZS1moRDw3zwO9mE7g,"Mount Ridley College VIC,Australia",-37.5792286,144.9220477,1,3064,OK,Craigieburn Language School
+13,ROOFTOP,"20 Brentnall Rd, Croydon VIC 3136, Australia",ChIJr09xWps61moREfc4bj0eTV4,"Melba College VIC,Australia",-37.796098,145.26145,2,3136,OK,Croydon (Melba College) Language School
+14,ROOFTOP,"92-106 Princes Hwy, Dandenong VIC 3175, Australia",ChIJ19ngkhAU1moR862iCpFW5zA,"Dandenong High School VIC,Australia",-37.9791115,145.2083105,1,3175,OK,Dandenong Language School
+15,ROOFTOP,"315 Clarendon St, Thornbury VIC 3071, Australia",ChIJq6qqqmNE1moRPT4k_-U-LJ8,"Victorian School of Languages VIC,Australia",-37.761857,145.025989,1,3071,OK,Distance Education Language School
+16,ROOFTOP,"20 George St, Doncaster East VIC 3109, Australia",ChIJX1m1Z2A41moRfafe8G8cIr0,"Doncaster Secondary College VIC,Australia",-37.7824708,145.1589454,1,3109,OK,Doncaster Language School
+17,GEOMETRIC_CENTER,"McDonalds Rd, Epping VIC 3076, Australia",ChIJg4aj3LJO1moRwtVGmTAi6pQ,"Epping Secondary College VIC,Australia",-37.6437079,145.0339083,1,3076,OK,Epping Language School
+18,ROOFTOP,"1 Kinnear St, Footscray VIC 3011, Australia",ChIJxcjHAetd1moRmLwdibraT9g,"Footscray City College VIC,Australia",-37.790483,144.89434,1,3011,OK,Footscray City Language School
+19,GEOMETRIC_CENTER,"Little Ryrie St, Geelong VIC 3220, Australia",ChIJdYZPywUU1GoRZN6xqt9Vuv0,"Matthew Flinders Girls?? Secondary College VIC,Australia",-38.1493266,144.3533417,1,3220,OK,Geelong (Matthew Flinders) Language School
+20,GEOMETRIC_CENTER,"Gisborne Melton Rd, Gisborne VIC 3437, Australia",ChIJ05mV7aTk1moRzUcuuRaEJVc,"Gisborne Secondary College VIC,Australia",-37.4982909,144.5850081,1,3437,OK,Gisborne Language School
+21,GEOMETRIC_CENTER,"O'sullivan Rd, Glen Waverley VIC 3150, Australia",ChIJSbj2B78_1moRAbMRjES7Drc,"Glen Waverley Secondary College VIC,Australia",-37.8776501,145.1623858,1,3150,OK,Glen Waverley Language School
+22,ROOFTOP,"58-96 Fordholm Rd, Hampton Park VIC 3976, Australia",ChIJf1aP9w8R1moReTYIDEyWHrw,"Hampton Park Secondary College VIC,Australia",-38.035553,145.2593781,1,3976,OK,Hampton Park Language School
+23,ROOFTOP,"100-110 Odessa Ave, Keilor Downs VIC 3038, Australia",ChIJHbOD9Dlf1moRZ0PBapUNuqQ,"Keilor Downs College VIC,Australia",-37.7154254,144.8119995,1,3038,OK,Keilor Downs Language School
+24,ROOFTOP,"Haileybury College, 138 High St, Berwick VIC 3806, Australia",ChIJg3OD1NUb1moRjoFL7s0458M,"Haileybury College VIC,Australia",-38.0432476,145.3638133,2,3806,OK,Keysborough (Haileybury College) Language School
+25,ROOFTOP,"118 David St, Lalor VIC 3075, Australia",ChIJg-QPvBlP1moRFnzbV_WfTIM,"Lalor Secondary College VIC,Australia",-37.6729904,145.0290793,1,3075,OK,Lalor Language School
+26,ROOFTOP,"291a McKinnon Rd, McKinnon VIC 3204, Australia",ChIJnf9L0Gdp1moRlvAt9dfsirQ,"McKinnon Secondary College VIC,Australia",-37.9122305,145.0486484,1,3204,OK,McKinnon Language School
+27,ROOFTOP,"26-46 Wilson Rd, Melton VIC 3337, Australia",ChIJTSBqstmS1moRmlsdP9MjFuw,"Staughton College VIC,Australia",-37.707384,144.5686161,1,3337,OK,Melton Language School
+28,GEOMETRIC_CENTER,"Fourteenth St & Deakin Avenue, Mildura VIC 3500, Australia",ChIJBYDn1HgEw2oR4BRDFKV5BQ8,"Mildura Senior College VIC,Australia",-34.1977663,142.1441869,1,3500,OK,Mildura Language School
+29,ROOFTOP,"43/81 Browns Rd, Noble Park North VIC 3174, Australia",ChIJSYZ9p00U1moRvZp3-VUVLHw,"Carwatha College P-12 VIC,Australia",-37.9423877,145.1899037,1,3174,OK,Noble Park (Carwatha College) Language School
+30,ROOFTOP,"130 Separation St, North Geelong VIC 3215, Australia",ChIJfXy35DER1GoRrf29QZ71O4c,"North Geelong Secondary College VIC,Australia",-38.1095646,144.3407233,1,3215,OK,North Geelong Language School
+31,ROOFTOP,"77 Story St, Parkville VIC 3052, Australia",ChIJ2cyxDSxd1moRO9epscTiKWg,"University High School VIC,Australia",-37.797466,144.956067,2,3052,OK,Parkville (University HS) Language School
+32,ROOFTOP,"23 Bergamot Dr, Point Cook VIC 3030, Australia",ChIJgb8LdZ2I1moR8ZBi4Y8Qosg,"Point Cook Senior Secondary College VIC,Australia",-37.8875777,144.7337238,2,3030,OK,Point Cook Language School
+33,ROOFTOP,"60/70 Donald Cameron Dr, Roxburgh Park VIC 3064, Australia",ChIJmQNh67JR1moRBC6oP08Ia9A,"Roxburgh College VIC,Australia",-37.6317113,144.9299742,1,3064,OK,Roxburgh Language School
+34,ROOFTOP,"31-71 Hawdon St, Shepparton VIC 3630, Australia",ChIJTWgKFpKD2GoRIZAtNCadDmk,"Shepparton High School VIC,Australia",-36.3725358,145.4160152,1,3630,OK,Shepparton Language School
+35,GEOMETRIC_CENTER,"Bakers Rd, Oakleigh South VIC 3167, Australia",ChIJVb_jJKZr1moR1QT3wnu1oyc,"South Oakleigh Secondary College VIC,Australia",-37.9222441,145.0908995,1,3167,OK,South Oakleigh Language School
+36,ROOFTOP,"25 Lachlan Rd, Sunshine West VIC 3020, Australia",ChIJ-eSKwW5g1moRBf3ZEHkQa1c,"Sunshine Secondary College VIC,Australia",-37.7927837,144.8141194,1,3020,OK,Sunshine Language School
+37,ROOFTOP,"1-39 Parmelia Dr, Taylors Lakes VIC 3038, Australia",ChIJe_MA0Fdf1moRk00WJPWU0j0,"Taylors Lakes Secondary College VIC,Australia",-37.707354,144.794398,1,3038,OK,Taylors Lakes Language School
+38,ROOFTOP,"80-96 Main St, Thomastown VIC 3074, Australia",ChIJLQ3_NZlP1moRIwfEaT5gebA,"Thomastown Secondary College VIC,Australia",-37.6785134,145.003084,1,3074,OK,Thomastown Language School
+39,ROOFTOP,"30-44 Grey St, Traralgon VIC 3844, Australia",ChIJt7TY2CIYKWsRF_vm4APyo00,"Grey Street Primary School VIC,Australia",-38.1927424,146.5368301,1,3844,OK,Traralgon Language School
+40,GEOMETRIC_CENTER,"Grafton Rd, Warrnambool VIC 3280, Australia",ChIJOwWkV7dNzWoRdLxqqnAy9GI,"Warrnambool College VIC,Australia",-38.377042,142.500214,1,3280,OK,Warrnambool Language School
+41,ROOFTOP,"225 Hoppers Ln, Werribee VIC 3030, Australia",ChIJ3zcM7aqI1moRtzgSmkd96sE,"Suzanne Cory High School VIC,Australia",-37.8935671,144.700048,1,3030,OK,Werribee (Suzanne Cory HS) Language School
+42,ROOFTOP,"80 Brockley St, Wodonga VIC 3690, Australia",ChIJc7ds_vxYIWsRIg2oS5zLGoU,"Wodonga M.Y College VIC,Australia",-36.1273437,146.8810619,1,3690,OK,Wodonga 

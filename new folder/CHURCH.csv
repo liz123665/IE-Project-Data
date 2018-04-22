@@ -1,0 +1,444 @@
+formatted_address,input_string,latitude,longitude,postcode,name,Type 
+"170 Rindge Ave, Cambridge, MA 02140, USA","Reservoir Christian Fellowship Church VIC,Australia",42.3924439,-71.131153,2140,Reservoir Christian Fellowship Church,Christian
+"209 Flinders Ln, Melbourne VIC 3000, Australia","Anglican Diocese of Melbourne Church VIC,Australia",-37.8163569,144.9678441,3000,Anglican Diocese of Melbourne Church,Christian
+"Ground Floor 262 Queen Street, Melbourne VIC 3000, Australia","City on a Hill Church VIC,Australia",-37.812421,144.959797,3000,City on a Hill Church,Christian
+"174 Collins St, Melbourne VIC 3000, Australia","Collins St. Baptist Church VIC,Australia",-37.8147769,144.967508,3000,Collins St. Baptist Church,Christian
+"333 Swanston St, Melbourne VIC 3000, Australia","CrossCulture Church VIC,Australia",-37.810456,144.963985,3000,CrossCulture Church,Christian
+"156 Collins St, Melbourne VIC 3000, Australia","Scots Presbyterian Church VIC,Australia",-37.8146055,144.9685126,3000,Scots Presbyterian Church,Christian
+"Flinders Ln & Swanston St, Melbourne VIC 3000, Australia","St Paul's Anglican Cathedral Church VIC,Australia",-37.817029,144.967687,3000,St Paul's Anglican Cathedral Church,Christian
+"148 Lonsdale St, Melbourne VIC 3000, Australia","Wesley Church Church VIC,Australia",-37.810301,144.968247,3000,Wesley Church Church,Christian
+"156 Collins St, Melbourne VIC 3000, Australia","West Footscray Presbyterian Church VIC,Australia",-37.8146256,144.9681937,3000,West Footscray Presbyterian Church,Christian
+"156 Collins St, Melbourne VIC 3000, Australia","Flemington Presbyterian Church VIC,Australia",-37.8146055,144.9685126,3000,Flemington Presbyterian Church,Christian
+"Ground Floor 262 Queen Street, Melbourne VIC 3000, Australia","City on a Hill Church VIC,Australia",-37.812421,144.959797,3000,City on a Hill Church,Christian
+"120 Collins St, Melbourne VIC 3000, Australia","St. Michaels Church VIC,Australia",-37.8142665,144.9696592,3000,St. Michaels Church,Christian
+"156 Collins St, Melbourne VIC 3000, Australia","Indonesian Baptist Congregation Fellowship Church VIC,Australia",-37.814644,144.96815,3000,Indonesian Baptist Congregation Fellowship Church,Christian
+"Athenaeum Theatre, 188 Collins St, Melbourne VIC 3000, Australia","Hillsong Melbourne Church VIC,Australia",-37.814868,144.9672932,3000,Hillsong Melbourne Church,Christian
+"156 Collins St, Melbourne VIC 3000, Australia","Elwood Presbyterian Church VIC,Australia",-37.8146256,144.9681937,3000,Elwood Presbyterian Church,Christian
+"Ground Floor 262 Queen Street, Melbourne VIC 3000, Australia","City on a Hill Church VIC,Australia",-37.812421,144.959797,3000,City on a Hill Church,Christian
+"209 Flinders Ln, Melbourne VIC 3000, Australia","Anglican Parish Church VIC,Australia",-37.8163569,144.9678441,3000,Anglican Parish Church,Christian
+"156 Collins St, Melbourne VIC 3000, Australia","Evangelical Presbyterian Church VIC,Australia",-37.8146256,144.9681937,3000,Evangelical Presbyterian Church,Christian
+"500 Collins St, Melbourne VIC 3000, Australia","Exchange Church Church VIC,Australia",-37.8178471,144.957636,3000,Exchange Church Church,Christian
+"209 Flinders Ln, Melbourne VIC 3000, Australia","Anglican Parish Church VIC,Australia",-37.8163569,144.9678441,3000,Anglican Parish Church,Christian
+"193 Hotham St, East Melbourne VIC 3002, Australia","Holy Trinity Anglican Church VIC,Australia",-37.814255,144.983619,3002,Holy Trinity Anglican Church,Christian
+"176 Simpson St, East Melbourne VIC 3002, Australia","St Nicholas Antiochian Orthodox Church VIC,Australia",-37.8103722,144.9891931,3002,St Nicholas Antiochian Orthodox Church,Christian
+"15 Gisborne St, East Melbourne VIC 3002, Australia","St Peter's Anglican Church VIC,Australia",-37.8097641,144.9751564,3002,St Peter's Anglican Church,Christian
+"193 Hotham St, East Melbourne VIC 3002, Australia","Holy Trinity Anglican Church VIC,Australia",-37.814255,144.983619,3002,Holy Trinity Anglican Church,Christian
+"193 Hotham St, East Melbourne VIC 3002, Australia","Holy Trinity Anglican Parish Church VIC,Australia",-37.814255,144.983619,3002,Holy Trinity Anglican Parish Church,Christian
+"193 Hotham St, East Melbourne VIC 3002, Australia","Holy Trinity Anglican Church VIC,Australia",-37.814255,144.983619,3002,Holy Trinity Anglican Church,Christian
+"193 Hotham St, East Melbourne VIC 3002, Australia","Holy Trinity Anglican Church VIC,Australia",-37.814255,144.983619,3002,Holy Trinity Anglican Church,Christian
+"33 Howard St, West Melbourne VIC 3003, Australia","Melbourne West Church VIC,Australia",-37.805901,144.952862,3003,Melbourne West Church,Christian
+"400 City Rd, Southbank VIC 3006, Australia","Planetshakers Church VIC,Australia",-37.8292387,144.9557145,3006,Planetshakers Church,Christian
+"20 City Rd, Southbank VIC 3006, Australia","St Johns Southgate Lutheran Church VIC,Australia",-37.8206506,144.9669925,3006,St Johns Southgate Lutheran Church,Christian
+"400 City Rd, Southbank VIC 3006, Australia","Planetshakers Church Melbourne City Campus Church VIC,Australia",-37.8292387,144.9557145,3006,Planetshakers Church Melbourne City Campus Church,Christian
+"400 City Rd, Southbank VIC 3006, Australia","Planetshakers City Church VIC,Australia",-37.8292387,144.9557145,3006,Planetshakers City Church,Christian
+"29-37 Ballantyne St, South Melbourne VIC 3006, Australia","Bethany International Church VIC,Australia",-37.829305,144.957275,3006,Bethany International Church,Christian
+"252 Gordon St, Footscray VIC 3011, Australia","Footscray Church of Christ VIC,Australia",-37.7974357,144.888167,3011,Footscray Church of Christ,Christian
+"252 Gordon St, Footscray VIC 3011, Australia","Citigate Church VIC,Australia",-37.797465,144.8880441,3011,Citigate Church,Christian
+"60 Paisley St, Footscray VIC 3011, Australia","Footscray Baptist Church VIC,Australia",-37.8002276,144.8952984,3011,Footscray Baptist Church,Christian
+"302 Barkly St, Footscray VIC 3011, Australia","St Columba's Uniting Church VIC,Australia",-37.7988541,144.8939246,3011,St Columba's Uniting Church,Christian
+"Yarraville VIC 3013, Australia","Westgate Baptist Church VIC,Australia",-37.8161884,144.8805003,3013,Westgate Baptist Church,Christian
+"26 Mason St, Newport VIC 3015, Australia","Newport Baptist Church VIC,Australia",-37.8420547,144.8810005,3015,Newport Baptist Church,Christian
+"43 Paxton St, South Kingsville VIC 3015, Australia","C3 Church VIC,Australia",-37.829152,144.870197,3015,C3 Church,Christian
+"43 Paxton St, South Kingsville VIC 3015, Australia","C3 Church VIC,Australia",-37.829152,144.870197,3015,C3 Church,Christian
+"43 Paxton St, South Kingsville VIC 3015, Australia","C3 Church VIC,Australia",-37.829152,144.870197,3015,C3 Church,Christian
+"1/100 Champion Rd, Newport VIC 3015, Australia","Langwarrin Vineyard Church VIC,Australia",-37.849451,144.875844,3015,Langwarrin Vineyard Church,Christian
+"119 Douglas Parade, Williamstown VIC 3016, Australia","Williamstown Church of Christ VIC,Australia",-37.854861,144.897094,3016,Williamstown Church of Christ,Christian
+"8 Electra St, Williamstown VIC 3016, Australia","Williamstown Gospel Mission Church VIC,Australia",-37.8632636,144.8989724,3016,Williamstown Gospel Mission Church,Christian
+"87 Cecil St, Williamstown VIC 3016, Australia","Willlamstown Presbyterian Church VIC,Australia",-37.865315,144.9034802,3016,Willlamstown Presbyterian Church,Christian
+"14 Sargood St, Altona VIC 3018, Australia","Altona Baptist Church VIC,Australia",-37.8686146,144.8291259,3018,Altona Baptist Church,Christian
+"14 Sargood St, Altona VIC 3018, Australia","Altona Baptist Church VIC,Australia",-37.8686146,144.8291259,3018,Altona Baptist Church,Christian
+"12A Sun Cres, Sunshine VIC 3020, Australia","Cloud Christian Church Church VIC,Australia",-37.7875337,144.8307099,3020,Cloud Christian Church Church,Christian
+"8 Watt St, Sunshine VIC 3020, Australia","Hope of Life Community Church Church VIC,Australia",-37.789061,144.829806,3020,Hope of Life Community Church Church,Christian
+"41 Lance Rd, Sunshine North VIC 3020, Australia","Enjoy Church VIC,Australia",-37.7613606,144.8430302,3020,Enjoy Church,Christian
+"120 Anderson Rd, Sunshine VIC 3020, Australia","Sunshine Presbyterian Church VIC,Australia",-37.7840854,144.8278072,3020,Sunshine Presbyterian Church,Christian
+"95 Alfrieda St, St Albans VIC 3021, Australia","GROW Church VIC,Australia",-37.73798,144.801553,3021,GROW Church,Christian
+"3 W Esplanade, St Albans VIC 3021, Australia","(Croatian) Seventh-day Adventist Church VIC,Australia",-37.742811,144.797679,3021,(Croatian) Seventh-day Adventist Church,Christian
+"18 Alexina St, St Albans VIC 3021, Australia","Parish of St Alban the Martyr Church VIC,Australia",-37.739348,144.798288,3021,Parish of St Alban the Martyr Church,Christian
+"28/39 Eucumbene Dr, Ravenhall VIC 3023, Australia","Faith Christian Community Church VIC,Australia",-37.7604345,144.7445643,3023,Faith Christian Community Church,Christian
+"23 Lexington Dr, Burnside VIC 3023, Australia","Lake Caroline Community Church Church VIC,Australia",-37.744885,144.752407,3023,Lake Caroline Community Church Church,Christian
+"115 Kerferd Rd, Albert Park VIC 3026, Australia","Albert Park/Port Melbourne Baptist Church VIC,Australia",-37.8462299,144.9551127,3026,Albert Park/Port Melbourne Baptist Church,Christian
+"68-72 Nelson Ave, Altona VIC 3028, Australia","Altona Evangelical Church Church VIC,Australia",-37.880385,144.778968,3028,Altona Evangelical Church Church,Christian
+"61 Central Ave, Altona Meadows VIC 3028, Australia","Altona Meadows/Laverton Uniting Church VIC,Australia",-37.8713621,144.7716416,3028,Altona Meadows/Laverton Uniting Church,Christian
+"15 Perkins Ave, Hoppers Crossing VIC 3029, Australia","Connect City Church West Church VIC,Australia",-37.867193,144.691324,3029,Connect City Church West Church,Christian
+"37-43 Graham Ct, Hoppers Crossing VIC 3029, Australia","Destiny Centre Church VIC,Australia",-37.873808,144.729314,3029,Destiny Centre Church,Christian
+"147-155 Hogans Rd, Hoppers Crossing VIC 3029, Australia","South West Christian Church VIC,Australia",-37.8628669,144.6835738,3029,South West Christian Church,Christian
+"152-154 Bellbridge Drive, Hoppers Crossing VIC 3029, Australia","Suburban Baptist Church VIC,Australia",-37.8658658,144.7117248,3029,Suburban Baptist Church,Christian
+"116-120 Black Forest Rd, Wyndham Vale VIC 3030, Australia","Wyndham Presbyterian Church VIC,Australia",-37.900867,144.6253709,3030,Wyndham Presbyterian Church,Christian
+"Point Cook Senior Secondary College, Boardwalk Blvd & Bergamot Drive, Point Cook VIC 3030, Australia","Lightpoint Church VIC,Australia",-37.887433,144.733617,3030,Lightpoint Church,Christian
+"Raaf Base Chapel, Point Cook Road, Point Cook VIC 3030, Australia","Point Cook Presbyterian Church VIC,Australia",-37.9244378,144.7488743,3030,Point Cook Presbyterian Church,Christian
+"225 Heaths Rd, Werribee VIC 3030, Australia","Werribee Baptist Church VIC,Australia",-37.877851,144.6821771,3030,Werribee Baptist Church,Christian
+"200 Tarneit Rd, Werribee VIC 3030, Australia","Church of Christ Church VIC,Australia",-37.8830629,144.6626053,3030,Church of Christ Church,Christian
+"12 Brighton St, Flemington VIC 3031, Australia","Newmarket Baptist Church VIC,Australia",-37.785458,144.930295,3031,Newmarket Baptist Church,Christian
+"60 Maribyrnong Rd, Ascot Vale VIC 3032, Australia","Ascot Vale Uniting Church VIC,Australia",-37.7720309,144.9221698,3032,Ascot Vale Uniting Church,Christian
+"97 Quinn Grove, Keilor East VIC 3033, Australia","Evangelical Christian Church Church VIC,Australia",-37.739698,144.8693181,3033,Evangelical Christian Church Church,Christian
+"350 Calder Park Dr, Sydenham VIC 3037, Australia","Sydenham Baptist Church VIC,Australia",-37.700806,144.756603,3037,Sydenham Baptist Church,Christian
+"1 Taylors Lakes VIC 3038 Victoria, Station St, Taylors Lakes VIC 3038, Australia","Brimbank Presbyterian Church VIC,Australia",-37.700128,144.77428,3038,Brimbank Presbyterian Church,Christian
+"760 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia","Anglican Parish of St Thomas Church VIC,Australia",-37.7653157,144.9247005,3039,Anglican Parish of St Thomas Church,Christian
+"820 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia","Essendon PresbyterianMoonee Ponds Church VIC,Australia",-37.7598643,144.9214185,3039,Essendon PresbyterianMoonee Ponds Church,Christian
+"45 Eglinton St, Moonee Ponds VIC 3039, Australia","Moonee Ponds Baptist Church VIC,Australia",-37.7691774,144.9162382,3039,Moonee Ponds Baptist Church,Christian
+"760 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia","The Anglican Parish Church VIC,Australia",-37.7653157,144.9247005,3039,The Anglican Parish Church,Christian
+"5 Price St, Essendon VIC 3040, Australia","Aberfeldie Baptist Church VIC,Australia",-37.753547,144.893907,3040,Aberfeldie Baptist Church,Christian
+"134 - 138 Buckley St, Essendon VIC 3040, Australia","Essendon Baptist Community Church VIC,Australia",-37.756332,144.913516,3040,Essendon Baptist Community Church,Christian
+"80 Harrick Rd, Keilor Park VIC 3042, Australia","Keilor City Church Church VIC,Australia",-37.724357,144.84738,3042,Keilor City Church Church,Christian
+"49 Freight Rd, Tullamarine VIC 3043, Australia","Realife Church VIC,Australia",-37.6919883,144.8773695,3043,Realife Church,Christian
+"Derby St & Kent Road, Pascoe Vale South VIC 3044, Australia","Moreland ChristianChurch Church VIC,Australia",-37.7208986,144.9475886,3044,Moreland ChristianChurch Church,Christian
+"701-703 Pascoe Vale Rd, Glenroy VIC 3046, Australia","MeadowView Baptist Church VIC,Australia",-37.7103736,144.9166674,3046,MeadowView Baptist Church,Christian
+"26 Millewa Cres, Dallas VIC 3047, Australia","Hume Community Baptist Church VIC,Australia",-37.6741304,144.9291326,3047,Hume Community Baptist Church,Christian
+"9 Western Ave, Westmeadows VIC 3049, Australia","LifeHouse Church VIC,Australia",-37.684936,144.881076,3049,LifeHouse Church,Christian
+"135 Capel St, North Melbourne VIC 3051, Australia","Central (Chinese) Baptist Church VIC,Australia",-37.8046837,144.9552868,3051,Central (Chinese) Baptist Church,Christian
+"161 -167 Peel St, North Melbourne VIC 3051, Australia","Greek Free Church Church VIC,Australia",-37.804155,144.955941,3051,Greek Free Church Church,Christian
+"62 Mark St, North Melbourne VIC 3051, Australia","Melbourne Life Church VIC,Australia",-37.7934011,144.9379942,3051,Melbourne Life Church,Christian
+"62 Mark St, North Melbourne VIC 3051, Australia","Life Church Church VIC,Australia",-37.7934011,144.9379942,3051,Life Church Church,Christian
+"54 Lygon St, Carlton VIC 3053, Australia","Lygon St Christian Chapel Church VIC,Australia",-37.8059012,144.966192,3053,Lygon St Christian Chapel Church,Christian
+"235 Palmerston St, Carlton VIC 3053, Australia","St Jude's Anglican Church VIC,Australia",-37.796229,144.967403,3053,St Jude's Anglican Church,Christian
+"491 Sydney Rd, Brunswick VIC 3056, Australia","Brunswick Baptist Church VIC,Australia",-37.765521,144.9620331,3056,Brunswick Baptist Church,Christian
+"298 Sydney Rd, Coburg VIC 3058, Australia","Coburg Baptist Church VIC,Australia",-37.7470071,144.9661184,3058,Coburg Baptist Church,Christian
+"111 Anderson Rd, Fawkner VIC 3060, Australia","Faith Baptist Church VIC,Australia",-37.6962993,144.9666096,3060,Faith Baptist Church,Christian
+"127 Craigieburn Rd West, Craigieburn VIC 3064, Australia","Central Life Church VIC,Australia",-37.598557,144.935054,3064,Central Life Church,Christian
+"16 Rushwood Dr, Craigieburn VIC 3064, Australia","Joy of Life ChristianMinistries Church VIC,Australia",-37.611827,144.950199,3064,Joy of Life ChristianMinistries Church,Christian
+"9 Lachlan Cres, Roxburgh Park VIC 3064, Australia","Roxburgh Park Community Church VIC,Australia",-37.618225,144.927568,3064,Roxburgh Park Community Church,Christian
+"75 Interlink Dr, Craigieburn VIC 3064, Australia","Salvos 3064 Church VIC,Australia",-37.603354,144.946952,3064,Salvos 3064 Church,Christian
+"16 Rayfield Ave, Craigieburn VIC 3064, Australia","St Thomas Uniting Church VIC,Australia",-37.59681,144.935624,3064,St Thomas Uniting Church,Christian
+"King William St, Fitzroy VIC 3065, Australia","All Saints Church VIC,Australia",-37.8022236,144.9786117,3065,All Saints Church,Christian
+"16-18 Michael St, North Fitzroy VIC 3068, Australia","Clifton Hill Presbyterian Church VIC,Australia",-37.78749,144.990686,3068,Clifton Hill Presbyterian Church,Christian
+"75 Reid St, Fitzroy North VIC 3068, Australia","Fitzroy North Community Church VIC,Australia",-37.785316,144.980772,3068,Fitzroy North Community Church,Christian
+"542 High St, Northcote VIC 3070, Australia","Northcote Baptist Church VIC,Australia",-37.7636829,145.0001638,3070,Northcote Baptist Church,Christian
+"2/177 Beavers Rd, Northcote VIC 3070, Australia","Community Church Church VIC,Australia",-37.7653809,144.9859464,3070,Community Church Church,Christian
+"390-398 St Georges Rd, Thornbury VIC 3071, Australia","Thornbury Church of Christ VIC,Australia",-37.75691,144.994253,3071,Thornbury Church of Christ,Christian
+"81 High St, Preston VIC 3072, Australia","Northern Community Church of Christ VIC,Australia",-37.7497863,145.0018432,3072,Northern Community Church of Christ,Christian
+"108 Cramer St, Preston VIC 3072, Australia","West Preston Baptist Church VIC,Australia",-37.7388067,144.9905286,3072,West Preston Baptist Church,Christian
+"40/42 Gilbert Rd, Melbourne VIC 3072, Australia","St. Mark's Church Church VIC,Australia",-37.749541,144.988424,3072,St. Mark's Church Church,Christian
+"648 High St, Reservoir VIC 3073, Australia","Acts 2 Faith Church VIC,Australia",-37.7299601,145.0056227,3073,Acts 2 Faith Church,Christian
+"1 Livingstone St, Ivanhoe VIC 3079, Australia","Ivanhoe Baptist Church VIC,Australia",-37.76766,145.04263,3079,Ivanhoe Baptist Church,Christian
+"420 Waterdale Rd, Heidelberg West VIC 3081, Australia","Heidelberg West Church of Christ VIC,Australia",-37.747403,145.0471811,3081,Heidelberg West Church of Christ,Christian
+"5 Waiora Rd, Heidelberg Heights VIC 3081, Australia","Rosanna Baptist Church VIC,Australia",-37.746469,145.057652,3081,Rosanna Baptist Church,Christian
+"5 Waiora Rd, Heidelberg Heights VIC 3081, Australia","Rosanna Christian Church Church VIC,Australia",-37.746469,145.057652,3081,Rosanna Christian Church Church,Christian
+"11 Morang Dr, Mill Park VIC 3082, Australia","Mill Park Baptist Church VIC,Australia",-37.660737,145.053991,3082,Mill Park Baptist Church,Christian
+"19 Enterprise Dr, Bundoora VIC 3083, Australia","Bundoora Presbyterian Church VIC,Australia",-37.684576,145.071018,3083,Bundoora Presbyterian Church,Christian
+"31-61 McLeans Rd, Bundoora VIC 3083, Australia","Encompass Church VIC,Australia",-37.6944794,145.054664,3083,Encompass Church,Christian
+"31-61 McLeans Rd, Bundoora VIC 3083, Australia","Encompass Church VIC,Australia",-37.6944794,145.054664,3083,Encompass Church,Christian
+"37 Grimshaw St, Greensborough VIC 3088, Australia","Living Faith Church Church VIC,Australia",-37.7049411,145.1054777,3088,Living Faith Church Church,Christian
+"309 Diamond Creek Rd, Plenty VIC 3090, Australia","Diamond Valley Baptist Church VIC,Australia",-37.6776239,145.1230958,3090,Diamond Valley Baptist Church,Christian
+"360 Main Rd, Lower Plenty VIC 3093, Australia","Planetshakers North East Church VIC,Australia",-37.7302417,145.1278416,3093,Planetshakers North East Church,Christian
+"24 Mayona Rd, Montmorency VIC 3094, Australia","Montmorency Community Church Church VIC,Australia",-37.7137553,145.1169585,3094,Montmorency Community Church Church,Christian
+"43/49 Nyora Rd, Eltham VIC 3095, Australia","Eltham Baptist Church VIC,Australia",-37.7171909,145.168992,3095,Eltham Baptist Church,Christian
+"23 Batman Rd, Eltham VIC 3095, Australia","Eltham Presbyterian Church VIC,Australia",-37.7074188,145.1515753,3095,Eltham Presbyterian Church,Christian
+"39 Lower Rd, Eltham North VIC 3095, Australia","Glen Park Gospel Church VIC,Australia",-37.7000604,145.1498504,3095,Glen Park Gospel Church,Christian
+"960 Heidleberg-Kinglake Rd, Hurstbridge VIC 3099, Australia","Green Wedge Christian Community Church VIC,Australia",-37.6368093,145.1973378,3099,Green Wedge Christian Community Church,Christian
+"301 Cotham Rd, Kew VIC 3101, Australia","Life In Christ Church Church VIC,Australia",-37.8098389,145.0572776,3101,Life In Christ Church Church,Christian
+"10 Highbury Grove, Kew VIC 3101, Australia","Kew Baptist Church VIC,Australia",-37.8064818,145.0371195,3101,Kew Baptist Church,Christian
+"75A Cotham Rd, Kew VIC 3101, Australia","Melbourne (Chinese) Baptist Church VIC,Australia",-37.8073049,145.0370582,3101,Melbourne (Chinese) Baptist Church,Christian
+"2 Leonard St, Deepdene VIC 3103, Australia","Balwyn Gospel Chapel Church VIC,Australia",-37.8106981,145.0680833,3103,Balwyn Gospel Chapel Church,Christian
+"184 Balwyn Rd, Balwyn VIC 3103, Australia","Balwyn Wesleyan Methodist Church VIC,Australia",-37.80407,145.083408,3103,Balwyn Wesleyan Methodist Church,Christian
+"16 Osburn Ave, Balwyn North VIC 3104, Australia","St Hils Anglican Church VIC,Australia",-37.7952252,145.0737169,3104,St Hils Anglican Church,Christian
+"136 Doncaster Rd, North Balwyn VIC 3104, Australia","North Balwyn Baptist Church VIC,Australia",-37.7942022,145.0789695,3104,North Balwyn Baptist Church,Christian
+"30 Lilian St, Bulleen VIC 3105, Australia","St Timothys Anglican Church VIC,Australia",-37.77201,145.096195,3105,St Timothys Anglican Church,Christian
+"143/145 Parker St, Templestowe VIC 3106, Australia","Manningham Christian Centre Church VIC,Australia",-37.757695,145.127817,3106,Manningham Christian Centre Church,Christian
+"41 Marcus Rd, Templestowe Lower VIC 3107, Australia","Bulleen Baptist Church VIC,Australia",-37.7680692,145.1041966,3107,Bulleen Baptist Church,Christian
+"41 Marcus Rd, Manningham VIC 3107, Australia","SonLife Community Church VIC,Australia",-37.7680749,145.1041876,3107,SonLife Community Church,Christian
+"674-680 Doncaster Rd, Doncaster VIC 3108, Australia","Doncaster Church of Christ VIC,Australia",-37.787799,145.130224,3108,Doncaster Church of Christ,Christian
+"188 Blackburn Rd, Doncaster East VIC 3109, Australia","Edge Church Melbourne VIC,Australia",-37.785359,145.16304,3109,Edge Church Melbourne,Christian
+"51-59 Dehnert St, Doncaster East VIC 3109, Australia","Bread of Life Church VIC,Australia",-37.7825727,145.1488686,3109,Bread of Life Church,Christian
+"8 Montgomery St, Doncaster East VIC 3109, Australia","Doncaster City Church VIC,Australia",-37.7882954,145.1603807,3109,Doncaster City Church,Christian
+"460 Blackburn Rd, Doncaster East VIC 3109, Australia","Deep Creek Anglican Church VIC,Australia",-37.7662166,145.1666028,3109,Deep Creek Anglican Church,Christian
+"47-53 Tunstall Rd, Doncaster East VIC 3109, Australia","East Doncaster Baptist Church VIC,Australia",-37.7937288,145.169813,3109,East Doncaster Baptist Church,Christian
+"188 Blackburn Rd, Doncaster East VIC 3109, Australia","Edge Church VIC,Australia",-37.785359,145.16304,3109,Edge Church,Christian
+"107 Andersons Creek Rd, Doncaster East VIC 3109, Australia","Templestowe Baptist Church VIC,Australia",-37.7672324,145.1714882,3109,Templestowe Baptist Church,Christian
+"5 McGowans Rd, Donvale VIC 3111, Australia","Donvale Prebyterian Church VIC,Australia",-37.795799,145.179995,3111,Donvale Prebyterian Church,Christian
+"320 Reynolds Rd, Donvale VIC 3111, Australia","Vantage Point Church VIC,Australia",-37.767467,145.191889,3111,Vantage Point Church,Christian
+"15-49 Old Melbourne Rd, Chirnside Park VIC 3116, Australia","Life Ministry Centre Church VIC,Australia",-37.7621057,145.3032343,3116,Life Ministry Centre Church,Christian
+"360 Church St, Richmond VIC 3121, Australia","St Stephen's Anglican Church VIC,Australia",-37.8224703,144.9981836,3121,St Stephen's Anglican Church,Christian
+"10 Griffiths St, Richmond VIC 3121, Australia","Bridge Church Church VIC,Australia",-37.8181901,145.0022981,3121,Bridge Church Church,Christian
+"10 Griffiths St, Richmond VIC 3121, Australia","Bridge Church Church VIC,Australia",-37.8181901,145.0022981,3121,Bridge Church Church,Christian
+"360 Church St, Richmond VIC 3121, Australia","St Stephen's Anglican Church VIC,Australia",-37.8224703,144.9981836,3121,St Stephen's Anglican Church,Christian
+"81 Oxley Rd, Hawthorn VIC 3122, Australia","Auburn Uniting Church VIC,Australia",-37.8247372,145.0428462,3122,Auburn Uniting Church,Christian
+"36 Barton St, Hawthorn VIC 3122, Australia","Hawthorn West Baptist Church VIC,Australia",-37.818511,145.022149,3122,Hawthorn West Baptist Church,Christian
+"5 St Columbs St, Hawthorn VIC 3122, Australia","St Columb's Anglican Church VIC,Australia",-37.8234704,145.0395057,3122,St Columb's Anglican Church,Christian
+"460 Riversdale Rd, Hawthorn East VIC 3123, Australia","Camberwell Baptist Church VIC,Australia",-37.8314652,145.0553295,3123,Camberwell Baptist Church,Christian
+"460 Riversdale Rd, Hawthorn East VIC 3123, Australia","EastCamberwell Baptist Church VIC,Australia",-37.8314652,145.0553295,3123,EastCamberwell Baptist Church,Christian
+"910 Toorak Rd, Camberwell VIC 3124, Australia","UCA Gospel Hall Church VIC,Australia",-37.846358,145.057135,3124,UCA Gospel Hall Church,Christian
+"1 Canterbury Rd, Camberwell VIC 3124, Australia","St Mark's Anglican Church VIC,Australia",-37.8212974,145.0592091,3124,St Mark's Anglican Church,Christian
+"581 Riversdale Rd, Camberwell VIC 3124, Australia","Trinity Prebyterian Church VIC,Australia",-37.8317164,145.0618456,3124,Trinity Prebyterian Church,Christian
+"7 Bowen St, Camberwell VIC 3124, Australia","Salvation Army Church VIC,Australia",-37.839092,145.063617,3124,Salvation Army Church,Christian
+"1 Canterbury Rd, Camberwell VIC 3124, Australia","St Mark??s Anglican Church VIC,Australia",-37.8212974,145.0592091,3124,St Mark??s Anglican Church,Christian
+"7 Bowen St, Camberwell VIC 3124, Australia","Salvation Army Church VIC,Australia",-37.839092,145.063617,3124,Salvation Army Church,Christian
+"17 Livingstone Cl, Burwood VIC 3125, Australia","Christian Alliance Church of Victoria VIC,Australia",-37.842659,145.108716,3125,Christian Alliance Church of Victoria,Christian
+"13 Tennyson St, Burwood VIC 3125, Australia","Burwood Community Presbyterian Church Church VIC,Australia",-37.851074,145.130434,3125,Burwood Community Presbyterian Church Church,Christian
+"44 Station St, Burwood VIC 3125, Australia","St Thomas' Burwood Anglican Church VIC,Australia",-37.8529101,145.119727,3125,St Thomas' Burwood Anglican Church,Christian
+"2 Margaret St, Canterbury VIC 3126, Australia","St Paul's Anglican Church VIC,Australia",-37.827084,145.085378,3126,St Paul's Anglican Church,Christian
+"1A Balwyn Rd, Canterbury VIC 3126, Australia","Canterbury Baptist Church VIC,Australia",-37.823277,145.079076,3126,Canterbury Baptist Church,Christian
+"72 Highfield Rd, Canterbury VIC 3126, Australia","Highfield RoadUniting Church VIC,Australia",-37.8314287,145.0858918,3126,Highfield RoadUniting Church,Christian
+"2 Margaret St, Canterbury VIC 3126, Australia","St Paul's Anglican Church VIC,Australia",-37.827084,145.085378,3126,St Paul's Anglican Church,Christian
+"650 Canterbury Rd, Surrey Hills VIC 3127, Australia","St Stephen's Presbyterian Church VIC,Australia",-37.8266165,145.1001921,3127,St Stephen's Presbyterian Church,Christian
+"245 Middleborough Rd, Box Hill South VIC 3128, Australia","Living Streams Christian Church VIC,Australia",-37.8390027,145.1344766,3128,Living Streams Christian Church,Christian
+"28 Watts St, Box Hill VIC 3128, Australia","Reformed Church VIC,Australia",-37.8159022,145.1258984,3128,Reformed Church,Christian
+"275 Middleborough Rd, Box Hill South VIC 3128, Australia","Revival Centres International Church VIC,Australia",-37.8354377,145.1352222,3128,Revival Centres International Church,Christian
+"711 Station St, Box Hill VIC 3128, Australia","St Paul's Lutheran Church VIC,Australia",-37.8166248,145.1238756,3128,St Paul's Lutheran Church,Christian
+"234 Elgar Rd, Box Hill South VIC 3128, Australia","Wattle Park Chapel Church VIC,Australia",-37.835437,145.112138,3128,Wattle Park Chapel Church,Christian
+"234 Elgar Rd, Box Hill South VIC 3128, Australia","Grace Christian Community Church VIC,Australia",-37.8354711,145.1121419,3128,Grace Christian Community Church,Christian
+"38 Lexton Rd, Box Hill North VIC 3129, Australia","Full Gospel Assembly Church VIC,Australia",-37.812281,145.136257,3129,Full Gospel Assembly Church,Christian
+"100 Rostrevor Parade, N Mont Albert VIC 3129, Australia","Belmore Road church of Christ Church VIC,Australia",-37.802338,145.108401,3129,Belmore Road church of Christ Church,Christian
+"17-23 Nelson Rd, Box Hill VIC 3130, Australia","Box Hill Salvation Army Church VIC,Australia",-37.8156814,145.1192306,3130,Box Hill Salvation Army Church,Christian
+"3 Springfield Rd, Blackburn North VIC 3130, Australia","NewHope Baptist Church VIC,Australia",-37.809157,145.14162,3130,NewHope Baptist Church,Christian
+"184 Surrey Rd, Blackburn VIC 3130, Australia","One Community Church VIC,Australia",-37.8156422,145.1565214,3130,One Community Church,Christian
+"107 Springfield Rd, Blackburn North VIC 3130, Australia","St Alfreds Anglican Church VIC,Australia",-37.809912,145.151878,3130,St Alfreds Anglican Church,Christian
+"184 Surrey Rd, Blackburn VIC 3130, Australia","Ranges Community Church VIC,Australia",-37.8156422,145.1565214,3130,Ranges Community Church,Christian
+"67/71 Springvale Rd, Nunawading VIC 3131, Australia","(Chinese) Christian Church of Victoria VIC,Australia",-37.8126688,145.1774027,3131,(Chinese) Christian Church of Victoria,Christian
+"169 Central Rd, Nunawading VIC 3131, Australia","Red Church VIC,Australia",-37.8248049,145.1674677,3131,Red Church,Christian
+"333A Canterbury Rd, Forest Hill VIC 3131, Australia","Forest Hill Uniting Church VIC,Australia",-37.8348397,145.1779828,3131,Forest Hill Uniting Church,Christian
+"169 Central Rd, Nunawading VIC 3131, Australia","Nunawading Seventh-day Adventist Church VIC,Australia",-37.8246486,145.1693729,3131,Nunawading Seventh-day Adventist Church,Christian
+"8-12 Simla St, Mitcham VIC 3132, Australia","Mitcham Baptist Church VIC,Australia",-37.819373,145.190415,3132,Mitcham Baptist Church,Christian
+"171 Rooks Rd, Vermont VIC 3133, Australia","Stairway Church Church VIC,Australia",-37.8338462,145.1883123,3133,Stairway Church Church,Christian
+"13 Bedford Rd, Ringwood VIC 3134, Australia","Ringwood Church of Christ VIC,Australia",-37.8156,145.232619,3134,Ringwood Church of Christ,Christian
+"120 Oban Rd, Ringwood North VIC 3134, Australia","Holy Spirit Parish Church VIC,Australia",-37.7924343,145.2371318,3134,Holy Spirit Parish Church,Christian
+"320/340 Wonga Rd, Warranwood VIC 3134, Australia","Maroondah City Church Church VIC,Australia",-37.7679926,145.2432387,3134,Maroondah City Church Church,Christian
+"14 Dickson Cres, Ringwood North VIC 3134, Australia","North Ringwood Uniting Church VIC,Australia",-37.795708,145.23711,3134,North Ringwood Uniting Church,Christian
+"1 Tamar St, Ringwood North VIC 3134, Australia","Ringwood Community Church VIC,Australia",-37.802605,145.231102,3134,Ringwood Community Church,Christian
+"143 Maroondah Hwy, Ringwood VIC 3134, Australia","urbanlife Church VIC,Australia",-37.8154072,145.2279157,3134,urbanlife Church,Christian
+"9 Hill St, Ringwood East VIC 3135, Australia","Empower Christian Church Church VIC,Australia",-37.8166779,145.2410717,3135,Empower Christian Church Church,Christian
+"78 Cuthbert St, Heathmont VIC 3135, Australia","Heathmont Baptist Church VIC,Australia",-37.834548,145.2392844,3135,Heathmont Baptist Church,Christian
+"6 Waterloo St, Heathmont VIC 3135, Australia","Heathmont Presbyterian Church VIC,Australia",-37.8333034,145.2355365,3135,Heathmont Presbyterian Church,Christian
+"51 Lusher Rd, Croydon VIC 3136, Australia","Hope Church VIC,Australia",-37.8037299,145.2786732,3136,Hope Church,Christian
+"Bemboka Rd, Croydon Hills VIC 3136, Australia","Croydon Hills and Wonga Park Anglican Church VIC,Australia",-37.7792647,145.2559422,3136,Croydon Hills and Wonga Park Anglican Church,Christian
+"6 Bemboka Rd, Croydon Hills VIC 3136, Australia","Croydon Hills Baptist Church VIC,Australia",-37.78084,145.257046,3136,Croydon Hills Baptist Church,Christian
+"6 Tallent St, Croydon VIC 3136, Australia","Croydon Uniting Church VIC,Australia",-37.7917962,145.281605,3136,Croydon Uniting Church,Christian
+"51 Lusher Rd, Croydon VIC 3136, Australia","Hope City Church Church VIC,Australia",-37.8037299,145.2786732,3136,Hope City Church Church,Christian
+"51 Lusher Rd, Croydon VIC 3136, Australia","Hope Church VIC,Australia",-37.8037299,145.2786732,3136,Hope Church,Christian
+"51 Lusher Rd, Croydon VIC 3136, Australia","Highway of Hope Church VIC,Australia",-37.8037299,145.2786732,3136,Highway of Hope Church,Christian
+"281 Colchester Rd, Kilsyth South VIC 3137, Australia","Canterbury Gardens Community Church Church VIC,Australia",-37.828113,145.305559,3137,Canterbury Gardens Community Church Church,Christian
+"382-388 Liverpool Rd, Kilsyth South VIC 3137, Australia","Kilsyth South Baptist Church VIC,Australia",-37.838903,145.317495,3137,Kilsyth South Baptist Church,Christian
+"47-49 Carronvale Rd, Mooroolbark VIC 3138, Australia","Carronvale Road Christian Church Church VIC,Australia",-37.781394,145.3282001,3138,Carronvale Road Christian Church Church,Christian
+"Hull Rd, Mooroolbark VIC 3138, Australia","Mooroolbark Baptist Church VIC,Australia",-37.790611,145.306403,3138,Mooroolbark Baptist Church,Christian
+"305 Manchester Rd, Mooroolbark VIC 3138, Australia","Mooroolbark SalvosMooroolbark Church VIC,Australia",-37.761741,145.315062,3138,Mooroolbark SalvosMooroolbark Church,Christian
+"47-49 Carronvale Rd, Mooroolbark VIC 3138, Australia","Carronvale Road Christian Church VIC,Australia",-37.781394,145.3282001,3138,Carronvale Road Christian Church,Christian
+"St James Anglican Church, 84 Beenak Rd, Wandin North VIC 3139, Australia","St James' Anglican Church VIC,Australia",-37.7888531,145.4332627,3139,St James' Anglican Church,Christian
+"St James Anglican Church, 84 Beenak Rd, Wandin North VIC 3139, Australia","St James' Anglican Church VIC,Australia",-37.7888531,145.4332627,3139,St James' Anglican Church,Christian
+"St James Anglican Church, 84 Beenak Rd, Wandin North VIC 3139, Australia","St James Anglican Church VIC,Australia",-37.7888531,145.4332627,3139,St James Anglican Church,Christian
+"5/9 Clarke St, Lilydale VIC 3140, Australia","Mooroolbark Christian Fellowship Church VIC,Australia",-37.7579779,145.3506275,3140,Mooroolbark Christian Fellowship Church,Christian
+"305 Swansea Rd, Lilydale VIC 3140, Australia","Lilydale Baptist Church VIC,Australia",-37.776262,145.3625268,3140,Lilydale Baptist Church,Christian
+"5/9 Clarke St, Lilydale VIC 3140, Australia","Yarra Valley Vineyard Church VIC,Australia",-37.7579779,145.3506275,3140,Yarra Valley Vineyard Church,Christian
+"677 Punt Rd, South Yarra VIC 3141, Australia","Christ Church Anglican VIC,Australia",-37.838555,144.986035,3141,Christ Church Anglican,Christian
+"677 Punt Rd, South Yarra VIC 3141, Australia","Christ Church Anglican VIC,Australia",-37.838555,144.986035,3141,Christ Church Anglican,Christian
+"12 Surrey Rd, South Yarra VIC 3141, Australia","SouthYarra Community Baptist Church VIC,Australia",-37.846165,144.998525,3141,SouthYarra Community Baptist Church,Christian
+"677 Punt Rd, South Yarra VIC 3141, Australia","Christ Church Anglican Church VIC,Australia",-37.838555,144.986035,3141,Christ Church Anglican Church,Christian
+"86 Clendon Rd, Toorak VIC 3142, Australia","St John's Anglican Church VIC,Australia",-37.841997,145.0145036,3142,St John's Anglican Church,Christian
+"86 Clendon Rd, Toorak VIC 3142, Australia","St John's Anglican Church VIC,Australia",-37.841997,145.0145036,3142,St John's Anglican Church,Christian
+"86 Clendon Rd, Toorak VIC 3142, Australia","St John's Anglican Church VIC,Australia",-37.841997,145.0145036,3142,St John's Anglican Church,Christian
+"86 Clendon Rd, Toorak VIC 3142, Australia","St John'sAnglican Church VIC,Australia",-37.841997,145.0145036,3142,St John'sAnglican Church,Christian
+"86 Clendon Rd, Toorak VIC 3142, Australia","St John's Anglican Church VIC,Australia",-37.841997,145.0145036,3142,St John's Anglican Church,Christian
+"88 Kooyong Rd, Armadale VIC 3143, Australia","Armadale Baptist Church VIC,Australia",-37.8549618,145.0209769,3143,Armadale Baptist Church,Christian
+"8 Y St, Ashburton VIC 3147, Australia","Ashburton Baptist Church VIC,Australia",-37.862275,145.079345,3147,Ashburton Baptist Church,Christian
+"3 Ashburn Grove, Ashburton VIC 3147, Australia","Ashburton Uniting Church VIC,Australia",-37.864352,145.081413,3147,Ashburton Uniting Church,Christian
+"17-19 Margot St, Chadstone VIC 3148, Australia","Stonnington Baptist Church VIC,Australia",-37.876577,145.096686,3148,Stonnington Baptist Church,Christian
+"46 Lillimur Rd, Ormond VIC 3149, Australia","Glen Eira Christian Community Church VIC,Australia",-37.900068,145.042318,3149,Glen Eira Christian Community Church,Christian
+"46-48 Montclair Ave, Glen Waverley VIC 3150, Australia","Monash City Church of Christ VIC,Australia",-37.8810184,145.1621792,3150,Monash City Church of Christ,Christian
+"800 Waverley Rd, Glen Waverley VIC 3150, Australia","Glen Waverley Anglican Church VIC,Australia",-37.89018,145.171109,3150,Glen Waverley Anglican Church,Christian
+"Glen Waverley VIC 3150, Australia","Glen Waverley Uniting Church VIC,Australia",-37.8821063,145.1626778,3150,Glen Waverley Uniting Church,Christian
+"758 Waverley Rd, Glen Waverley VIC 3150, Australia","Lifegate Church VIC,Australia",-37.890127,145.167395,3150,Lifegate Church,Christian
+"588 High St Rd, Glen Waverley VIC 3150, Australia","Syndal Baptist Church VIC,Australia",-37.872494,145.149274,3150,Syndal Baptist Church,Christian
+"2 Lum Rd, Wheelers Hill VIC 3150, Australia","Waverley Baptist Church VIC,Australia",-37.8912572,145.1828986,3150,Waverley Baptist Church,Christian
+"832-834 High St Rd, Glen Waverley VIC 3150, Australia","Discover Church VIC,Australia",-37.875248,145.1725537,3150,Discover Church,Christian
+"832-834 High St Rd, Glen Waverley VIC 3150, Australia","Discovery Church VIC,Australia",-37.875248,145.1725537,3150,Discovery Church,Christian
+"6 Clyden Ct, Burwood East VIC 3151, Australia","Melbourne InternationalFellowship Church VIC,Australia",-37.852848,145.146603,3151,Melbourne InternationalFellowship Church,Christian
+"2 Vision Dr, Burwood East VIC 3151, Australia","Crossway Baptist Church VIC,Australia",-37.8593625,145.1677884,3151,Crossway Baptist Church,Christian
+"5 Burwood Hwy, Wantirna VIC 3152, Australia","Hills Bible Church Church VIC,Australia",-37.8597477,145.2091157,3152,Hills Bible Church Church,Christian
+"1248 High St Rd, Wantirna South VIC 3152, Australia","CityLife Church VIC,Australia",-37.878226,145.215003,3152,CityLife Church,Christian
+"2/82 Lewis Rd, Wantirna South VIC 3152, Australia","Activate Church VIC,Australia",-37.8650228,145.2503511,3152,Activate Church,Christian
+"119 Mountain Hwy, Wantirna VIC 3152, Australia","Kingsway Christian Fellowship Church VIC,Australia",-37.8553066,145.2163676,3152,Kingsway Christian Fellowship Church,Christian
+"1248 High St Rd, Wantirna South VIC 3152, Australia","CityLife Church VIC,Australia",-37.878226,145.215003,3152,CityLife Church,Christian
+"21 Koomba Rd, Wantirna VIC 3152, Australia","Grace Church Church VIC,Australia",-37.852948,145.2162107,3152,Grace Church Church,Christian
+"1248 High St Rd, Wantirna South VIC 3152, Australia","CityLife Church VIC,Australia",-37.878226,145.215003,3152,CityLife Church,Christian
+"1248 High St Rd, Wantirna South VIC 3152, Australia","CityLife Church VIC,Australia",-37.878226,145.215003,3152,CityLife Church,Christian
+"30/31 Michellan Ct, Bayswater VIC 3153, Australia","Breakthrough Christian Church Church VIC,Australia",-37.8415028,145.2421136,3153,Breakthrough Christian Church Church,Christian
+"328 Bayswater Rd, Bayswater North VIC 3153, Australia","Calvary Baptist Church VIC,Australia",-37.8313456,145.2686387,3153,Calvary Baptist Church,Christian
+"199 Bayswater Rd, Bayswater North VIC 3153, Australia","South Croydon Anglican Church VIC,Australia",-37.8199062,145.2694117,3153,South Croydon Anglican Church,Christian
+"328 Bayswater Rd, Bayswater North VIC 3153, Australia","Calvary Melbourne Church VIC,Australia",-37.8313456,145.2686387,3153,Calvary Melbourne Church,Christian
+"17-19 Falconer Rd, Boronia VIC 3155, Australia","Knox Community Baptist Church VIC,Australia",-37.858329,145.270783,3155,Knox Community Baptist Church,Christian
+"8/1154 Burwood Hwy, Upper Ferntree Gully VIC 3156, Australia","CityWide Church VIC,Australia",-37.892603,145.301144,3156,CityWide Church,Christian
+"8/1154 Burwood Hwy, Upper Ferntree Gully VIC 3156, Australia","CityWide Church VIC,Australia",-37.892603,145.301144,3156,CityWide Church,Christian
+"244 Mt Morton Rd, Belgrave Heights VIC 3160, Australia","Belgrave Heights Presbyterian Church VIC,Australia",-37.919822,145.3448775,3160,Belgrave Heights Presbyterian Church,Christian
+"169 Belgrave-Hallam Rd, Belgrave South VIC 3160, Australia","Belgrave South Baptist Church VIC,Australia",-37.9337169,145.3567796,3160,Belgrave South Baptist Church,Christian
+"530 Dandenong Rd, Caulfield North VIC 3161, Australia","Southern Cross Ministriesat St Paul's, Caulfield North Church VIC,Australia",-37.8667781,145.0274822,3161,"Southern Cross Ministriesat St Paul's, Caulfield North Church",Christian
+"514 Dandenong Rd, Caulfield North VIC 3161, Australia","(Indonesian) Praise Centre Church VIC,Australia",-37.865371,145.024533,3161,(Indonesian) Praise Centre Church,Christian
+"1 Neerim Rd, Caulfield VIC 3162, Australia","Caulfield ?C Elwood Presbyterian Church VIC,Australia",-37.8853433,145.0294207,3162,Caulfield ?C Elwood Presbyterian Church,Christian
+"1 Neerim Rd, Caulfield VIC 3162, Australia","Caulfield Evangelical Methodist Church VIC,Australia",-37.887481,145.028652,3162,Caulfield Evangelical Methodist Church,Christian
+"1 Neerim Rd, Caulfield VIC 3162, Australia","Caulfield Presbyterian Church VIC,Australia",-37.8853433,145.0294207,3162,Caulfield Presbyterian Church,Christian
+"44 Murrumbeena Rd, Murrumbeena VIC 3163, Australia","Murrumbeena Baptist Church VIC,Australia",-37.8883812,145.0667777,3163,Murrumbeena Baptist Church,Christian
+"216 E Boundary Rd, East Bentleigh VIC 3165, Australia","Eastleigh Community Church VIC,Australia",-37.913317,145.061055,3165,Eastleigh Community Church,Christian
+"26 Abbeygate St, Oakleigh VIC 3166, Australia","Oakleigh Anglican Church VIC,Australia",-37.9066681,145.0900323,3166,Oakleigh Anglican Church,Christian
+"185 Warrigal Rd, Hughesdale VIC 3166, Australia","Oakleigh Baptist Church VIC,Australia",-37.907672,145.085039,3166,Oakleigh Baptist Church,Christian
+"15 Clifford St, Huntingdale VIC 3166, Australia","Faith Christian Church Church VIC,Australia",-37.9093937,145.1055557,3166,Faith Christian Church Church,Christian
+"964 Centre Road, Oakleigh South VIC 3167, Australia","South Oakleigh Gospel Hall Church VIC,Australia",-37.9244003,145.0837581,3167,South Oakleigh Gospel Hall Church,Christian
+"25 Burton Ave, Clayton VIC 3168, Australia","Clayton Church of Christ(+Mandarin,Cantonese) Clayton Church VIC,Australia",-37.925519,145.1178523,3168,"Clayton Church of Christ(+Mandarin,Cantonese) Clayton Church",Christian
+"118 Wellington Rd, Clayton VIC 3168, Australia","Monash Christian Fellowship Church VIC,Australia",-37.917113,145.143136,3168,Monash Christian Fellowship Church,Christian
+"54 Madeleine Rd, Clayton VIC 3168, Australia","St Andrews Presbyterian Church VIC,Australia",-37.9187718,145.1207579,3168,St Andrews Presbyterian Church,Christian
+"316-322 Kingston Rd, Clarinda VIC 3169, Australia","Kingston City Church VIC,Australia",-37.957869,145.111156,3169,Kingston City Church,Christian
+"19 McDonalds La, Mulgrave VIC 3170, Australia","Monash Christian Church VIC,Australia",-37.9082044,145.1553039,3170,Monash Christian Church,Christian
+"3 Albert Ave, Springvale VIC 3171, Australia","St. John??s (German) Lutheran Church VIC,Australia",-37.946506,145.147185,3171,St. John??s (German) Lutheran Church,Christian
+"1b/1 MacKay St, Springvale South VIC 3172, Australia","Springvale South Church of Christ VIC,Australia",-37.972117,145.149339,3172,Springvale South Church of Christ,Christian
+"50 Tootal Rd, Dingley Village VIC 3172, Australia","Destiny Church VIC,Australia",-37.9626912,145.1270278,3172,Destiny Church,Christian
+"927 Springvale Rd, Keysborough VIC 3173, Australia","Lighthouse Christian Church Church VIC,Australia",-38.0010828,145.1429856,3173,Lighthouse Christian Church Church,Christian
+"130 Railway Parade, Noble Park VIC 3174, Australia","The First (Hungarian) Baptist Church VIC,Australia",-37.979518,145.194616,3174,The First (Hungarian) Baptist Church,Christian
+"55 Halton Rd, Noble Park North VIC 3174, Australia","Miracle Christian Centre Church VIC,Australia",-37.954502,145.192201,3174,Miracle Christian Centre Church,Christian
+"55 Halton Rd, Noble Park North VIC 3174, Australia","Miracle Christian Centre Church VIC,Australia",-37.954502,145.192201,3174,Miracle Christian Centre Church,Christian
+"121 Stud Rd, Dandenong VIC 3175, Australia","LifeSpring Church VIC,Australia",-37.9751686,145.2196038,3175,LifeSpring Church,Christian
+"9 Anthony St, Dandenong North VIC 3175, Australia","The Covenant Church Church VIC,Australia",-37.967269,145.214509,3175,The Covenant Church Church,Christian
+"121 Stud Rd, Dandenong VIC 3175, Australia","Lifespring Church Church VIC,Australia",-37.9751686,145.2196038,3175,Lifespring Church Church,Christian
+"255 Outlook Dr, Dandenong North VIC 3175, Australia","Dandenong Christian Reformed Church Church VIC,Australia",-37.9399028,145.2111751,3175,Dandenong Christian Reformed Church Church,Christian
+"9 Claredale Rd, Doveton VIC 3177, Australia","Ebenezer Christian Assembly Church VIC,Australia",-37.9976282,145.2281677,3177,Ebenezer Christian Assembly Church,Christian
+"127 Kidds Rd, Doveton VIC 3177, Australia","Doveton Baptist Church VIC,Australia",-37.9877151,145.2387448,3177,Doveton Baptist Church,Christian
+"1070 Stud Rd, Rowville VIC 3178, Australia","Doncaster ChristianFellowship Church VIC,Australia",-37.9156516,145.2338271,3178,Doncaster ChristianFellowship Church,Christian
+"1070 Stud Rd, Rowville VIC 3178, Australia","Australia for Christ Fellowship Church VIC,Australia",-37.9156516,145.2338271,3178,Australia for Christ Fellowship Church,Christian
+"7 Seismic Ct, Rowville VIC 3178, Australia","Hillview Community Church Church VIC,Australia",-37.908617,145.245274,3178,Hillview Community Church Church,Christian
+"Wellington Rd & Le John St, Rowville VIC 3178, Australia","Rowville Baptist Church VIC,Australia",-37.9260098,145.2498955,3178,Rowville Baptist Church,Christian
+"15 Cavell St, Scoresby VIC 3179, Australia","Hope Community Church VIC,Australia",-37.888923,145.235697,3179,Hope Community Church,Christian
+"646 Burwood Hwy, Knoxfield VIC 3180, Australia","Ringwood Knox Lutheran Parish Church VIC,Australia",-37.8765958,145.2570069,3180,Ringwood Knox Lutheran Parish Church,Christian
+"31 Spring St, Prahran VIC 3181, Australia","Melbourne Zimbabwean Methodist Church VIC,Australia",-37.8504818,145.0047418,3181,Melbourne Zimbabwean Methodist Church,Christian
+"61 Mcilwrick St, Windsor VIC 3181, Australia","Kardinia Church Church VIC,Australia",-37.855939,144.996823,3181,Kardinia Church Church,Christian
+"14 Acland St, St Kilda VIC 3182, Australia","Christ Church (Anglican) VIC,Australia",-37.8635987,144.9758403,3182,Christ Church (Anglican),Christian
+"2 Chapel St, St Kilda VIC 3182, Australia","All Saints' Anglican Church VIC,Australia",-37.8582357,144.9925414,3182,All Saints' Anglican Church,Christian
+"9 Pakington St, St Kilda VIC 3182, Australia","St Kilda Baptist Church VIC,Australia",-37.866083,144.986975,3182,St Kilda Baptist Church,Christian
+"58 Wilson St, Brighton VIC 3186, Australia","Brighton Church of Christ VIC,Australia",-37.913188,145.001217,3186,Brighton Church of Christ,Christian
+"164 Bay St, Brighton VIC 3186, Australia","Brighton Baptist Church VIC,Australia",-37.90508,144.997601,3186,Brighton Baptist Church,Christian
+"2 Wolseley Grove, Brighton VIC 3186, Australia","St Leonard's Uniting Church VIC,Australia",-37.9261836,144.9946449,3186,St Leonard's Uniting Church,Christian
+"2/12 Chesterville Rd, Cheltenham VIC 3192, Australia","Southern Community Church of Christ VIC,Australia",-37.962101,145.056824,3192,Southern Community Church of Christ,Christian
+"99-101 Argus St, Cheltenham VIC 3192, Australia","Bayside church Church VIC,Australia",-37.959779,145.07473,3192,Bayside church Church,Christian
+"36 Harpley St, Cheltenham VIC 3192, Australia","Mentone Baptist Church VIC,Australia",-37.974183,145.0724556,3192,Mentone Baptist Church,Christian
+"223-225 Balcombe Rd, Beaumaris VIC 3193, Australia","Beaumaris Baptist Church VIC,Australia",-37.9794276,145.0475865,3193,Beaumaris Baptist Church,Christian
+"78 Dalgetty Rd, Beaumaris VIC 3193, Australia","Beaumaris-Black Rock Uniting Church VIC,Australia",-37.9867175,145.0380681,3193,Beaumaris-Black Rock Uniting Church,Christian
+"90-92 Como Parade W, Mentone VIC 3194, Australia","St Augustines Anglican Church VIC,Australia",-37.9862885,145.067604,3194,St Augustines Anglican Church,Christian
+"176 Como Parade W, Parkdale VIC 3195, Australia","Parkdale Church of Christ VIC,Australia",-37.9919913,145.0741022,3195,Parkdale Church of Christ,Christian
+"Cnr Parkers Rd & Blanche Ave, Parkdale VIC 3195, Australia","St. David's Uniting Church VIC,Australia",-37.9924826,145.0790212,3195,St. David's Uniting Church,Christian
+"12 McDonald St, Mordialloc VIC 3195, Australia","Mordialloc Presbyterian Church VIC,Australia",-38.00482,145.0882065,3195,Mordialloc Presbyterian Church,Christian
+"13 Hi-Tech Pl, Seaford VIC 3198, Australia","Fire Church Church VIC,Australia",-38.116244,145.138684,3198,Fire Church Church,Christian
+"14 Heversham Dr, Seaford VIC 3198, Australia","Gateway Family Church VIC,Australia",-38.111638,145.139995,3198,Gateway Family Church,Christian
+"Delacombe Park, Overport Road, Frankston South VIC 3199, Australia","Frankston Reformed Presbyterian Church VIC,Australia",-38.162382,145.125832,3199,Frankston Reformed Presbyterian Church,Christian
+"26 High St, Frankston VIC 3199, Australia","Jubilee Church VIC,Australia",-38.1483308,145.1192576,3199,Jubilee Church,Christian
+"252 Frankston - Flinders Rd, Frankston VIC 3199, Australia","Peninsula City Church Church VIC,Australia",-38.1783982,145.1374198,3199,Peninsula City Church Church,Christian
+"36 Radiata St, Frankston North VIC 3199, Australia","Frankston Presbyterian Church VIC,Australia",-38.1175694,145.1548681,3199,Frankston Presbyterian Church,Christian
+"261 McKinnon Rd, McKinnon VIC 3204, Australia","Reformed Presbyterian Church VIC,Australia",-37.911831,145.044545,3204,Reformed Presbyterian Church,Christian
+"261 McKinnon Rd, McKinnon VIC 3204, Australia","McKinnon Reformed Presbyterian Church VIC,Australia",-37.911831,145.044545,3204,McKinnon Reformed Presbyterian Church,Christian
+"261 McKinnon Rd, McKinnon VIC 3204, Australia","Reformed Presbyterian Church VIC,Australia",-37.911831,145.044545,3204,Reformed Presbyterian Church,Christian
+"210 Dorcas St, South Melbourne VIC 3205, Australia","St Lukes Anglican Church VIC,Australia",-37.832373,144.96106,3205,St Lukes Anglican Church,Christian
+"76-84 Flinders Ave, Lara VIC 3212, Australia","Lifeway Christian Church VIC,Australia",-38.017655,144.406099,3212,Lifeway Christian Church,Christian
+"12 Tarkin Ct, Bell Park VIC 3215, Australia","North Geelong Presbyterian Church VIC,Australia",-38.0981859,144.3428723,3215,North Geelong Presbyterian Church,Christian
+"1 Douro St, North Geelong VIC 3215, Australia","Pivot City Church Church VIC,Australia",-38.1219325,144.3473597,3215,Pivot City Church Church,Christian
+"4-32 Province Boulevard, Highton VIC 3216, Australia","Barrabool Hills Baptist Church VIC,Australia",-38.1607352,144.3071841,3216,Barrabool Hills Baptist Church,Christian
+"94-96 Pioneer Rd, Grovedale VIC 3216, Australia","Grovedale Baptist Church VIC,Australia",-38.2015593,144.3311372,3216,Grovedale Baptist Church,Christian
+"48 Waurnvale Dr, Belmont VIC 3216, Australia","Waurn Ponds Community Church VIC,Australia",-38.194621,144.322749,3216,Waurn Ponds Community Church,Christian
+"231 Pakington St, Geelong West VIC 3218, Australia","Geelong Christian Reformed Church VIC,Australia",-38.145868,144.3470198,3218,Geelong Christian Reformed Church,Christian
+"Crn Volum St and Shannon Ave Manifold Heights, Manifold Heights VIC 3218, Australia","Manifold Heights Baptist Church VIC,Australia",-38.139042,144.33615,3218,Manifold Heights Baptist Church,Christian
+"277 Church St, Hamlyn Heights VIC 3218, Australia","St Alban??s Anglican Church VIC,Australia",-38.1293539,144.3250392,3218,St Alban??s Anglican Church,Christian
+"230 McKillop St, East Geelong VIC 3219, Australia","St Matthew's Anglican Church VIC,Australia",-38.1581653,144.3731156,3219,St Matthew's Anglican Church,Christian
+"69 McKillop St, Geelong VIC 3220, Australia","Fire Church Geelong VIC,Australia",-38.1536623,144.3600775,3220,Fire Church Geelong,Christian
+"45 Central Rd, Clifton Springs VIC 3222, Australia","Clifton Springs Baptist Church VIC,Australia",-38.1629136,144.562207,3222,Clifton Springs Baptist Church,Christian
+"276 Jetty Rd, Curlewis VIC 3222, Australia","Drysdale Community Church Church VIC,Australia",-38.1793985,144.5499409,3222,Drysdale Community Church Church,Christian
+"Portarlington Rd, Portarlington VIC 3223, Australia","Church By The Bay Church VIC,Australia",-38.1247223,144.6304428,3223,Church By The Bay Church,Christian
+"17 Tareeda Way, Ocean Grove VIC 3226, Australia","Peninsula Church of Christ VIC,Australia",-38.2577521,144.5498094,3226,Peninsula Church of Christ,Christian
+"TIA Hall, 12 Price, St Torquay VIC 3228, Australia","Bells Beach Christian Church VIC,Australia",-38.335281,144.32055,3228,Bells Beach Christian Church,Christian
+"25 Grossmans Rd, Torquay VIC 3228, Australia","Torquay Christian Fellowship Church VIC,Australia",-38.323112,144.315371,3228,Torquay Christian Fellowship Church,Christian
+"35 Boston Rd, Torquay VIC 3228, Australia","Torquay Salvos Church VIC,Australia",-38.3325496,144.3189218,3228,Torquay Salvos Church,Christian
+"Uniting Church Building,, Murch Cres, Anglesea VIC 3230, Australia","Anglesea Baptist Church VIC,Australia",-38.405655,144.186997,3230,Anglesea Baptist Church,Christian
+"103 Curdie St, Cobden VIC 3266, Australia","Christian Reformed Church VIC,Australia",-38.3278709,143.0687478,3266,Christian Reformed Church,Christian
+"3822 Cobden-Warrnambool Rd, Naringal VIC 3277, Australia","Naringal Baptist Church VIC,Australia",-38.3961266,142.6941358,3277,Naringal Baptist Church,Christian
+"186 Raglan Parade, Warrnambool VIC 3280, Australia","Gateway Church of Christ VIC,Australia",-38.3832099,142.5146802,3280,Gateway Church of Christ,Christian
+"200 Timor St, Warrnambool VIC 3280, Australia","Extreme Life Church VIC,Australia",-38.384299,142.481097,3280,Extreme Life Church,Christian
+"25/33 Learmonth St, Portland VIC 3305, Australia","Portland Baptist Church VIC,Australia",-38.3275823,141.5990323,3305,Portland Baptist Church,Christian
+"1430 Western Hwy, Rockbank VIC 3335, Australia","Living Springs Baptist Church VIC,Australia",-37.7478888,144.7171293,3335,Living Springs Baptist Church,Christian
+"19 Claret Ash Blvd, Melton West VIC 3337, Australia","Melton Assembly of God Church VIC,Australia",-37.667874,144.545078,3337,Melton Assembly of God Church,Christian
+"1-5 West Melton Drive, Melton West VIC 3337, Australia","Melton Baptist Church VIC,Australia",-37.6780696,144.5687012,3337,Melton Baptist Church,Christian
+"55 Palmerston St, Melton VIC 3337, Australia","Melton Presbyterian Church VIC,Australia",-37.6815195,144.582578,3337,Melton Presbyterian Church,Christian
+"222 Main St, Bacchus Marsh VIC 3340, Australia","Bacchus Marsh Christian Church Church VIC,Australia",-37.676301,144.442463,3340,Bacchus Marsh Christian Church Church,Christian
+"49 Lydiard St S, Ballarat Central VIC 3350, Australia","Ballarat Anglican Church VIC,Australia",-37.5636298,143.8576949,3350,Ballarat Anglican Church,Christian
+"17 Dawson St N, Ballarat Central VIC 3350, Australia","Ballarat Christian Fellowship Church VIC,Australia",-37.5594398,143.8533425,3350,Ballarat Christian Fellowship Church,Christian
+"316 Walker St., Ballarat North VIC 3350, Australia","Ballarat North Baptist Church VIC,Australia",-37.541977,143.869176,3350,Ballarat North Baptist Church,Christian
+"121 Gillies St S, Ballarat Central VIC 3350, Australia","one2one Gillies Street Churchof Christ Church VIC,Australia",-37.5660189,143.8162324,3350,one2one Gillies Street Churchof Christ Church,Christian
+"410 York St, Ballarat East VIC 3350, Australia","York Street Church of Christ Church VIC,Australia",-37.5693382,143.880542,3350,York Street Church of Christ Church,Christian
+"102 Eureka St, Ballarat Central VIC 3350, Australia","Ballarat City Church Church VIC,Australia",-37.5672061,143.8690946,3350,Ballarat City Church Church,Christian
+"St Marys Anglican Church, 3512 Sunraysia Hwy, Lexton VIC 3352, Australia","St Marys Anglican Church VIC,Australia",-37.277755,143.516983,3352,St Marys Anglican Church,Christian
+"St Marys Anglican Church, 3512 Sunraysia Hwy, Lexton VIC 3352, Australia","St Marys Anglican Church VIC,Australia",-37.277755,143.516983,3352,St Marys Anglican Church,Christian
+"120 Yarrowee St, Sebastopol VIC 3356, Australia","Rise Christian Church Rise Christian VIC,Australia",-37.593417,143.8438231,3356,Rise Christian Church Rise Christian,Christian
+"Church of Christ, 86 High St, Ararat VIC 3377, Australia","Ararat Church of Christ VIC,Australia",-37.283312,142.935914,3377,Ararat Church of Christ,Christian
+"91 River Rd, Horsham VIC 3400, Australia","Horsham Church of Christ VIC,Australia",-36.731903,142.2024403,3400,Horsham Church of Christ,Christian
+"289 Baillie St, Horsham VIC 3400, Australia","Southern Mallee CooperativeParish Church VIC,Australia",-36.713536,142.196807,3400,Southern Mallee CooperativeParish Church,Christian
+"162 Baillie St, Horsham VIC 3400, Australia","Anglican Parish of Horsham Church VIC,Australia",-36.711285,142.199714,3400,Anglican Parish of Horsham Church,Christian
+"162 Baillie St, Horsham VIC 3400, Australia","The Anglican Parish of Horsham Church VIC,Australia",-36.711285,142.199714,3400,The Anglican Parish of Horsham Church,Christian
+"17 Florence St, Horsham VIC 3402, Australia","Harvest Christian Church Church VIC,Australia",-36.7033048,142.1860458,3402,Harvest Christian Church Church,Christian
+"207 Gap Rd, Sunbury VIC 3429, Australia","Sunbury Baptist Church VIC,Australia",-37.578582,144.702556,3429,Sunbury Baptist Church,Christian
+"35 Aitken St, Gisborne VIC 3437, Australia","Faithworks Church VIC,Australia",-37.487085,144.591977,3437,Faithworks Church,Christian
+"66 Aitken St, Gisborne VIC 3437, Australia","Gisborne Presbyterian Church VIC,Australia",-37.4902396,144.5900395,3437,Gisborne Presbyterian Church,Christian
+"31 Saunders Rd, New Gisborne VIC 3438, Australia","Gisborne Church of Christ VIC,Australia",-37.4696114,144.5977399,3438,Gisborne Church of Christ,Christian
+"247 Station Rd, New Gisborne VIC 3438, Australia","House Of The Rock Church VIC,Australia",-37.462099,144.5968475,3438,House Of The Rock Church,Christian
+"43 Ebden St, Kyneton VIC 3444, Australia","Kyneton Baptist Church VIC,Australia",-37.2471486,144.4504284,3444,Kyneton Baptist Church,Christian
+"66 Blakeley Rd, Castlemaine VIC 3450, Australia","Castlemaine Church of Christ VIC,Australia",-37.043649,144.227832,3450,Castlemaine Church of Christ,Christian
+"53/55 Guava St, Red Cliffs VIC 3496, Australia","Red Cliffs Church of Christ Church VIC,Australia",-34.310145,142.191431,3496,Red Cliffs Church of Christ Church,Christian
+"129 Tenth St, Mildura VIC 3500, Australia","Mildura Church of Christ VIC,Australia",-34.187408,142.1580139,3500,Mildura Church of Christ,Christian
+"247 Eleventh St, Mildura VIC 3500, Australia","Anglican Parish of the Northern Mallee Church VIC,Australia",-34.190067,142.157509,3500,Anglican Parish of the Northern Mallee Church,Christian
+"259 - 261 Eleventh St, Mildura VIC 3500, Australia","Heart Changing Church Church VIC,Australia",-34.1877724,142.1537089,3500,Heart Changing Church Church,Christian
+"72 George St, Robinvale VIC 3549, Australia","Robinvale Church of Christ VIC,Australia",-34.5866723,142.7768954,3549,Robinvale Church of Christ,Christian
+"757 McIvor Hwy, Junortoun VIC 3550, Australia","Bendigo Baptist Church VIC,Australia",-36.7680506,144.34503,3550,Bendigo Baptist Church,Christian
+"35-41 Forest Street, Bendigo VIC 3550, Australia","Bendigo (St John's) Presbyterian Church VIC,Australia",-36.758828,144.274917,3550,Bendigo (St John's) Presbyterian Church,Christian
+"42 Ophir St, Golden Square VIC 3555, Australia","Golden City Baptist (Ind.) Church VIC,Australia",-36.7646225,144.2591696,3555,Golden City Baptist (Ind.) Church,Christian
+"Pakenham St & Sturt St, Echuca VIC 3564, Australia","Echuca Church of Christ VIC,Australia",-36.1281062,144.754076,3564,Echuca Church of Christ,Christian
+"8/2 King St, Swan Hill VIC 3585, Australia","Swan Hill Church of Christ VIC,Australia",-35.3305334,143.5564618,3585,Swan Hill Church of Christ,Christian
+"155 Verney Rd, Shepparton VIC 3630, Australia","Encounter Church VIC,Australia",-36.3540578,145.4167853,3630,Encounter Church,Christian
+"9 Pine Rd, Shepparton VIC 3630, Australia","GV Christian Fellowship Church VIC,Australia",-36.3559012,145.403161,3630,GV Christian Fellowship Church,Christian
+"155 Verney Rd, Shepparton VIC 3630, Australia","Shepparton AOG Church VIC,Australia",-36.3540578,145.4167853,3630,Shepparton AOG Church,Christian
+"600 Wyndham St, Shepparton VIC 3630, Australia","Shepparton Baptist Church VIC,Australia",-36.3978712,145.3949308,3630,Shepparton Baptist Church,Christian
+"Great Alpine Rd, Wangaratta VIC 3677, Australia","Wangaratta Wesleyan Methodist Church VIC,Australia",-36.3509115,146.3348884,3677,Wangaratta Wesleyan Methodist Church,Christian
+"154 Melrose Dr, Wodonga VIC 3690, Australia","Wodonga District Baptist Church VIC,Australia",-36.1328495,146.8651467,3690,Wodonga District Baptist Church,Christian
+"87 Hansen St, Corryong VIC 3707, Australia","Corryong Baptist Church VIC,Australia",-36.197095,147.902292,3707,Corryong Baptist Church,Christian
+"35 Ferres Blvd, South Morang VIC 3752, Australia","Planetshakers Church North Campus Church VIC,Australia",-37.643673,145.068718,3752,Planetshakers Church North Campus Church,Christian
+"7 Commercial Dr, Wallan VIC 3756, Australia","Wallan Gateway Church VIC,Australia",-37.4176184,145.00181,3756,Wallan Gateway Church,Christian
+"28 Forest St., Whittlesea VIC 3757, Australia","New Horizons Church VIC,Australia",-37.511734,145.121374,3757,New Horizons Church,Christian
+"28 Forest St., Whittlesea VIC 3757, Australia","New Horizons Church VIC,Australia",-37.511734,145.121374,3757,New Horizons Church,Christian
+"1 Lilydale Rd, Healesville VIC 3777, Australia","Liberty Family Church VIC,Australia",-37.657605,145.509361,3777,Liberty Family Church,Christian
+"1139 Buxton-Marysville Rd, Marysville VIC 3779, Australia","the.Church Church VIC,Australia",-37.508645,145.749749,3779,the.Church Church,Christian
+"3039 Warburton Hwy, Millgrove VIC 3799, Australia","River Valley Church Church VIC,Australia",-37.755504,145.652106,3799,River Valley Church Church,Christian
+"Monash University Clayton Campus, 38 Exhibition Walk, Clayton VIC 3800, Australia","The Good Shepherd Australian Orthodox Mission Church VIC,Australia",-37.911867,145.134207,3800,The Good Shepherd Australian Orthodox Mission Church,Christian
+"58 Reema Blvd, Endeavour Hills VIC 3802, Australia","GraceWest Bible Church Church VIC,Australia",-37.9739534,145.2736352,3802,GraceWest Bible Church Church,Christian
+"58 Reema Blvd, Endeavour Hills VIC 3802, Australia","Grace Community Bible Church Church VIC,Australia",-37.9739534,145.2736352,3802,Grace Community Bible Church Church,Christian
+"2-8 Gleneagles Dr, Endeavour Hills VIC 3802, Australia","South Eastern Christian Centre Church VIC,Australia",-37.9667706,145.2635937,3802,South Eastern Christian Centre Church,Christian
+"11 Eastlink Dr, Hallam VIC 3803, Australia","Life to the Nations Christian Fellowship Church VIC,Australia",-38.013003,145.256112,3803,Life to the Nations Christian Fellowship Church,Christian
+"426 Princes Hwy, Narre Warren VIC 3805, Australia","Casey City Church Church VIC,Australia",-38.025455,145.3065564,3805,Casey City Church Church,Christian
+"4/37B Fordholm Rd, Hampton Park VIC 3805, Australia","Casey Life Church VIC,Australia",-38.0348584,145.2646884,3805,Casey Life Church,Christian
+"432-446 Centre Rd, Berwick VIC 3806, Australia","Berwick Church of Christ VIC,Australia",-38.048675,145.335825,3806,Berwick Church of Christ,Christian
+"Timbarra Hall, Timbarra Way, Berwick VIC 3806, Australia","Anchor Baptist Church VIC,Australia",-38.02464,145.326084,3806,Anchor Baptist Church,Christian
+"55 Peel St, Berwick VIC 3806, Australia","Berwick Anglican Church VIC,Australia",-38.0315392,145.3538078,3806,Berwick Anglican Church,Christian
+"432-446 Centre Rd, Berwick VIC 3806, Australia","Berwick Vineyard Church VIC,Australia",-38.048675,145.335825,3806,Berwick Vineyard Church,Christian
+"54-60 Intrepid St, Berwick VIC 3806, Australia","Winepress Church VIC,Australia",-38.0366292,145.3369305,3806,Winepress Church,Christian
+"Beaconsfield Community Centre, Oneil Rd, Beaconsfield VIC 3807, Australia","Friends First Church Church VIC,Australia",-38.0523143,145.380088,3807,Friends First Church Church,Christian
+"7 Desmond Ct, Beaconsfield VIC 3807, Australia","Beaconsfield Baptist Church VIC,Australia",-38.053413,145.375852,3807,Beaconsfield Baptist Church,Christian
+"LOT 1 Army Rd, Pakenham VIC 3810, Australia","Cardinia Christian Centre Church VIC,Australia",-38.053111,145.499037,3810,Cardinia Christian Centre Church,Christian
+"Cnr Church St & Winters Ave, Drouin VIC 3818, Australia","Drouin Presbyterian Church VIC,Australia",-38.1364741,145.8542086,3818,Drouin Presbyterian Church,Christian
+"155 Bowen St, Warragul VIC 3820, Australia","Warragul Church Of Christ VIC,Australia",-38.145458,145.9292277,3820,Warragul Church Of Christ,Christian
+"69 Sutton St, Warragul VIC 3820, Australia","Rope Factory Church Church VIC,Australia",-38.1506701,145.927126,3820,Rope Factory Church Church,Christian
+"36 George St, Moe VIC 3825, Australia","Gippsland Christian Church Church VIC,Australia",-38.17589,146.262,3825,Gippsland Christian Church Church,Christian
+"69 Princes Dr, Morwell VIC 3840, Australia","Eternity Church VIC,Australia",-38.23269,146.384809,3840,Eternity Church,Christian
+"50 Church St, Morwell VIC 3840, Australia","Morwell Presbyterian Church VIC,Australia",-38.234675,146.400107,3840,Morwell Presbyterian Church,Christian
+"80 Henry St, Traralgon VIC 3844, Australia","Now Church Church VIC,Australia",-38.1969946,146.5222647,3844,Now Church Church,Christian
+"453 Raymond St, Sale VIC 3850, Australia","Anglican Diocese of Gippsland Church VIC,Australia",-38.103816,147.064965,3850,Anglican Diocese of Gippsland Church,Christian
+"Princes Hwy & Cobains Rd, Sale VIC 3850, Australia","Sale Baptist Church VIC,Australia",-38.0854008,147.0692395,3850,Sale Baptist Church,Christian
+"103 Bairnsdale-Dargo Rd, Bairnsdale VIC 3875, Australia","Bairnsdale church of Christ Church VIC,Australia",-37.8409686,147.576981,3875,Bairnsdale church of Christ Church,Christian
+"90 Jones Rd, Eagle Point VIC 3878, Australia","Oikos Home Churches Church VIC,Australia",-37.9175282,147.6736683,3878,Oikos Home Churches Church,Christian
+"141 Princes Hwy, Lakes Entrance VIC 3909, Australia","Lakes Entrance Baptist Church VIC,Australia",-37.8649222,148.0203816,3909,Lakes Entrance Baptist Church,Christian
+"185 North Rd, Langwarrin VIC 3910, Australia","Langwarrin Pearcedale Anglican Church VIC,Australia",-38.164565,145.189363,3910,Langwarrin Pearcedale Anglican Church,Christian
+"99 The Crescent, Tyabb VIC 3913, Australia","Western Port Christian Family Church VIC,Australia",-38.2611304,145.1914243,3913,Western Port Christian Family Church,Christian
+"370 Craigie Rd, Mount Martha VIC 3934, Australia","New Peninsula Church VIC,Australia",-38.265132,145.068079,3934,New Peninsula Church,Christian
+"4 Mine Rd, Korumburra VIC 3950, Australia","Southern Hills AOG Church VIC,Australia",-38.4344404,145.8249659,3950,Southern Hills AOG Church,Christian
+"195 Hallam Rd, Lynbrook VIC 3975, Australia","United Pentecostal Church Church VIC,Australia",-38.0454493,145.2640349,3975,United Pentecostal Church Church,Christian
+"49-51 Cameron St, Cranbourne East VIC 3977, Australia","Deeper Christian Life Ministry Church VIC,Australia",-38.1158543,145.2891115,3977,Deeper Christian Life Ministry Church,Christian
+"129 Sladen St, Cranbourne VIC 3977, Australia","St Agathas Parish Church VIC,Australia",-38.1118925,145.2784449,3977,St Agathas Parish Church,Christian
+"69 Wadhurst Dr, Boronia VIC 3155, Australia","Shree Swaminarayan Temple, Boronia VIC,Australia",-37.866798,145.2540021,3155,"Shree Swaminarayan Temple, Boronia VIC,Australia",Hindu
+"60 Heaths Ct, Mill Park VIC 3082, Australia","BAPS Swami Narayan Temple, Mill park VIC,Australia",-37.6570856,145.0834525,3082,"BAPS Swami Narayan Temple, Mill park VIC,Australia",Hindu
+"76 Albert St, Mordialloc VIC 3195, Australia","Aumsai Sanstan Temple VIC,Australia",-38.0081363,145.0883334,3195,"Aumsai Sanstan Temple VIC,Australia",Hindu
+"3-5 Princes Domain Dr, Hallam VIC 3803, Australia","Vaishnav Sangh ?C Shreenathji Temple VIC,Australia",-38.004326,145.265185,3803,Vaishnav Sangh Shreenathji Temple,Hindu
+"32 Halley Ave, Camberwell VIC 3124, Australia","Shree Shirdi Sai Mandir , Camberwell VIC,Australia",-37.8469399,145.0723683,3124,Shree Shirdi Sai Mandir ,Hindu
+"52 Boundary Rd, Carrum Downs VIC 3201, Australia","Shri Shiva Vishnu Temple, Carrum Downs VIC,Australia",-38.0832725,145.1774165,3201,Shri Shiva Vishnu Temple,Hindu
+"23 David St, Brunswick VIC 3056, Australia","Melbourne Buddhist Centre VIC,Australia",-37.7704587,144.9622555,3056,Melbourne Buddhist Centre ,Hindu
+"25 McCarthy Rd, Monbulk VIC 3793, Australia","Kadampa Meditation Centre Melbourne VIC,Australia",-37.863707,145.396971,3793,Kadampa Meditation Centre ,Hindu
+"Magpie Ln, East Warburton VIC 3799, Australia","Buddha Bodhivana Monastery VIC,Australia",-37.7299064,145.7634887,3799,Buddha Bodhivana Monastery ,Chinese
+"536-540 Springvale Rd, Springvale VIC 3171, Australia","Bright Moon Buddhist Society VIC,Australia",-37.9740937,145.1472259,3171,Bright Moon Buddhist Society ,Chinese
+"329-335 Greens Rd, Keysborough VIC 3173, Australia","Dhamma Sarana Temple VIC,Australia",-38.010066,145.1804988,3173,Dhamma Sarana Temple ,Chinese
+"42 Rutland Rd, Box Hill VIC 3128, Australia","Fo Guang Shan Er You Temple VIC,Australia",-37.8203013,145.126442,3128,Fo Guang Shan Er You Temple,Chinese
+"20 Joseph Rd, Footscray VIC 3011, Australia","Heavenly Queen?Temple VIC,Australia",-37.7987173,144.9141892,3011,Heavenly Queen Temple ,Chinese
